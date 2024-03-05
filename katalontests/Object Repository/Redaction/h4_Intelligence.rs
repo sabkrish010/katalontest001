@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Intelligence</name>
+   <tag></tag>
+   <elementGuidId>c1c171b3-73b2-4c6a-be4c-e5fdd141d249</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h4[@id='searchResult' and contains(text(),'Intelligence')])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#result-content-2 > div.flex.items-center.justify-between.gap-x-2 > div.flex.items-center.justify-start.gap-x-2.min-w-0 > #searchResult</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>b3ae4931-e016-449f-940f-6d6320d3c863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-medium leading-6 text-gray-900 truncate</value>
+      <webElementGuid>c70c9a9f-425f-4cb1-95ea-7a335470bc01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchResult</value>
+      <webElementGuid>aeec4b84-bceb-4e82-8620-73f66209b312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: (item.Register()||'') + ' | ' + (item.Urn()||'') + ' | ' + (item.RecordTitle()||'')</value>
+      <webElementGuid>2722432c-a4dd-478b-b1f0-2149f7409563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Investigation | 37 | Case and disclosure witness list - Arnold Clarkton</value>
+      <webElementGuid>229b2dd5-009b-4e55-bc8e-dbf19c5ba442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result-content-2&quot;)/div[@class=&quot;flex items-center justify-between gap-x-2&quot;]/div[@class=&quot;flex items-center justify-start gap-x-2 min-w-0&quot;]/h4[@id=&quot;searchResult&quot;]</value>
+      <webElementGuid>31e19f93-d365-4e26-be6c-8230c86e7189</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//h4[@id='searchResult'])[3]</value>
+      <webElementGuid>846e9ca3-ec2e-4ed2-91b3-738659b113c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='result-content-2']/div/div/h4</value>
+      <webElementGuid>7a047b2c-96e1-4d11-beb2-72ab715f775f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaction successful'])[2]/following::h4[1]</value>
+      <webElementGuid>8f8c2471-622b-4c51-ab00-5a246e8bc393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try again'])[2]/following::h4[1]</value>
+      <webElementGuid>b1e7cc04-c1a7-4f60-a75b-d99bec5277df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redact'])[8]/preceding::h4[1]</value>
+      <webElementGuid>d9a56de2-da16-402e-9ff8-9b5000d2a2f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[3]/preceding::h4[1]</value>
+      <webElementGuid>015e67bc-3e2c-4c95-8e25-aaf06843a9d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Investigation | 37 | Case and disclosure witness list - Arnold Clarkton']/parent::*</value>
+      <webElementGuid>5585903b-ca81-4e7d-a43d-f5a5f33e451b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/div/h4</value>
+      <webElementGuid>ce7cb17c-67bc-4e64-87ce-f4d4cae64969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[@id = 'searchResult']</value>
+      <webElementGuid>184ba233-ccff-4d7c-8e14-bb827cd538e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

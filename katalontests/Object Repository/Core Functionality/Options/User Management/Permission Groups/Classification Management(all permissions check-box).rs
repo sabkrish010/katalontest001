@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Classification Management(all permissions check-box)</name>
+   <tag></tag>
+   <elementGuidId>1834fa2e-c461-4639-9bec-1c3468bbac6f</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Clue - User Management/input.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'checkbox' and @data-bind = 'checked: checkedRow, click: function() { checkRow(!checkedRow()); return true; }']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Clue - User Management/input.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[1606]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>343c3668-1a95-4dd1-be31-cc96ca78ded4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>457b8af3-9fd1-4c22-8579-fe45c9eae24f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>checked: checkedRow, click: function() { checkRow(!checkedRow()); return true; }</value>
+      <webElementGuid>3c2677ad-db1f-404e-8943-c5559dc36893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/fieldset[1]/div[1]/div[1]/div[@class=&quot;ui-droppable&quot;]/div[2]/div[@class=&quot;list&quot;]/table[1]/tbody[1]/tr[25]/th[1]/input[1]</value>
+      <webElementGuid>52b5debb-7c60-4501-a921-25857a18292e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[1606]</value>
+      <webElementGuid>ce33e970-bb1e-454d-9100-9e3d4882169b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/fieldset/div/div/div[4]/div[2]/div/table/tbody/tr[25]/th/input</value>
+      <webElementGuid>a4d1b4e5-0430-4b9f-9984-b5e9caf3a103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[25]/th/input</value>
+      <webElementGuid>91310d71-da81-4b41-97bc-88ce8a7d6959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>bc3819bc-bdbc-4219-befb-3e2307c0f6e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

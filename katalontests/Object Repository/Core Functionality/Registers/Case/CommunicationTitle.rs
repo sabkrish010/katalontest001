@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CommunicationTitle</name>
+   <tag></tag>
+   <elementGuidId>bb35450d-5b4b-499a-93e2-52bc8e8aec3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/h3[4]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;recordTitle&quot;]/h3[4][count(. | //h3[@data-bind = concat(&quot;text: summary([&quot; , &quot;'&quot; , &quot;NumberOrAddress&quot; , &quot;'&quot; , &quot;])&quot;)]) = count(//h3[@data-bind = concat(&quot;text: summary([&quot; , &quot;'&quot; , &quot;NumberOrAddress&quot; , &quot;'&quot; , &quot;])&quot;)])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>5d86bdea-6b1c-4071-99f1-a151b0465b21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: summary(['NumberOrAddress'])</value>
+      <webElementGuid>c88c4418-bf7c-4363-a6e7-ef6ec0768bda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;recordTitle&quot;]/h3[4]</value>
+      <webElementGuid>5778a5a8-cbe9-432f-828e-60e64bc7453e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/h3[4]</value>
+      <webElementGuid>63c37c26-883f-4ea9-bfa9-b85a55a1f2ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::h3[1]</value>
+      <webElementGuid>e5fb4c2b-d09e-4695-bd91-5176d789b34f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C00003'])[1]/following::h3[2]</value>
+      <webElementGuid>b7838ec2-c591-4d1e-9d26-6228f93ba4e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Classification'])[1]/preceding::h3[1]</value>
+      <webElementGuid>c009bdff-4281-4a99-8d30-34e51b8b9bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='test123@gmail.com.']/parent::*</value>
+      <webElementGuid>10a95884-3e77-4eaf-b044-2492da06782f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3[4]</value>
+      <webElementGuid>8bf41417-c662-4259-924c-b14619f073b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

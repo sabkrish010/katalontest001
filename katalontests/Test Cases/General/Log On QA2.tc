@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Log on to system</description>
+   <name>Log On QA2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95cf7622-58c1-42bb-a645-8d3227e88da2</testCaseGuid>
+</TestCaseEntity>

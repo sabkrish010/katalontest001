@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Column Field(New View)</name>
+   <tag></tag>
+   <elementGuidId>a6757b6e-7bce-4fff-be84-cdbc9c648d31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ViewDetails_Columns_Columns_Data_5_']/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ViewDetails_Columns_Columns_Data_5__Field</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@name = 'Columns.Items[5].Field']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b958b08a-b29e-47ea-843c-39d958f1188c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Columns_Items_5__Field</value>
+      <webElementGuid>62f8133a-9a82-453c-8036-594d45ee8f84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Columns.Items[5].Field</value>
+      <webElementGuid>dbaa071b-c5f2-4062-99c4-fea6cfd715ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block w-full rounded-md border-gray-300 py-2 pl-3 pr-8 text-sm focus:border-sky-500 focus:outline-none focus:ring-sky-500</value>
+      <webElementGuid>7d1e28c8-ceb1-415a-ac88-55a29508ab66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Columns_Items_5__Field&quot;)</value>
+      <webElementGuid>7a63f7ab-2df5-449a-8002-11c7098bfcf0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ViewDetails_Columns_Columns_Data_5__Field']</value>
+      <webElementGuid>406c78eb-072d-44b7-8364-0c21c4c1d64e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ViewDetails_Columns_Columns_Data_5_']/div/select</value>
+      <webElementGuid>441ad1ec-b8a0-4dc9-b166-f31b591bd286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Field'])[8]/following::select[1]</value>
+      <webElementGuid>97890a77-da01-4f41-88ff-2c31c628a876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move down'])[6]/following::select[1]</value>
+      <webElementGuid>9aeb9925-4eb1-4964-8de5-734fdeb5614f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[7]/preceding::select[1]</value>
+      <webElementGuid>e4f739a1-60d4-405c-8e1f-94adc7081f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[7]/preceding::select[1]</value>
+      <webElementGuid>397897ac-516c-4b8b-a344-9e893eb2f899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/select</value>
+      <webElementGuid>cbfb32a1-8844-4a3c-91b1-dbe057234c1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ViewDetails_Columns_Columns_Data_5__Field' and @name = 'ViewDetails.Columns.Columns.Data[5].Field']</value>
+      <webElementGuid>a8483146-ae09-4e24-8a96-8d67f564f659</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

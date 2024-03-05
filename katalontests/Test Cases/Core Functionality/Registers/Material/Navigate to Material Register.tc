@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Material register</description>
+   <name>Navigate to Material Register</name>
+   <tag>Material</tag>
+   <comment></comment>
+   <testCaseGuid>514e2f8d-5099-4389-8d95-917341251488</testCaseGuid>
+</TestCaseEntity>

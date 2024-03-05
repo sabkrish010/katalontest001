@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Navigate to Staff register</name>
+   <tag>Staff</tag>
+   <comment></comment>
+   <testCaseGuid>f83cfedb-a455-4efd-ac83-0d4eb88a2606</testCaseGuid>
+</TestCaseEntity>

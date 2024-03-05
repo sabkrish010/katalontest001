@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to User Management</description>
+   <name>Navigate to User Management</name>
+   <tag>User Management</tag>
+   <comment></comment>
+   <testCaseGuid>a7c65003-fae5-4b63-bb3a-b15eb10b189e</testCaseGuid>
+</TestCaseEntity>

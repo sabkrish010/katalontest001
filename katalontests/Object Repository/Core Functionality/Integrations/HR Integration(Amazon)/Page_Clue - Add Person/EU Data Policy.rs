@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EU Data Policy</name>
+   <tag></tag>
+   <elementGuidId>e5fac273-d276-4434-8fc4-2832bff427b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.field.span8 > #Custom236</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Custom236']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4cf8f59a-b031-4fda-86e6-5aa92ed0a41d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combo-box editable</value>
+      <webElementGuid>2f62401a-3653-4af2-825b-af3c0ce69143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Custom236</value>
+      <webElementGuid>6e24e824-c897-46c0-a1ed-36c9751aa48d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Custom236</value>
+      <webElementGuid>5d7db8c2-6e75-4ba4-a819-8faba307ad90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Is this Person located in the EU?</value>
+      <webElementGuid>24dac4d2-793b-41ec-9d1a-3eb3e7fd293c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NoYes</value>
+      <webElementGuid>e32ececb-d8d1-43d5-903e-e7c2ac3839c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Custom236']</value>
+      <webElementGuid>41d6d17c-f447-40e8-b8eb-d12efece182b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Custom236']/div[2]/select</value>
+      <webElementGuid>f2a76448-a023-4cd7-acaf-79f65231e6ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EU Data Policy?'])[1]/following::select[1]</value>
+      <webElementGuid>8bd05ed8-798e-4f12-92f7-96864e188141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::select[1]</value>
+      <webElementGuid>aa81cd4c-2143-4bc1-bc2e-4ce2b0eb31d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee ID'])[1]/preceding::select[1]</value>
+      <webElementGuid>2aef196a-3215-422e-8f47-dd5c68d48bb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/select</value>
+      <webElementGuid>6baf5753-bfb9-441d-90af-d82dfb95e6ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'Custom236' and @name = 'Custom236' and @title = 'Is this Person located in the EU?']</value>
+      <webElementGuid>4bd4de29-8326-4435-8c0a-60797021e993</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

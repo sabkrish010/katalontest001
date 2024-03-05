@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Select_Person_28</name>
+   <tag></tag>
+   <elementGuidId>7009baa5-4286-4d8f-a12c-020f345c9ed5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Select')])[14]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td.action > a[title=&quot;Select this record&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;form3&quot;)/div[3]/div[@class=&quot;list maxWidth&quot;]/table[1]/tbody[1]/tr[2]/td[@class=&quot;action&quot;]/a[1][count(. | //*[@title = 'Select this record']) = count(//*[@title = 'Select this record'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3bde5372-dd82-4d75-9bd4-007f219d13b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>e8d61937-a6ba-4844-85f9-5558b96c35f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Select this record</value>
+      <webElementGuid>85f2b870-008a-4ff0-90bd-1c0a82baa753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>click: function () { $root.select($data); }</value>
+      <webElementGuid>c9586783-c362-4e22-bf61-a4185f6964cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>fc8e5641-f72b-4120-b61c-a5bb9f35fc78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form3&quot;)/div[3]/div[@class=&quot;list maxWidth&quot;]/table[1]/tbody[1]/tr[2]/td[@class=&quot;action&quot;]/a[1]</value>
+      <webElementGuid>7ce492ef-aeb3-41f0-8bf1-86052d57fd0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form3']/div[3]/div/table/tbody/tr[2]/td[9]/a</value>
+      <webElementGuid>9cbe6f05-422e-4bd1-9533-c5a4b744c1af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Select')])[14]</value>
+      <webElementGuid>301ec4e2-74a3-4e85-813a-13c0a51d5aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='stevenk'])[1]/following::a[1]</value>
+      <webElementGuid>264225fd-29c8-4cf8-9de7-37c12e8dc8d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mr Crash Terwilliker Dummy'])[1]/following::a[1]</value>
+      <webElementGuid>18967158-1bb7-4bb5-96d6-aca1c1a6a7aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mr Jack Reacher'])[1]/preceding::a[1]</value>
+      <webElementGuid>442b3203-1ae9-46bd-856d-a782ee469b0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clue'])[2]/preceding::a[1]</value>
+      <webElementGuid>29643685-a06d-4d8a-b33e-44c0f5c8a2c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[50]</value>
+      <webElementGuid>b4a68ea8-e3ad-4838-b3b2-aea40a30800c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[9]/a</value>
+      <webElementGuid>8f90677f-afbf-493f-964b-b8b271319874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Select this record']</value>
+      <webElementGuid>a6a578bc-9544-48a8-8ad2-51585f69f313</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

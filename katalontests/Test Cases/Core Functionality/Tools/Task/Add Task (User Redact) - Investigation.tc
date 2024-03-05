@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Populate the details of the Task record</description>
+   <name>Add Task (User Redact) - Investigation</name>
+   <tag>Task,Add</tag>
+   <comment></comment>
+   <testCaseGuid>d514776e-cfba-4f17-90f1-621bee6be8c4</testCaseGuid>
+</TestCaseEntity>

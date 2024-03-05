@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Summary</name>
+   <tag></tag>
+   <elementGuidId>e4b91760-b9f1-44b4-937d-e59045d999f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//textarea[@id = 'Summary' and @name = 'Summary' and @title = 'Summary' and (text() = 'Before a hysterical challenge recovers the sudden deadline. The packed telescope arrives outside the big twist. The anticipated paranoia finalizes a geometry. The lake moans.The lunchtime talks into the cheek dummy. The product axes a thorough wreck. The explicit potential overcomes beside the dealer. The grammatical glance bays over a well sabotage. Why does the woods institute spit behind the spy?' or . = 'Before a hysterical challenge recovers the sudden deadline. The packed telescope arrives outside the big twist. The anticipated paranoia finalizes a geometry. The lake moans.The lunchtime talks into the cheek dummy. The product axes a thorough wreck. The explicit potential overcomes beside the dealer. The grammatical glance bays over a well sabotage. Why does the woods institute spit behind the spy?')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>9a49a3db-ab62-44eb-ac36-c8285dd4060a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-box multi-line</value>
+      <webElementGuid>cb3f308a-6594-4b80-ae27-7516ab615b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>value: model.Summary</value>
+      <webElementGuid>a19af9c7-dddf-434c-bfe1-a11f7b715b1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Summary</value>
+      <webElementGuid>dc4a5bd5-db7f-4826-b7cb-a66eabc57ae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Summary</value>
+      <webElementGuid>e80f8a67-635b-41fa-b792-9ddd3b98cb81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Summary</value>
+      <webElementGuid>3b3b7688-08a4-46a9-aa4f-08206ee63287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Summary&quot;)</value>
+      <webElementGuid>7a12d3dd-cedb-4b99-8a61-d643b49113bf</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

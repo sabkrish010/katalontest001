@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete a record (Press the Delete button)</description>
+   <name>Delete Record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fea480fd-c2f0-4b36-a420-8bb42e282d5a</testCaseGuid>
+</TestCaseEntity>

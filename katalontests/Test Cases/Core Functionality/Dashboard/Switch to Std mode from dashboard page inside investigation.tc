@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Switch to Inv. mode on std. dashboard page</description>
+   <name>Switch to Std mode from dashboard page inside investigation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35f2319e-9c1c-4119-92d1-cccb27064c2c</testCaseGuid>
+</TestCaseEntity>

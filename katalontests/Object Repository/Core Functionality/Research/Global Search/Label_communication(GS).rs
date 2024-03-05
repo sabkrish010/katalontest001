@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Label_communication(GS)</name>
+   <tag></tag>
+   <elementGuidId>74dc23f5-2221-47f7-ae5a-fc3e8da4cf3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='searchLabel']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#searchLabel > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>807e5712-1932-4f6d-84e8-cfb1043bcabc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: (aggregation.Register === 'externaldocument' ? 'external attachment' : (aggregation.Register == 'fileregister' ? 'File' : aggregation.Register))</value>
+      <webElementGuid>dcfe4f73-5d40-49cf-b9ed-19c8cb4a53af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>communication</value>
+      <webElementGuid>ba553264-328b-4053-9c6e-4a1d674bd50a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/label[@id=&quot;searchLabel&quot;]/span[1]</value>
+      <webElementGuid>c7c6748b-9224-4bab-bf55-6f2693c044f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='searchLabel']/span</value>
+      <webElementGuid>c9b28917-051b-48c3-abc4-0e98010882d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/following::span[1]</value>
+      <webElementGuid>b2d6ee83-b37a-4c20-b765-16ce11a31965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select search records or attachments'])[1]/following::span[2]</value>
+      <webElementGuid>6ca5ad57-8697-4c53-abcb-a977e3b87331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File'])[2]/preceding::span[2]</value>
+      <webElementGuid>d76c8ff3-c5b2-4e16-ae8d-130604a65b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='material'])[1]/preceding::span[4]</value>
+      <webElementGuid>8c104a22-fd97-43ac-a31b-0dce13e971d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='communication']/parent::*</value>
+      <webElementGuid>9ed6ec2c-b80f-41fc-ac5b-dba475189a62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>02082f87-0fe6-4fab-a160-d3e325e94014</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

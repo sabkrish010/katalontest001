@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_File Preview</name>
+   <tag></tag>
+   <elementGuidId>62d64a4b-184c-44a9-b1a1-6a17f034d610</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ui-id-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-id-1</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@id = 'ui-id-1' and (text() = 'File Preview' or . = 'File Preview')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6fc9bab0-82e1-4a69-9d3d-ef0fbdc2d32a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ui-id-1</value>
+      <webElementGuid>1918d597-6b3a-4157-ab67-f68be224662c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dialog-title</value>
+      <webElementGuid>4363b1ab-b283-4eeb-815c-6677c25d8076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>File Preview</value>
+      <webElementGuid>44cb8f1a-003b-4663-9389-0c745b4877e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-1&quot;)</value>
+      <webElementGuid>c67acc36-6d12-4d8a-80fe-59c8d159fe1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='ui-id-1']</value>
+      <webElementGuid>ed6118df-716a-4478-a1a2-b8524e7de029</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'ui-id-1', '&quot;', ')')])[1]/following::span[1]</value>
+      <webElementGuid>cbbf3672-3db6-468d-b5d2-19d660d2ced7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clue Computing Company Ltd'])[1]/following::span[2]</value>
+      <webElementGuid>1214837a-1a54-455c-9025-5bf4bf3e0feb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::span[1]</value>
+      <webElementGuid>c6511624-7c2c-4e34-a571-9763f123e60d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[11]/preceding::span[3]</value>
+      <webElementGuid>6f8348da-2262-4fb1-bf7a-6ad6652ebd05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='File Preview']/parent::*</value>
+      <webElementGuid>7629d479-9e71-4257-8e52-1632d434d77d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/span</value>
+      <webElementGuid>51a321d3-2208-4c20-a2a0-4a699e45848d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'ui-id-1']</value>
+      <webElementGuid>0f3e28fd-152f-45c1-9df6-f5e2257a3e4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

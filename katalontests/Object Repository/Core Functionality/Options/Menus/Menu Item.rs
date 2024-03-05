@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu Item</name>
+   <tag></tag>
+   <elementGuidId>0bdc1615-86c1-4db8-a5ca-a8331bc6d9fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#selectmenuItems > option:nth-of-type(7)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//option[@value=''])[197]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>51a0e9b6-8429-4d9c-863e-0dff2e6733aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MenuItem</value>
+      <webElementGuid>ad5fe324-dce1-4baf-a378-8df664ddb7c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selectmenuItems&quot;)/option[7]</value>
+      <webElementGuid>c3ab67fd-3cc7-4104-82e2-ff982f489a1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//option[@value=''])[197]</value>
+      <webElementGuid>c9989fa2-65b2-450f-8d9f-62fbfff3f375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//select[@id='selectmenuItems']/option[7]</value>
+      <webElementGuid>2aa5e43f-13d9-4964-ac65-ad7ab96bd6b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='and:'])[1]/following::option[29]</value>
+      <webElementGuid>55aa96b9-0e94-4bd6-be58-5dad6b99eeae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Between:'])[1]/following::option[51]</value>
+      <webElementGuid>d9dc5cbb-f10b-4c13-9cd0-a54a193b84a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insertion option'])[1]/preceding::option[8]</value>
+      <webElementGuid>c1af7d9d-a45e-4cd1-9a14-ded297167032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Append after last entry'])[1]/preceding::option[8]</value>
+      <webElementGuid>a1abdf38-9a8e-4500-ba05-c9bb2ab09802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MenuItem']/parent::*</value>
+      <webElementGuid>1f433b77-7d81-4e4b-91bc-cf41a26e41ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/select/option[7]</value>
+      <webElementGuid>4ff0ee1c-d349-472d-8c41-5fe90284b4b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

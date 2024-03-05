@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Investigation Dropdown</name>
+   <tag></tag>
+   <elementGuidId>3b293653-80f7-455d-b96c-3d02b08f740e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/div[4]/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.combo-box</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@class = 'combo-box' and @aria-label = 'Select investigation' and @data-bind = concat(&quot;options: availableInvestigations, optionsText: &quot; , &quot;'&quot; , &quot;Title&quot; , &quot;'&quot; , &quot;, value: selectedInvestigation&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>473cd570-641d-4f42-accd-adb6f972fef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combo-box</value>
+      <webElementGuid>cafe88a5-fead-4dce-8d9a-bd4fec11c61a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Select investigation</value>
+      <webElementGuid>6558770d-a67d-40e0-8e64-b038ba0faf65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>options: availableInvestigations, optionsText: 'Title', value: selectedInvestigation</value>
+      <webElementGuid>8ecc0ed9-a48e-4c8a-8574-1766c76925f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[4]/div[@class=&quot;field span6 investigation&quot;]/select[@class=&quot;combo-box&quot;]</value>
+      <webElementGuid>fbd53af3-07ab-499a-8121-08a9d56ea027</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div[4]/div/select</value>
+      <webElementGuid>de09bd82-b29e-4317-b25e-35cec86e2560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investigation Details'])[1]/following::select[1]</value>
+      <webElementGuid>715d5aac-342e-4a17-8466-adffc5c9935e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::select[1]</value>
+      <webElementGuid>c8d4bb02-b24d-40ad-b0bd-7ef8fed8d52b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[11]'])[1]/preceding::select[1]</value>
+      <webElementGuid>12e1f531-d451-4909-ad74-67fed1454c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dark skies'])[2]/preceding::select[1]</value>
+      <webElementGuid>a0a74710-08cc-423c-9048-a0e677d4bf14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>1ab12306-dbfc-4279-b16e-47cacef2a496</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

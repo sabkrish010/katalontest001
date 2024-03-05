@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Use Create New Intelligence Record via link on Incident record</description>
+   <name>BBCreate Intelligence record via Add Intelligence link</name>
+   <tag>Incident Intelligence Copy &amp; Create New Record</tag>
+   <comment></comment>
+   <testCaseGuid>d463f956-22f8-4075-bd30-f4e03010dc47</testCaseGuid>
+</TestCaseEntity>

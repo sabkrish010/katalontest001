@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select Add Organisation</description>
+   <name>Select Add Organisation (Standard Mode)</name>
+   <tag>Organisation</tag>
+   <comment></comment>
+   <testCaseGuid>ed66551f-90b6-46a0-9db7-6c86c98e4cd4</testCaseGuid>
+</TestCaseEntity>

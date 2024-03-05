@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit and save a task record inside investigation</name>
+   <tag>Task Investigation Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c4d09aa1-7947-4c32-b998-3a1f440ad661</testCaseGuid>
+</TestCaseEntity>

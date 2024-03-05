@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit the record and set the retention date to today's date</description>
+   <name>Set retention date to current day</name>
+   <tag>Retention Date</tag>
+   <comment></comment>
+   <testCaseGuid>cd5b4aac-57b8-4d55-a9fa-ea1775e1c688</testCaseGuid>
+</TestCaseEntity>

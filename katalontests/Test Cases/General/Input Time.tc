@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input a time value into a time field</description>
+   <name>Input Time</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae9bb1af-cfa9-4612-97d7-a4b260a5aaa1</testCaseGuid>
+</TestCaseEntity>

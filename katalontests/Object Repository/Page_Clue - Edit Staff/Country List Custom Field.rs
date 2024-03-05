@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Country List Custom Field</name>
+   <tag></tag>
+   <elementGuidId>ca196ea3-b8da-43cf-8ff4-a53e47d30a04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.field.span8 > #Custom2107</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Custom2107']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>51265fb2-5a1a-427f-aa46-a45506db6acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combo-box editable</value>
+      <webElementGuid>4ed92db0-e369-47a2-8cc6-21227f9f4eef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>options: clue.lookup('0af0fbf4-1007-4c56-b169-282c0440359d', model.CustomFields()['Custom2107'], true), value: model.CustomFields()['Custom2107']</value>
+      <webElementGuid>80e796d9-827e-442b-b89c-692d3a3dc09d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a85c1846-f681-4a3d-9490-b15971030fd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-length</name>
+      <type>Main</type>
+      <value>The field Country List must be a string with a maximum length of 255.</value>
+      <webElementGuid>c33eaeca-9165-48dc-96a5-eff00dd082f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-length-max</name>
+      <type>Main</type>
+      <value>255</value>
+      <webElementGuid>f205bc3e-d66e-469b-a511-f09e5c893606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Custom2107</value>
+      <webElementGuid>15960cc6-45e4-47f0-b98f-f30ef401efda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Custom2107</value>
+      <webElementGuid>53e3ecd3-83dc-4972-8668-85028b3cdb36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>List of countries</value>
+      <webElementGuid>32b59d93-ab4e-4df2-8cbd-5549c3324bff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form1&quot;)/div[5]/fieldset[2]/ul[@class=&quot;custom_fields&quot;]/li[7]/div[@id=&quot;Custom2107&quot;]/div[@class=&quot;field span8&quot;]/select[@id=&quot;Custom2107&quot;]</value>
+      <webElementGuid>ea9c0ade-c4d2-4a57-9738-edd490350fac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Custom2107']</value>
+      <webElementGuid>d548723c-b766-40c3-bc24-44eab311702b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Custom2107']/div[2]/select</value>
+      <webElementGuid>434314da-ca34-422e-ac82-98b9b03e35d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country List'])[1]/following::select[1]</value>
+      <webElementGuid>4aeb3c2d-6e81-49f9-98e3-8966368bb367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='County List'])[1]/preceding::select[1]</value>
+      <webElementGuid>3779bd58-f280-4ac2-a979-2679162199cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div[2]/div[2]/select</value>
+      <webElementGuid>f35423a2-23d5-4420-9899-b9b1789731ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'Custom2107' and @name = 'Custom2107' and @title = 'List of countries']</value>
+      <webElementGuid>9c610234-3d00-4e73-af5a-d220dba7ff03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

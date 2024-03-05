@@ -1,0 +1,5802 @@
+{
+	"info": {
+		"_postman_id": "e11ec1d4-6908-4beb-b26b-79c8f4c4a77c",
+		"name": "API Tests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Delete",
+			"item": [
+				{
+					"name": "DELETE user-tags of a pre-charge decision request",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/68/user-tags/prasad",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"68",
+								"user-tags",
+								"prasad"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE user-tags of a defendant record in a case",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/defendants/7/user-tags/prasad",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"defendants",
+								"7",
+								"user-tags",
+								"prasad"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE user-tags of a submissions in a case record",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/submissions/1022/user-tags/prasad",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"submissions",
+								"1022",
+								"user-tags",
+								"prasad"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE user-tags to a classification in a case record",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/classifications/25511/user-tags/prasad",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"classifications",
+								"25511",
+								"user-tags",
+								"prasad"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DELETE user-tags of attachments of a case",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/attachments/33091/user-tags/prasad",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"attachments",
+								"33091",
+								"user-tags",
+								"prasad"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "GET",
+			"item": [
+				{
+					"name": "GET material to a PCD Request",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"CaseDecisionRequestId\": 67,\r\n  \"Selected\": true,\r\n  \"DefendantId\": 82707\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/67/supporting-material",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"67",
+								"supporting-material"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Outline to a PCD Request",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"CaseDecisionRequestId\": 67,\r\n  \"Type\": \"Interview Record\",\r\n  \"Subject\": \"Material added by api\",\r\n  \"Date\": \"2020-03-22\",\r\n  \"SentElectronically\": true\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/67/outlines/",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"67",
+								"outlines",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET material by ID in a PCD Request",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"CaseDecisionRequestId\": 67,\r\n  \"Selected\": true,\r\n  \"DefendantId\": 82707\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/67/supporting-material/43",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"67",
+								"supporting-material",
+								"43"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Outline by ID of a PCD Request",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"CaseDecisionRequestId\": 67,\r\n  \"Type\": \"Interview Record\",\r\n  \"Subject\": \"Material added by api\",\r\n  \"Date\": \"2020-03-22\",\r\n  \"SentElectronically\": true\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/67/outlines/23",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"67",
+								"outlines",
+								"23"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET PCD Requests in Case record",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"CaseDecisionRequestId\": 67,\r\n  \"Selected\": true,\r\n  \"DefendantId\": 82707\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET classifications by ID in a case record",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/classifications/25511",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"classifications",
+								"25511"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET submissions in a case record",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/investigations/30667/cases/40598/submissions/",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"investigations",
+								"30667",
+								"cases",
+								"40598",
+								"submissions",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET classifications in a case record",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/classifications/",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"classifications",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET user-tags  by name in a pre-charge decision request",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/68/user-tags/prasad",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"68",
+								"user-tags",
+								"prasad"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET user-tags of a defendant record in a case",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/defendants/7/user-tags",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"defendants",
+								"7",
+								"user-tags"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET PCD Request by ID",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"CaseDecisionRequestId\": 67,\r\n  \"Selected\": true,\r\n  \"DefendantId\": 82707\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/67/",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"67",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET attachments of a case",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad2\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/attachments",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"attachments"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET attachments by ID of a case",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad2\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/attachments/33091",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"attachments",
+								"33091"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Organisation record by ID",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/organisations/277",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"organisations",
+								"277"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET user-tags of attachments of a case",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/attachments/33091/user-tags/",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"attachments",
+								"33091",
+								"user-tags",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET submissions by ID in a case record",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/investigations/30667/cases/40598/submissions/1022",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"investigations",
+								"30667",
+								"cases",
+								"40598",
+								"submissions",
+								"1022"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Suspect by ID in a PCD Request",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \r\n    \"createdInvestigationId\": 30667,\r\n    \"requestingOfficerId\": 82718,\r\n    \"requestingOfficerName\": \"Mr Mo HARVEYS\",\r\n    \"requestDate\": \"2020-02-25T00:00:00\",\r\n    \"responseDate\": \"2020-02-24T00:00:00\",\r\n    \"requestStatus\": \"Draft\",\r\n    \"supervisingOfficerId\": 62668,\r\n    \"supervisingOfficerName\": \"David GALE\",\r\n    \"typeOfContact\": \"Face-To-Face\",\r\n    \"changes\": [],\r\n    \"id\": 23,\r\n    \"_links\": {\r\n        \"self\": {\r\n            \"href\": \"https://test.clue.co.uk/jersey/api/v2/cases/40598/pre-charge-decision-requests/23\"\r\n        }\r\n    }\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/67/suspects/45",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"67",
+								"suspects",
+								"45"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET User by ID",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Username\": \"prasad postapi\",\r\n  \"Email\": \"prasad.bathala@clue.co.uk\",\r\n  \"FullName\": \"PrasadB\",\r\n  \"PhoneNumber\": \"string\",\r\n  \"Description\": \"string\",\r\n  \"IDNumber\": \"1234\",\r\n  \"Password\": \"nimda_68442\",\r\n  \"DefaultHomePageComponentId\": 0,\r\n  \"InvalidLogonAttempts\": 0,\r\n  \"LastLogonDate\": \"2020-05-01\",\r\n  \"LastPasswordChangeDate\": \"2020-05-01\",\r\n  \"StartInInvestigationMode\": true,\r\n  \"StandardModeAccess\": true,\r\n  \"IsLocked\": true,\r\n  \"IsApiAccount\": true,\r\n  \"ApiKey\": \"string\",\r\n  \"StaffUrn\": \"string\",\r\n  \"SSOId\": \"string\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/admin/users/28",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"admin",
+								"users",
+								"28"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET all Sources",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \r\n                \"Type\": \"Dead Drop Payment\",\r\n                \"HowReported\": \"Approach To\",\r\n                \"Subject\": \"Incident POST4\",\r\n                \"creatorteam\":\"Intelligence Operations Management\",\r\n                \"Custom1595\": \"05/01/2020\"\r\n}\r\n"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Classification by ID",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"Custom Tag1\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40651/classifications/25520",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40651",
+								"classifications",
+								"25520"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Sources by ID",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \r\n                \"Type\": \"Dead Drop Payment\",\r\n                \"HowReported\": \"Approach To\",\r\n                \"Subject\": \"Incident POST4\",\r\n                \"creatorteam\":\"Intelligence Operations Management\",\r\n                \"Custom1595\": \"05/01/2020\"\r\n}\r\n"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/37",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"37"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Suspects in a PCD Request",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \r\n    \"createdInvestigationId\": 30667,\r\n    \"requestingOfficerId\": 82718,\r\n    \"requestingOfficerName\": \"Mr Mo HARVEYS\",\r\n    \"requestDate\": \"2020-02-25T00:00:00\",\r\n    \"responseDate\": \"2020-02-24T00:00:00\",\r\n    \"requestStatus\": \"Draft\",\r\n    \"supervisingOfficerId\": 62668,\r\n    \"supervisingOfficerName\": \"David GALE\",\r\n    \"typeOfContact\": \"Face-To-Face\",\r\n    \"changes\": [],\r\n    \"id\": 23,\r\n    \"_links\": {\r\n        \"self\": {\r\n            \"href\": \"https://test.clue.co.uk/jersey/api/v2/cases/40598/pre-charge-decision-requests/23\"\r\n        }\r\n    }\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/67/suspects",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"67",
+								"suspects"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET other-names child record of a Source record",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "API_Key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "API_User",
+								"value": "{{api_user}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Type\": \"Alias Name\",\r\n  \"Title\": \"Mr\",\r\n  \"Surname\": \"Roberts\",\r\n  \"Forenames\": \"Jack\",\r\n  \"DateOfBirth\": \"1991-10-12\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/8/other-names",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"8",
+								"other-names"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Record Of Contact childlist by ID of a Source record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "API_Key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "API_User",
+								"value": "{{api_user}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Method\": \"Email\",\r\n  \"ContactDateTime\": \"2020-10-12\",\r\n  \"Notes\": \"Why does a harmony fish?\",\r\n  \"ReferenceId\": 9,\r\n  \"InitiatedById\": 49,\r\n  \"AttachmentId\": 21\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/8/record-of-contact/10016",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"8",
+								"record-of-contact",
+								"10016"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Contact Preferences by ID of a Source record ",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "API_Key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "API_User",
+								"value": "{{api_user}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Method\": \"Email\",\r\n  \"Notes\": \"Does this premium artist snack?\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/8/contact-preferences/20",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"8",
+								"contact-preferences",
+								"20"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Skill childlist by ID of a Source record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "API_Key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "API_User",
+								"value": "{{api_user}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Skill\": \"Corporate Finance\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/8/skills/8",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"8",
+								"skills",
+								"8"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Tags of a Source record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "API_Key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "API_User",
+								"value": "{{api_user}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Method\": \"Email\",\r\n  \"ContactDateTime\": \"2020-10-12\",\r\n  \"Notes\": \"Why does a harmony fish?\",\r\n  \"ReferenceId\": 9,\r\n  \"InitiatedById\": 49,\r\n  \"AttachmentId\": 21\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/27/tags",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"27",
+								"tags"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET user-tags of a Source record",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "API_Key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "API_User",
+								"value": "{{api_user}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"Custom Tag1\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/34/user-tags/",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"34",
+								"user-tags",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET other-names child record of a Source record by ID",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "API_Key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "API_User",
+								"value": "{{api_user}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Type\": \"Alias Name\",\r\n  \"Title\": \"Mr\",\r\n  \"Surname\": \"Roberts\",\r\n  \"Forenames\": \"Jack\",\r\n  \"DateOfBirth\": \"1991-10-12\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/8/other-names/2",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"8",
+								"other-names",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET attachments by ID of a source record",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"warning": "This is a duplicate header and will be overridden by the Content-Type header generated by Postman.",
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "",
+									"type": "file",
+									"src": "/C:/Users/PrasadB/Downloads/MG9 Witness List_20201001091305.zip"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/42/attachments/25",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"42",
+								"attachments",
+								"25"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Assessment custom field collection",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\"reportTitle\": \"Mass vacciantion centres opened in 7 places across the country\",\r\n\"securityClassification\": \"Official\",\r\n\"reviewDateTime\": \"2017-09-07T11:48:11.75\",\r\n\"status\": \"Confirmed\",\r\n\"publicInterestImmunity\": true,\r\n\"overallSourceEvaluation\": \"1\",\r\n\"overallIntelligenceAssessment\": \"A\",\r\n\"overallHandlingCode\": \"P\",\r\n\"creatorTeam\": \"Intelligence Operations Management\",\r\n\"type\": \"Security\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/assessments/custom-fields",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"assessments",
+								"custom-fields"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET attachment of a record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"// example using pm.response.to.have\r",
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "apikey",
+							"apikey": [
+								{
+									"key": "key",
+									"value": "Katalon_API",
+									"type": "string"
+								},
+								{
+									"key": "value",
+									"value": "EA8A778924484604B044A4E7F1433CA5",
+									"type": "string"
+								},
+								{
+									"key": "in",
+									"value": "header",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/x-www-form-urlencoded"
+							},
+							{
+								"key": "API_User",
+								"type": "text",
+								"value": "{{api_user}}"
+							},
+							{
+								"key": "Api_key",
+								"type": "text",
+								"value": "{{api_key}}"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "",
+									"type": "file",
+									"src": []
+								}
+							]
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/persons/16/attachments",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"persons",
+								"16",
+								"attachments"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Images of a source record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"// example using pm.response.to.have\r",
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "apikey",
+							"apikey": [
+								{
+									"key": "key",
+									"value": "Katalon_API",
+									"type": "string"
+								},
+								{
+									"key": "value",
+									"value": "EA8A778924484604B044A4E7F1433CA5",
+									"type": "string"
+								},
+								{
+									"key": "in",
+									"value": "header",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/x-www-form-urlencoded"
+							},
+							{
+								"key": "API_User",
+								"type": "text",
+								"value": "{{api_user}}"
+							},
+							{
+								"key": "Api_key",
+								"type": "text",
+								"value": "{{api_key}}"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/8/images",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"8",
+								"images"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET images of an Assessment record by ID",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"warning": "This is a duplicate header and will be overridden by the Content-Type header generated by Postman.",
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "File",
+									"type": "file",
+									"src": "/C:/Users/PrasadB/Desktop/Images/Charles.jpg"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/assessments/19/images/2182",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"assessments",
+								"19",
+								"images",
+								"2182"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Images of a source record by Id",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"// example using pm.response.to.have\r",
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "apikey",
+							"apikey": [
+								{
+									"key": "key",
+									"value": "Katalon_API",
+									"type": "string"
+								},
+								{
+									"key": "value",
+									"value": "EA8A778924484604B044A4E7F1433CA5",
+									"type": "string"
+								},
+								{
+									"key": "in",
+									"value": "header",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/x-www-form-urlencoded"
+							},
+							{
+								"key": "API_User",
+								"type": "text",
+								"value": "{{api_user}}"
+							},
+							{
+								"key": "Api_key",
+								"type": "text",
+								"value": "{{api_key}}"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/8/images/3",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"8",
+								"images",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Person record by ID",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"documentType\": \"Ni No\",\r\n    \"documentNumber\": \"NK270909H\",\r\n    \"notes\": \"Added with just read permissions to the investigation\",\r\n    \"dateCreated\": \"2020-02-13T10:34:26.727\",\r\n    \"createdBy\": \"Allintelallworkflow\",\r\n    \"dateLastUpdated\": \"2020-02-13T10:35:11.977\",\r\n    \"lastUpdatedBy\": \"prasad_api\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/persons/82714",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"persons",
+								"82714"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET request PCD request",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"recordType\": \"Main Person Record\",\r\n    \"subtype\": \"N/A\",\r\n    \"reference\": \"API POST Clue team\",\r\n    \"record status\": \"Active\",\r\n    \"title\": \"Mr\",\r\n    \"surname\": \"Cody\",\r\n    \"preferredlanguage\":\"English\",\r\n    \"forename\": \"Archie\",\r\n  \t\"gender\": \"Male\",\r\n  \t\"religion\": \"Not applicable\",\r\n  \t\"nationality\":\"Unknown\",\r\n  \t\"occupation\": \"Not stated\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/23",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"23"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET links of a Source record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"// example using pm.response.to.have\r",
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "apikey",
+							"apikey": [
+								{
+									"key": "key",
+									"value": "Katalon_API",
+									"type": "string"
+								},
+								{
+									"key": "value",
+									"value": "EA8A778924484604B044A4E7F1433CA5",
+									"type": "string"
+								},
+								{
+									"key": "in",
+									"value": "header",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/x-www-form-urlencoded"
+							},
+							{
+								"key": "API_User",
+								"type": "text",
+								"value": "{{api_user}}"
+							},
+							{
+								"key": "Api_key",
+								"type": "text",
+								"value": "{{api_key}}"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "",
+									"type": "file",
+									"src": "/C:/Users/PrasadB/Downloads/TECHNOTE - IRN and FRN Endpoints (2).docx"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/8/links",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"8",
+								"links"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Person record by ID in an investigation",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/ICcode\",\r\n    \"value\": \"Unknown\"\r\n   \r\n  }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/investigations/10210/persons/",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"investigations",
+								"10210",
+								"persons",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Tags",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "API_USER",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/incidents/303/tags",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"incidents",
+								"303",
+								"tags"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Personal Documents test",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/ICcode\",\r\n    \"value\": \"Unknown\"\r\n   \r\n  }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/persons/82709/personal-documents",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"persons",
+								"82709",
+								"personal-documents"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Increasing number of rows returned in the results/response",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							},
+							{
+								"key": "x-clue-pagesize",
+								"value": "1000",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{clueurl}}/api/v2/persons?page=1",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"persons"
+							],
+							"query": [
+								{
+									"key": "page",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Gettings person records from Investigation",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{clueurl}}/api/v2/investigations/5/persons",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"investigations",
+								"5",
+								"persons"
+							]
+						},
+						"description": "Get all person records in the investigation"
+					},
+					"response": []
+				},
+				{
+					"name": "GET Attachment of a source record by Id",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "bearer"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "File",
+									"type": "file",
+									"src": "/C:/Users/PrasadB/Downloads/Screenshot.png"
+								},
+								{
+									"key": "name",
+									"value": "Screenshot",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/42/attachments/20",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"42",
+								"attachments",
+								"20"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET a particular Offence childlist of a defendant in a case",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/27/defendants/60/offences/101",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"27",
+								"defendants",
+								"60",
+								"offences",
+								"101"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET all Offences childlist of a defendant in a case",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/27/defendants/60/offences",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"27",
+								"defendants",
+								"60",
+								"offences"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET User list",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": " {\r\n    \"reportName\": \"Pre-Charge Decision\",\r\n    \"pDF\": true,\r\n    \"caption\": \"CM02 - II\",\r\n    \"dataSet\": {\r\n      \"PreChargeDecisionResponse\": [{\r\n         \"ItemId\": \"1\",\r\n         \"PTIURN\": [{\r\n            \"Force\": \"27\",\r\n            \"Unit\": \"PP\",\r\n            \"Number\": \"03022\",\r\n            \"Year\": \"19\"\r\n         }],\r\n         \"Decision\": [{\r\n            \"PCDConsultationID\": \"41A04F30-4283-452A-B382-F195667259B7\",\r\n            \"EvidentialTest\": \"Early Consultation\",\r\n            \"CaseAnalysisItem\": [\r\n               {\r\n                  \"CaseAnalysisHeading\":[ {\r\n                     \"ClassificationType\": \"CaseAnalysis\",\r\n                     \"ClassificationCode\": \"Heading\",\r\n                     \"ClassificationValue\":[ {\r\n                        \"ClassificationValueText\": \"BSUM\"\r\n                     }]\r\n                  }],\r\n                  \"CaseAnalysisText\": \"Brief Summary Text\"\r\n               },\r\n               {\r\n                  \"CaseAnalysisHeading\": [{\r\n                     \"ClassificationType\": \"CaseAnalysis\",\r\n                     \"ClassificationCode\": \"Heading\",\r\n                     \"ClassificationValue\": [{\r\n                        \"ClassificationValueText\": \"WIVI\"\r\n                     }]\r\n                  }],\r\n                  \"CaseAnalysisText\": \"Witness/Victim Issues\"\r\n               }\r\n            ],\r\n            \"InvestigationStage\": \"Post Arrest\",\r\n            \"AdviceMethod\": \"Electronic\",\r\n            \"SuspectDecision\":[ {\r\n               \"SuspectId\": \"63560\",\r\n               \"GeneralDecision\":[ {\r\n                  \"ClassificationType\": \"GeneralDecision\",\r\n                  \"ClassificationCode\": \"Response\",\r\n                  \"ClassificationValue\":[ {\r\n                     \"ClassificationValueText\": \"A\"\r\n                  }]\r\n               }],\r\n               \"OffenceDecision\": [\r\n                  {\r\n                     \"UniqueID\": \"43B6B4F1-FC71-4A50-AF66-C0E3D08E2489\",\r\n                     \"CJSCode\": [{\r\n                        \"Code\": [{\r\n                           \"Alternative\": [{\r\n                              \"ActOrSource\": \"TH\",\r\n                              \"Year\": \"68\"\r\n                           }],\r\n                           \"Reason\": \"010\"\r\n                        }],\r\n                        \"Qualifier\": \"A\"\r\n                     }],\r\n                     \"Description\": \"Attempt Theft\",\r\n                     \"Category\": \"Summary Only\",\r\n                     \"FromDate\": \"2019-09-15\"\r\n                  },\r\n                  {\r\n                     \"UniqueID\": \"00063560001\",\r\n                     \"CJSCode\": [{\r\n                        \"Code\": [{\r\n                           \"Alternative\": [{\r\n                              \"ActOrSource\": \"TH\",\r\n                              \"Year\": \"68\"\r\n                           }],\r\n                           \"Reason\": \"010\"\r\n                        }]\r\n                     }],\r\n                     \"Description\": \"Theft from a shop.\",\r\n                     \"Category\": \"Either Way\",\r\n                     \"FromDate\": \"2019-09-15\",\r\n                     \"Particulars\": [{\r\n                        \"Address\": [{\r\n                           \"AddressLine\": [\r\n                              \"11 Test Street\",\r\n                              \"Teston\",\r\n                              \"Testingshire\"\r\n                           ]\r\n                        }],\r\n                        \"ParticularsClassification\": [{\r\n                           \"ClassificationType\": \"Substitution\",\r\n                           \"ClassificationCode\": \"Location\",\r\n                           \"ClassificationValue\": [{\r\n                              \"ClassificationValueText\": \"Address\"\r\n                           }]\r\n                        }]\r\n                     }]\r\n                  }\r\n               ],\r\n               \"AdjudicationDecision\": [{\r\n                  \"ProposedUniqueId\": \"00063560001\",\r\n                  \"AdjudicationClassification\": [{\r\n                     \"ClassificationType\": \"AdjudicationDecision\",\r\n                     \"ClassificationCode\": \"Response\",\r\n                     \"ClassificationValue\": [{\r\n                        \"ClassificationValueText\": \"Accept\"\r\n                     }]\r\n                  }]\r\n               }]\r\n            }],\r\n            \"DutyProsecutor\": [{\r\n               \"FamilyName\": \"JONES\"\r\n            }],\r\n            \"PCDResponseDate\": \"2019-09-15\"\r\n         }]\r\n      }]\r\n   }\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/admin/users",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"admin",
+								"users"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "PATCH",
+			"item": [
+				{
+					"name": "https://test.clue.co.uk/jersey/api/v2/investigations/10210/persons/82709/personal-documents/10142",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/notes\",\r\n    \"value\": \"Not applicable\"\r\n   \r\n  }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/investigations/10210/persons/82709/personal-documents/10142",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"investigations",
+								"10210",
+								"persons",
+								"82709",
+								"personal-documents",
+								"10142"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH Other Names Childlsit",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n{\r\n\"op\": \"add\",\r\n\"path\": \"/dateOfBirth\",\r\n\"value\": \"1979-02-13T10:44:01\"\r\n \r\n}\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/persons/82709/other-names/25",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"persons",
+								"82709",
+								"other-names",
+								"25"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH Personal Documents",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/notes\",\r\n    \"value\": \"Not applicable\"\r\n   \r\n  }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/investigations/10210/persons/82709/personal-documents/10142",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"investigations",
+								"10210",
+								"persons",
+								"82709",
+								"personal-documents",
+								"10142"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH Case links",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n{\r\n \"op\": \"replace\",\r\n \"path\": \"/reason\",\r\n \"value\": \"Location\"\t\r\n},\r\n\r\n{\r\n\"op\": \"replace\",\r\n\"path\": \"/dateFrom\",\r\n\"value\": \"2020-02-11T00:00:00\"\t\r\n},\r\n{\r\n\"op\": \"replace\",\r\n\"path\": \"/dateTo\",\r\n\"value\": \"\"\t\r\n},\r\n{\r\n\"op\": \"replace\",\r\n\"path\": \"/notes\",\r\n\"value\": \"Temporarily closed down for repairs\"\t\r\n}\r\n\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40495/links/191208",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40495",
+								"links",
+								"191208"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH Person links",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n{\r\n \"op\": \"replace\",\r\n \"path\": \"/reason\",\r\n \"value\": \"Home Address\"\t\r\n},\r\n{\r\n \"op\": \"replace\",\r\n \"path\": \"/notes\",\r\n \"value\": \"Victim has lived at this property for last 6 years\"\t\r\n}\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/persons/82714/links/191202",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"persons",
+								"82714",
+								"links",
+								"191202"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH Address links",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n{\r\n \"op\": \"replace\",\r\n \"path\": \"/reason\",\r\n \"value\": \"Location\"\t\r\n},\r\n\r\n{\r\n\"op\": \"replace\",\r\n\"path\": \"/dateFrom\",\r\n\"value\": \"2020-02-11T00:00:00\"\t\r\n},\r\n{\r\n\"op\": \"replace\",\r\n\"path\": \"/notes\",\r\n\"value\": \"Temporarily closed down for repairs\"\t\r\n}\r\n\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/addresses/71307/links/191204",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"addresses",
+								"71307",
+								"links",
+								"191204"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH suspects in a PCD request",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/defendantId\",\r\n    \"value\": \"82708\"\r\n  }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/69/suspects/52",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"69",
+								"suspects",
+								"52"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH request to change an entry in PCD Request",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/typeOfContact\",\r\n    \"value\": \"Electronic\"\r\n   \r\n  }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/69",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"69"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH Outline of a PCD request",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/outline\",\r\n    \"value\": \"When will a mechanic circuitry figure the unset aunt?\"\r\n  }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/69/outlines/25",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"69",
+								"outlines",
+								"25"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH material of a PCD Request",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/type\",\r\n    \"value\": \"statement\"\r\n   }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/69/supporting-material/45",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"69",
+								"supporting-material",
+								"45"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH address record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/addressLine3\",\r\n    \"value\": \"Buckland Dinham\"\r\n  }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/addresses/81332",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"addresses",
+								"81332"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH Communication record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/type\",\r\n    \"value\": \"Work\"\r\n  }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/communications/20820",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"communications",
+								"20820"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH Classification by ID",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/classification\",\r\n    \"value\": \"TBC\"\r\n  }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40651/classifications/25521",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40651",
+								"classifications",
+								"25521"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH Case record",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/summary\",\r\n    \"value\": \"An electronics stirs. A changing transcript breathes around a trilogy. The elephant opens the unique fringe.?\"\r\n  }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH User information including affiliate",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[{\r\n\t\"op\": \"replace\",\r\n    \"path\": \"/Attributes/Affiliate\",\r\n    \"value\": \"Test\"\r\n}]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/admin/users/142",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"admin",
+								"users",
+								"142"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH an Organisation record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/notes\",\r\n    \"value\": \"The sister mends after the visible symphony\"\r\n  },\r\n\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/source\",\r\n    \"value\": \"API PATCH1\"\r\n  },\r\n\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/reason\",\r\n    \"value\": \"PATCH Reason\"\r\n  },\r\n\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/reviewPeriod\",\r\n    \"value\": \"1 Year\"\r\n  },\r\n\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/dateOfIncorporation\",\r\n    \"value\": \"2017-01-01T00:00:00\"\r\n  }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/organisations/277",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"organisations",
+								"277"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH an Organisation record in an investigation",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/notes\",\r\n    \"value\": \"The sister mends after the visible symphony\"\r\n  },\r\n  \r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/type\",\r\n    \"value\": \"Private Limited Company\"\r\n  },\r\n  \r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/reference\",\r\n    \"value\": \"API Update\"\r\n  },\r\n  \r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/status\",\r\n    \"value\": \"Active\"\r\n  },\r\n\r\n{\r\n    \"op\": \"replace\",\r\n    \"path\": \"/registrationNumber\",\r\n    \"value\": \"123456789\"\r\n  },\r\n  \r\n{\r\n    \"op\": \"replace\",\r\n    \"path\": \"/registrationNumber\",\r\n    \"value\": \"123456789\"\r\n  },\r\n  \r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/dateAccountsLastSubmitted\",\r\n    \"value\": \"12/07/2018\"\r\n  },\r\n\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/reason\",\r\n    \"value\": \"PATCH Reason\"\r\n  },\r\n\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/reviewPeriod\",\r\n    \"value\": \"1 Year\"\r\n  },\r\n\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/dateOfIncorporation\",\r\n    \"value\": \"2017-01-01T00:00:00\"\r\n  }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/investigations/30667/organisations/82743",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"investigations",
+								"30667",
+								"organisations",
+								"82743"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH - Staff record",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							},
+							{
+								"key": "Url",
+								"value": "https://test.clue.co.uk",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/title\",\r\n    \"value\": \"Mr\"\r\n  }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/staff/30480",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"staff",
+								"30480"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH - Mutliple fields on Staff record",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							},
+							{
+								"key": "Url",
+								"value": "https://test.clue.co.uk",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n{\r\n\"op\": \"replace\",\r\n\"path\": \"/isDeceased\",\r\n\"value\": \"true\"\r\n},\r\n\r\n{\r\n\"op\": \"replace\",\r\n\"path\": \"/reference\",\r\n\"value\": \"PATCH STAFF\"\r\n}\r\n]\r\n\r\n"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/staff/30480",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"staff",
+								"30480"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH Links of a Source record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"// example using pm.response.to.have\r",
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							},
+							{
+								"key": "API_User",
+								"type": "text",
+								"value": "{{api_user}}"
+							},
+							{
+								"key": "Api_key",
+								"type": "text",
+								"value": "{{api_key}}"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n{\r\n \"op\": \"replace\",\r\n \"path\": \"/reason\",\r\n \"value\": \"Test Update\"\t\r\n}\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/42/links/111",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"42",
+								"links",
+								"111"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH a Source record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"// example using pm.response.to.have\r",
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "API_Key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "API_User",
+								"value": "{{api_user}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n{\r\n \"op\": \"replace\",\r\n \"path\": \"/gender\",\r\n \"value\": \"Male\"\t\r\n},\r\n{\r\n\"op\": \"replace\",\r\n \"path\": \"/placeOfBirth\",\r\n \"value\": \"Los Angeles\"\r\n}\r\n]",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/42",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"42"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH custom fields on a case record",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "API_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "API_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n    {\r\n        \"op\": \"replace\",\r\n        \"path\": \"CustomFields\",\r\n        \"value\":{\"custom1564\": \"Test23\"} \r\n    }\r\n]",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PATCH Assessment  record",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n  {\r\n    \"op\": \"replace\",\r\n    \"path\": \"/title\",\r\n    \"value\": \"PATCH Title\"\r\n  }\r\n]"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/assessments/19",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"assessments",
+								"19"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "POST",
+			"item": [
+				{
+					"name": "POST Incidents WHW",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							},
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \r\n    \"type\": \"Welfare Concern\",\r\n    \"status\": \"Completed - No Further Action\",\r\n    \"takenBy\": \"Nadine Hawkes\",\r\n    \"dateReported\": \"2019-12-09\"\r\n   \r\n    }"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/incidents",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"incidents"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST PCD Request",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \r\n    \"createdInvestigationId\": 30667,\r\n    \"requestingOfficerId\": 82718,\r\n    \"requestingOfficerName\": \"Mr Mo HARVEYS\",\r\n    \"requestDate\": \"2020-02-25T00:00:00\",\r\n    \"responseDate\": \"2020-02-24T00:00:00\",\r\n    \"requestStatus\": \"Draft\",\r\n    \"supervisingOfficerId\": 62668,\r\n    \"supervisingOfficerName\": \"David GALE\",\r\n    \"typeOfContact\": \"Face-To-Face\",\r\n    \"changes\": [],\r\n    \"id\": 23,\r\n    \"_links\": {\r\n        \"self\": {\r\n            \"href\": \"https://test.clue.co.uk/jersey/api/v2/cases/40598/pre-charge-decision-requests/23\"\r\n        }\r\n    }\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Outline to a PCD request",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"CaseDecisionRequestId\": \"69\",\r\n  \"Title\": \"Brief Summary\",\r\n  \"Outline\": \"Should a disaster escape?\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/69/outlines",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"69",
+								"outlines"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST material added by API to a PCD Request",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"CaseDecisionRequestId\": 67,\r\n  \"Type\": \"Interview Record\",\r\n  \"Subject\": \"Material added by api\",\r\n  \"Date\": \"2020-03-22\",\r\n  \"SentElectronically\": true\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/67/supporting-material",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"67",
+								"supporting-material"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Investigator notes to an Investigationr record",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"type\":\"Test Post\",\n\"reference\":\"Test\",\n\"personnel\":\"Alan Doyle\",\n\"notes\": \"A beginner foams opposite a confidence! With an aircraft parades an utter aircraft. A transformation prosecutes beneath a repulsive password. The performance consults a photographic differential.The mechanic riots outside the killer.\"}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/investigations/30667/investigator-notes",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"investigations",
+								"30667",
+								"investigator-notes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Posting attchments to Intelligence record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"// example using pm.response.to.have\r",
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"auth": {
+							"type": "apikey",
+							"apikey": [
+								{
+									"key": "key",
+									"value": "Katalon_API",
+									"type": "string"
+								},
+								{
+									"key": "value",
+									"value": "EA8A778924484604B044A4E7F1433CA5",
+									"type": "string"
+								},
+								{
+									"key": "in",
+									"value": "header",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/x-www-form-urlencoded",
+								"type": "text"
+							},
+							{
+								"key": "API_User",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "Api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Location",
+								"value": "C:\\Users\\prasadb\\Desktop\\Prasad\\Images\\Car1.jpg",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "name",
+									"type": "file",
+									"src": "/C:/Users/prasadb/Desktop/Prasad/Images/Car1.jpg"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/intelligence/21336/attachments",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"intelligence",
+								"21336",
+								"attachments"
+							]
+						},
+						"description": "POST 'Attachments' to 'Intelligence' records"
+					},
+					"response": []
+				},
+				{
+					"name": "POST CMO02 reports",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": " {\r\n    \"reportName\": \"Pre-Charge Decision\",\r\n    \"pDF\": true,\r\n    \"caption\": \"CM02 - II\",\r\n    \"dataSet\": {\r\n      \"PreChargeDecisionResponse\": [{\r\n         \"ItemId\": \"1\",\r\n         \"PTIURN\": [{\r\n            \"Force\": \"27\",\r\n            \"Unit\": \"PP\",\r\n            \"Number\": \"03022\",\r\n            \"Year\": \"19\"\r\n         }],\r\n         \"Decision\": [{\r\n            \"PCDConsultationID\": \"41A04F30-4283-452A-B382-F195667259B7\",\r\n            \"EvidentialTest\": \"Early Consultation\",\r\n            \"CaseAnalysisItem\": [\r\n               {\r\n                  \"CaseAnalysisHeading\":[ {\r\n                     \"ClassificationType\": \"CaseAnalysis\",\r\n                     \"ClassificationCode\": \"Heading\",\r\n                     \"ClassificationValue\":[ {\r\n                        \"ClassificationValueText\": \"BSUM\"\r\n                     }]\r\n                  }],\r\n                  \"CaseAnalysisText\": \"Brief Summary Text\"\r\n               },\r\n               {\r\n                  \"CaseAnalysisHeading\": [{\r\n                     \"ClassificationType\": \"CaseAnalysis\",\r\n                     \"ClassificationCode\": \"Heading\",\r\n                     \"ClassificationValue\": [{\r\n                        \"ClassificationValueText\": \"WIVI\"\r\n                     }]\r\n                  }],\r\n                  \"CaseAnalysisText\": \"Witness/Victim Issues\"\r\n               }\r\n            ],\r\n            \"InvestigationStage\": \"Post Arrest\",\r\n            \"AdviceMethod\": \"Electronic\",\r\n            \"SuspectDecision\":[ {\r\n               \"SuspectId\": \"63560\",\r\n               \"GeneralDecision\":[ {\r\n                  \"ClassificationType\": \"GeneralDecision\",\r\n                  \"ClassificationCode\": \"Response\",\r\n                  \"ClassificationValue\":[ {\r\n                     \"ClassificationValueText\": \"A\"\r\n                  }]\r\n               }],\r\n               \"OffenceDecision\": [\r\n                  {\r\n                     \"UniqueID\": \"43B6B4F1-FC71-4A50-AF66-C0E3D08E2489\",\r\n                     \"CJSCode\": [{\r\n                        \"Code\": [{\r\n                           \"Alternative\": [{\r\n                              \"ActOrSource\": \"TH\",\r\n                              \"Year\": \"68\"\r\n                           }],\r\n                           \"Reason\": \"010\"\r\n                        }],\r\n                        \"Qualifier\": \"A\"\r\n                     }],\r\n                     \"Description\": \"Attempt Theft\",\r\n                     \"Category\": \"Summary Only\",\r\n                     \"FromDate\": \"2019-09-15\"\r\n                  },\r\n                  {\r\n                     \"UniqueID\": \"00063560001\",\r\n                     \"CJSCode\": [{\r\n                        \"Code\": [{\r\n                           \"Alternative\": [{\r\n                              \"ActOrSource\": \"TH\",\r\n                              \"Year\": \"68\"\r\n                           }],\r\n                           \"Reason\": \"010\"\r\n                        }]\r\n                     }],\r\n                     \"Description\": \"Theft from a shop.\",\r\n                     \"Category\": \"Either Way\",\r\n                     \"FromDate\": \"2019-09-15\",\r\n                     \"Particulars\": [{\r\n                        \"Address\": [{\r\n                           \"AddressLine\": [\r\n                              \"11 Test Street\",\r\n                              \"Teston\",\r\n                              \"Testingshire\"\r\n                           ]\r\n                        }],\r\n                        \"ParticularsClassification\": [{\r\n                           \"ClassificationType\": \"Substitution\",\r\n                           \"ClassificationCode\": \"Location\",\r\n                           \"ClassificationValue\": [{\r\n                              \"ClassificationValueText\": \"Address\"\r\n                           }]\r\n                        }]\r\n                     }]\r\n                  }\r\n               ],\r\n               \"AdjudicationDecision\": [{\r\n                  \"ProposedUniqueId\": \"00063560001\",\r\n                  \"AdjudicationClassification\": [{\r\n                     \"ClassificationType\": \"AdjudicationDecision\",\r\n                     \"ClassificationCode\": \"Response\",\r\n                     \"ClassificationValue\": [{\r\n                        \"ClassificationValueText\": \"Accept\"\r\n                     }]\r\n                  }]\r\n               }]\r\n            }],\r\n            \"DutyProsecutor\": [{\r\n               \"FamilyName\": \"JONES\"\r\n            }],\r\n            \"PCDResponseDate\": \"2019-09-15\"\r\n         }]\r\n      }]\r\n   }\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/persons/82709/reports",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"persons",
+								"82709",
+								"reports"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST affliliate information via API request",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Username\": \"prasadpost_api3\",\r\n  \"Email\": \"prasad.bathala@clue.co.uk\",\r\n  \"FullName\": \"PrasadB\",\r\n  \"PhoneNumber\": \"string\",\r\n  \"Description\": \"string\",\r\n  \"IDNumber\": \"1234\",\r\n  \"Password\": \"nimda_68442\",\r\n   \"attributes\": {\"Affiliate\": \"OGB\"}\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/admin/users",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"admin",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Users records",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Username\": \"prasad2_api\",\r\n  \"Email\": \"prasad.bathala2@clue.co.uk\",\r\n  \"FullName\": \"PrasadB2\",\r\n  \"PhoneNumber\": \"string\",\r\n  \"Description\": \"string\",\r\n  \"IDNumber\": \"1234\",\r\n  \"Password\": \"nimda_68442\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/admin/users",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"admin",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Offences to a defendant record in a case",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"dateCreated\": \"2020-04-30T15:35:46.213\",\r\n    \"createdBy\": \"Allintelallworkflow\",\r\n    \"urn\": \"117\",\r\n    \"caseId\": 40651,\r\n    \"defendantId\": 62691,\r\n    \"offenceSequenceNumber\": 1,\r\n    \"cjsOffenceCode\": \"AB03011\",\r\n    \"locationAddress\": \"4, Mount Pleasant Cottages, The Wells, London, N14 6AE\",\r\n    \"locationId\": 81335,\r\n    \"startDate\": \"2020-04-30T00:00:00\",\r\n    \"arrestDate\": \"2020-04-30T00:00:00\",\r\n    \"category\": \"Summary Only\",\r\n    \"charge\": \"Owner abandoning animal\",\r\n    \"decision\": \"Charge\",\r\n    \"verdict\": \"Guilty\",\r\n    \"deferred\": false,\r\n    \"deferredTerm\": 0,\r\n    \"discharge\": false,\r\n    \"dischargeAbsolute\": true,\r\n    \"dischargeTerm\": 0,\r\n    \"fine\": false,\r\n    \"fineAmount\": 0,\r\n    \"communityService\": false,\r\n    \"communityServiceTerm\": 0,\r\n    \"custodial\": false,\r\n    \"custodialTerm\": 0,\r\n    \"suspended\": false,\r\n    \"ancillaryOrdersTerm\": 0\r\n    \r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/defendants/3/offences",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"defendants",
+								"3",
+								"offences"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Offences to a defendant record in a case - Test2",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"dateCreated\": \"2020-05-21T17:35:46.213\",\r\n    \"createdBy\": \"Allintelallworkflow\",\r\n    \"urn\": \"117\",\r\n    \"caseId\": 40651,\r\n    \"defendantId\": 62691,\r\n    \"offenceSequenceNumber\": 1,\r\n    \"cjsOffenceCode\": \"AB03011\",\r\n    \"locationAddress\": \"4, Mount Pleasant Cottages, The Wells, London, N14 6AE\",\r\n    \"locationId\": 81335,\r\n    \"startDate\": \"2020-05-20T00:00:00\",\r\n    \"arrestDate\": \"2020-05-20T00:00:00\",\r\n    \"category\": \"Indictable\",\r\n    \"charge\": \"Destroy property (whatever value of damage - offence against Criminal Damage Act 1971 committed with other offence(s) of similar character)\",\r\n    \"decision\": \"Conditional Custom\",\r\n    \"verdict\": \"Guilty\",\r\n    \"deferred\": true,\r\n    \"deferredTerm\": 2,\r\n    \"DeferredUnits\": \"Years\",\r\n    \"discharge\": true,\r\n    \"dischargeAbsolute\": false,\r\n    \"dischargeTerm\": 2,\r\n    \"DeferredConditions\": \"No deferred conditions\",\r\n    \"fine\": true,\r\n    \"fineAmount\": 500,\r\n    \"FineConditions\": \"Pay within 14 days\",\r\n    \"communityService\": true,\r\n    \"communityServiceTerm\": 250,\r\n    \"CommunityServiceConditions\": \"No community service conditions\",\r\n    \"custodial\": true,\r\n    \"custodialTerm\": 2,\r\n    \"CustodialUnits\": \"Weeks\",\r\n    \"CustodialConditions\": \"No custodial conditions\",\r\n    \"suspended\": true,\r\n    \"AncillaryOrders\": \"Ancillary Orders test\",\r\n    \"ancillaryOrdersTerm\": 2,\r\n    \"AncillaryOrdersUnits\": \"Months\",\r\n    \"AncillaryOrdersConditions\": \"No ancillary conditions\"\r\n    \r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/defendants/3/offences",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"defendants",
+								"3",
+								"offences"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Task records (AllocatedTo Notification checked)",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"type\": \"Interview\",\r\n    \"status\": \"Allocated\",\r\n    \"source\": \"N/A\",\r\n    \"priority\": \"Low\",\r\n    \"subject\": \"Interview\",\r\n    \"startDate\": \"2020-01-07T00:00:00\",\r\n    \"duration\": 0,\r\n    \"result\": \"Test\",\r\n    \"allocatedByAsText\": \"AllIntelAllWorkflow\",\r\n    \"allocatedToAsText\": \"Intelligence Source Management \",\r\n    \"reviewPeriod\": \"1 Day\",\r\n    \"reviewDate\": \"2020-05-28T00:00:00\",\r\n    \"isTeam\": true,\r\n    \"notifyAllocatorOnCompletion\": true,\r\n    \"NotifyAllocatedTo\": true\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/tasks",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"tasks"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Attachments to a record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"auth": {
+							"type": "bearer"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"warning": "This is a duplicate header and will be overridden by the Content-Type header generated by Postman.",
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "file",
+									"type": "file",
+									"src": "/C:/Users/PrasadB/Desktop/Images/7805724.jpg"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/incidents/14/attachments",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"incidents",
+								"14",
+								"attachments"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST defendants to a case record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n                \"caseId\": 40654,\r\n                \"defendantId\": 62691,\r\n                \"defendantType\": \"Person\",\r\n                \"asn\": \"20/9999/16/16146K\",\r\n                \"solicitorFirmId\": 62666,\r\n                \"solicitorFirmName\": \"Justo Sit LLP\",\r\n                \"solicitorPersonNameId\": 82714,\r\n                \"solicitorPersonName\": \"Mr Mark NILES\",\r\n                \"caseType\": \"Charge\",\r\n                \"remandStatus\": \"Conditional Bail\",\r\n                \"bailDate\": \"2020-02-25T00:00:00\",\r\n                \"offenderType\": \"Deter Young Offender\",\r\n                \"ticOnFile\": false,\r\n                \"previousConvictions\": false,\r\n                \"previousCautions\": false,\r\n                \"previousReprimands\": false,\r\n                \"previousWarnings\": false,\r\n                \"prisonerOnLicence\": false,\r\n                \"typeOfCourt\": \"Magistrates\",\r\n                \"courtRoom\": 2,\r\n                \"hearingDateTime\": \"2020-02-27T15:00:00\"\r\n                \r\n                }"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40654/defendants/",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40654",
+								"defendants",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST person links to a case record (defendant)",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\"targetType\": \"Person\",\r\n\"targetId\": 62691,\r\n\"linkTypeId\": \"ecaec8d8-15df-424d-8aad-7ae8b62a3192\",\r\n\"reason\": \"Defendant\",\r\n\"reverseReason\": \"Defendant\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40654/links",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40654",
+								"links"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Source",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n \r\n  \"Reference\": \"API\",\r\n  \"RecordType\": \"Person\",\r\n  \"RecordStatus\": \"Active\",\r\n  \"FurtherDetails\": \"None\",\r\n  \"ReviewDate\": \"2020-10-09\",\r\n  \"Title\": \"Mr\",\r\n  \"Forename\": \"Biggs\",\r\n  \"Surname\": \"John\",\r\n  \"IsCalculatedDateOfBirth\": true,\r\n  \"DateOfBirth\": \"2020-10-09\",\r\n  \"PlaceOfBirth\": \"London\",\r\n  \"Gender\": \"Male\",\r\n  \"Nationality\": \"British\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Record Of Contact childlist to a Source record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "API_Key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "API_User",
+								"value": "{{api_user}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Method\": \"Email\",\r\n  \"ContactDateTime\": \"2020-10-12\",\r\n  \"Notes\": \"Why does a harmony fish?\",\r\n  \"ReferenceId\": 9,\r\n  \"InitiatedById\": 49,\r\n  \"AttachmentId\": 21\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/8/record-of-contact",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"8",
+								"record-of-contact"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Skill childlist to a Source record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "API_Key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "API_User",
+								"value": "{{api_user}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Skill\": \"Corporate Finance\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/8/skills",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"8",
+								"skills"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST attachments to a Source record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Location",
+								"value": "C:\\Users\\prasadb\\Desktop\\Prasad\\Images\\Car1.jpg",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "name",
+									"type": "file",
+									"src": "/C:/Users/PrasadB/Downloads/specification (23)"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/36/attachments",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"36",
+								"attachments"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Other Names childlist to a Source record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"// example using pm.response.to.have\r",
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "API_Key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "API_User",
+								"value": "{{api_user}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Type\": \"Alias Name\",\r\n  \"Title\": \"Mr\",\r\n  \"Surname\": \"Roberts\",\r\n  \"Forenames\": \"Jack\",\r\n  \"DateOfBirth\": \"1991-10-12\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/42/other-names",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"42",
+								"other-names"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Images to a Source record",
+					"request": {
+						"auth": {
+							"type": "bearer"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "File",
+									"type": "file",
+									"src": "/C:/Users/PrasadB/Desktop/Images/coffee-cup-books-home.webp"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/42/images",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"42",
+								"images"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST links to a Source record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"// example using pm.response.to.have\r",
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							},
+							{
+								"key": "API_User",
+								"type": "text",
+								"value": "{{api_user}}"
+							},
+							{
+								"key": "Api_key",
+								"type": "text",
+								"value": "{{api_key}}"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"TargetType\": \"Address\",\r\n  \"TargetId\": 7,\r\n  \"Reason\": \"Home\",\r\n  \"ReverseReason\": \"HomeReverse\",\r\n  \"Description\": \"Correspondence Address\",\r\n  \"DateFrom\": \"2020-10-12\",\r\n  \"DateTo\": \"2020-10-12\",\r\n  \"Notes\": \"string\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/8/links/",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"8",
+								"links",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST attachments to Record Of Contact by ID to a Source record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "API_Key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "API_User",
+								"value": "{{api_user}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "",
+									"type": "file",
+									"src": "/C:/Users/PrasadB/Desktop/Images/james-stewart-man-person-actor-53487.jpg"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/52/record-of-contact/10022/attachments",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"52",
+								"record-of-contact",
+								"10022",
+								"attachments"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Contact Preferences child record to a Source record ",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "API_Key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "API_User",
+								"value": "{{api_user}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Method\": \"Email\",\r\n  \"Notes\": \"Does this premium artist snack?\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/8/contact-preferences",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"8",
+								"contact-preferences"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Assessment Links",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"LinkTypeId\": \"3B3D30DD-1478-4F77-8FD8-22E0F7A114AC\",\r\n  \"TargetType\": \"Staff\",\r\n  \"TargetId\": 103422,\r\n  \"Reason\": \"Reviewed By\",\r\n  \"ReverseReason\": \"Staff Link\",\r\n  \"Description\": \"Test POST\",\r\n  \"DateFrom\": \"2021-01-18\",\r\n  \"DateTo\": \"2021-01-18\",\r\n  \"Notes\": \"Test Post\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/assessments/19/links",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"assessments",
+								"19",
+								"links"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "{{clueurl}}/api/v2/admin/users",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Username\": \"prasad3_api\",\r\n  \"Email\": \"prasad.bathala3@clue.co.uk\",\r\n  \"FullName\": \"PrasadB3\",\r\n  \"PhoneNumber\": \"string\",\r\n  \"Description\": \"string\",\r\n  \"IDNumber\": \"1234\",\r\n  \"Password\": \"nimda_68442\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/admin/users",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"admin",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST Personal Documents childlist",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"documentType\": \"Ni No\",\r\n    \"documentNumber\": \"NK270909H\",\r\n    \"notes\": \"Added with just read permissions to the investigation\",\r\n    \"dateCreated\": \"2020-02-13T10:34:26.727\",\r\n    \"createdBy\": \"Allintelallworkflow\",\r\n    \"dateLastUpdated\": \"2020-02-13T10:35:11.977\",\r\n    \"lastUpdatedBy\": \"prasad_api\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/investigations/10210/persons/82715/personal-documents",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"investigations",
+								"10210",
+								"persons",
+								"82715",
+								"personal-documents"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST suspects to a PCD Request",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"CaseDecisionRequestId\": 67,\r\n  \"Selected\": true,\r\n  \"DefendantId\": 82707\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/67/suspects",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"67",
+								"suspects"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "{{clueurl}}/api/v2/admin/users",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Username\": \"prasad3_api\",\r\n  \"Email\": \"prasad.bathala3@clue.co.uk\",\r\n  \"FullName\": \"PrasadB3\",\r\n  \"PhoneNumber\": \"string\",\r\n  \"Description\": \"string\",\r\n  \"IDNumber\": \"1234\",\r\n  \"Password\": \"nimda_68442\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/admin/users",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"admin",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST attachments to a Source record",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"// example using pm.response.to.have\r",
+									"pm.test(\"response is ok\", function () {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"auth": {
+							"type": "apikey",
+							"apikey": [
+								{
+									"key": "key",
+									"value": "Katalon_API",
+									"type": "string"
+								},
+								{
+									"key": "value",
+									"value": "EA8A778924484604B044A4E7F1433CA5",
+									"type": "string"
+								},
+								{
+									"key": "in",
+									"value": "header",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/x-www-form-urlencoded"
+							},
+							{
+								"key": "API_User",
+								"type": "text",
+								"value": "{{api_user}}"
+							},
+							{
+								"key": "Api_key",
+								"type": "text",
+								"value": "{{api_key}}"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "Name",
+									"value": "Test Attachment",
+									"type": "text"
+								},
+								{
+									"key": "Caption",
+									"value": "Attachment Caption",
+									"type": "text"
+								},
+								{
+									"key": "Original File Name",
+									"value": "Attachment File Name",
+									"type": "text"
+								},
+								{
+									"key": "",
+									"type": "file",
+									"src": []
+								}
+							]
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/persons/16/attachments",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"persons",
+								"16",
+								"attachments"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST attachments to an Assessment record",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"warning": "This is a duplicate header and will be overridden by the Content-Type header generated by Postman.",
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "File",
+									"type": "file",
+									"src": "/C:/Users/PrasadB/Desktop/Images/Highways England Route Diversion.pdf"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/assessments/19/attachments",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"assessments",
+								"19",
+								"attachments"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST images to an Assessment record",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"warning": "This is a duplicate header and will be overridden by the Content-Type header generated by Postman.",
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "File",
+									"type": "file",
+									"src": "/C:/Users/PrasadB/Desktop/Images/Charles.jpg"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/assessments/19/images",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"assessments",
+								"19",
+								"images"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "PUT",
+			"item": [
+				{
+					"name": "PUT user-tags to a PCD Request in Case record",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/pre-charge-decision-requests/68/user-tags/prasad",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"pre-charge-decision-requests",
+								"68",
+								"user-tags",
+								"prasad"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PUT user-tags to a defendant record in a case",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/defendants/7/user-tags/prasad",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"defendants",
+								"7",
+								"user-tags",
+								"prasad"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PUT user-tags to submissions in a case record",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/submissions/1022/user-tags/prasad",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"submissions",
+								"1022",
+								"user-tags",
+								"prasad"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Adding 'Teams' to investigation team for investigation posted via API",
+					"request": {
+						"auth": {
+							"type": "oauth2",
+							"oauth2": [
+								{
+									"key": "addTokenTo",
+									"value": "header",
+									"type": "string"
+								}
+							]
+						},
+						"method": "PUT",
+						"header": [
+							{
+								"key": "API_USER",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "API_KEY",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "x-clue-include-nulls",
+								"value": "true",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\"Name\":\"Intelligence Source Management\"  \r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/investigations/30554/investigation-team/teams",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"investigations",
+								"30554",
+								"investigation-team",
+								"teams"
+							]
+						},
+						"description": "Adding a team to Investigation team when the investigation was created via API"
+					},
+					"response": []
+				},
+				{
+					"name": "PUT user-tags to a classification in a case record",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"prasad\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/cases/40598/classifications/25511/user-tags/prasad",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"cases",
+								"40598",
+								"classifications",
+								"25511",
+								"user-tags",
+								"prasad"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Adding users to investigation posted via API",
+					"request": {
+						"auth": {
+							"type": "oauth2",
+							"oauth2": [
+								{
+									"key": "addTokenTo",
+									"value": "header",
+									"type": "string"
+								}
+							]
+						},
+						"method": "PUT",
+						"header": [
+							{
+								"key": "API_USER",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "API_KEY",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "x-clue-include-nulls",
+								"value": "true",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\"Username\":\"IntOps2W1\"  \r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/investigations/30556/investigation-team/users",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"investigations",
+								"30556",
+								"investigation-team",
+								"users"
+							]
+						},
+						"description": "Adding individual users to investigations added via API"
+					},
+					"response": []
+				},
+				{
+					"name": "PUT - Update the user details of a particular user by ID",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Username\": \"IntOps2W1\",\r\n  \"Email\": \"prasad.bathala@clue.co.uk\",\r\n  \"description\":\"Posted  via API\"\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/admin/users/33",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"admin",
+								"users",
+								"33"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PUT to replace all user information ",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status test\", function () {\r",
+									"    pm.response.to.have.status(201);\r",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "api_user",
+								"value": "{{api_user}}",
+								"type": "text"
+							},
+							{
+								"key": "api_key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Username\": \"prasadpost_api4\",\r\n  \"Email\": \"prasad.bathala@clue.co.uk\",\r\n  \"FullName\": \"PrasadB\",\r\n  \"PhoneNumber\": \"string\",\r\n  \"Description\": \"string\",\r\n  \"IDNumber\": \"1234\",\r\n  \"Password\": \"nimda_68442\",\r\n   \"attributes\": {\"Affiliate\": \"Test1\"}\r\n}"
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/admin/users/142",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"admin",
+								"users",
+								"142"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PUT user-tags to a Source record",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "API_Key",
+								"value": "{{api_key}}",
+								"type": "text"
+							},
+							{
+								"key": "API_User",
+								"value": "{{api_key}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"Value\": \"Custom Tag1\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{clueurl}}/api/v2/sources/34/user-tags/customTag1",
+							"host": [
+								"{{clueurl}}"
+							],
+							"path": [
+								"api",
+								"v2",
+								"sources",
+								"34",
+								"user-tags",
+								"customTag1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

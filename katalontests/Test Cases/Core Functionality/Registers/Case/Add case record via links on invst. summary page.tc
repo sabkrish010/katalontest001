@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add case record via links on invst. summary page i.e., Add Case pop-up</description>
+   <name>Add case record via links on invst. summary page</name>
+   <tag>Case Inv</tag>
+   <comment></comment>
+   <testCaseGuid>3f02a385-ff68-4f38-ba04-687c6834b0e0</testCaseGuid>
+</TestCaseEntity>

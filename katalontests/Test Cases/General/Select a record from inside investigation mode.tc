@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select a record from inside investigation mode</name>
+   <tag>View, Select a record</tag>
+   <comment></comment>
+   <testCaseGuid>2b5ffb74-f667-4c37-b278-1222726db98a</testCaseGuid>
+</TestCaseEntity>

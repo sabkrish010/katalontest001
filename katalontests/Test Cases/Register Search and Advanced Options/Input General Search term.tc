@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Type search term in register search box</description>
+   <name>Input General Search term</name>
+   <tag>SearchTerm</tag>
+   <comment></comment>
+   <testCaseGuid>ee7cba67-1689-4913-807f-8085b7a75bc7</testCaseGuid>
+</TestCaseEntity>

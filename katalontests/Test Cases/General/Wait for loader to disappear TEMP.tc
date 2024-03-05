@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Wait for loader to disappear (i.e. the throbber)</description>
+   <name>Wait for loader to disappear TEMP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a984ca88-5268-496c-91c4-febd58d4eaea</testCaseGuid>
+</TestCaseEntity>

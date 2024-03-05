@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add permissions to Classifications Management page</name>
+   <tag>Classification 7909</tag>
+   <comment></comment>
+   <testCaseGuid>ca67c8cb-eb4e-4952-a7cd-ba83713b5775</testCaseGuid>
+</TestCaseEntity>

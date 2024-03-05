@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Future Dates Warning(Notes)</name>
+   <tag></tag>
+   <elementGuidId>a2ecd50b-31a9-4eed-8d4a-8b80f7a8160f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.field-validation-error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noteCrudModal']/div/main/div[5]/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8d3e339d-e7ad-415b-9ecc-9d7bcca6f2c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field-validation-error</value>
+      <webElementGuid>535b15c9-b9ad-42e2-8d4c-ce002f07cf3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-valmsg-for</name>
+      <type>Main</type>
+      <value>OccurrenceDateTime</value>
+      <webElementGuid>e7ae7357-36e6-46a1-b7da-7d0129d67250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-valmsg-replace</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5c2ffc2e-264f-4353-bfe6-42d209afefbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The field OccurrenceDateTime does not permit future dates.</value>
+      <webElementGuid>5b43f88b-b7e3-4168-aa20-65416e5bbac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noteCrudModal&quot;)/div[@class=&quot;relative top-0 sm:top-10 mx-auto sm:shadow-xl sm:rounded-md bg-white max-w-3xl&quot;]/main[@class=&quot;max-h-[calc(100vh-7.1rem)] sm:max-h-[calc(100vh-12.8rem)] overflow-y-auto p-4&quot;]/div[@class=&quot;sm:grid sm:grid-cols-4 sm:items-start sm:gap-4 sm:border-t sm:first:border-t-0 sm:border-gray-200 sm:pt-5 sm:first:pt-0 last:pb-1 pb-5&quot;]/div[@class=&quot;mt-1 sm:mt-0 sm:col-span-2&quot;]/div[@class=&quot;gap-0.5&quot;]/span[@class=&quot;field-validation-error&quot;]</value>
+      <webElementGuid>3eabc64b-7a24-44b3-8eb9-26919db1ca85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noteCrudModal']/div/main/div[5]/div/div[2]/span</value>
+      <webElementGuid>d0b56313-f5eb-422e-9725-2b726c7432fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minute of Occurrence'])[1]/following::span[1]</value>
+      <webElementGuid>20b12266-684b-429c-872c-6e91af2d9d46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hour of Occurrence'])[1]/following::span[1]</value>
+      <webElementGuid>a2f17e60-fcdd-4449-b050-82034048b2ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[1]</value>
+      <webElementGuid>fe09b706-6197-49a2-a215-d51c10d31e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Another'])[1]/preceding::span[1]</value>
+      <webElementGuid>71935551-0b78-41b4-9695-0596c520777f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The field OccurrenceDateTime does not permit future dates.']/parent::*</value>
+      <webElementGuid>dbc16d08-a7ba-4408-ae0a-2702d1ba3008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/span</value>
+      <webElementGuid>9760f188-7ff1-44b7-b6d8-82c5544833f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

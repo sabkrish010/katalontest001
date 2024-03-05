@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_OccurrenceEndTime</name>
+   <tag></tag>
+   <elementGuidId>3e5163a4-0948-4586-adf0-225a7ef70809</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;OccurrenceEndTime&quot;)[count(. | //input[@id = 'OccurrenceEndTime' and @name = 'OccurrenceEndTime' and @title = 'End Time Occurred']) = count(//input[@id = 'OccurrenceEndTime' and @name = 'OccurrenceEndTime' and @title = 'End Time Occurred'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1009d429-3104-4157-839f-157db39639bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-box single-line</value>
+      <webElementGuid>662a150a-b363-454a-b3c1-d06bc8f825d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>value: model.OccurrenceEndTime, valueUpdate: 'afterkeydown', attr:{maxlength:'5'}, event: {blur:function(){model.OccurrenceEndTime(clue.makeValidShortTime(model.OccurrenceEndTime()));}, keydown: function(data, e){ return clue.maskShortTime(e, model.OccurrenceEndTime);} }</value>
+      <webElementGuid>3057879f-1a77-413a-9899-d32769eb53a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>OccurrenceEndTime</value>
+      <webElementGuid>0569a4f1-e976-4983-9430-bd107ad2c016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>OccurrenceEndTime</value>
+      <webElementGuid>3c64b970-51de-4e57-8654-f05c6652764a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>End Time Occurred</value>
+      <webElementGuid>4605d273-b5c0-4568-bfd4-6936aa9a0c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>dfc76e8a-e18d-4a4e-8b67-a50991b0f849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>ea917187-76d1-4646-a6f7-d30b8307661d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;OccurrenceEndTime&quot;)</value>
+      <webElementGuid>a0b26f72-584c-4180-820f-995aefe5562c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

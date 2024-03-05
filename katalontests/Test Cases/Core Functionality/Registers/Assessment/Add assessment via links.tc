@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a assessment record via links</description>
+   <name>Add assessment via links</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36320e7b-d051-4397-9673-10d789236b47</testCaseGuid>
+</TestCaseEntity>

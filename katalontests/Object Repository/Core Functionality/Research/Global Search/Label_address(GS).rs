@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Label_address(GS)</name>
+   <tag></tag>
+   <elementGuidId>7f7c48a0-1be4-4414-b3f9-1482854240c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#searchLabel > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='searchLabel']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eb7852f5-a0d3-4828-acab-edd9a9343304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: (aggregation.Register === 'externaldocument' ? 'external attachment' : (aggregation.Register == 'fileregister' ? 'File' : aggregation.Register))</value>
+      <webElementGuid>9c3b8233-8189-4a1c-b3d7-76c286c40fb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>address</value>
+      <webElementGuid>e0ff558b-6f90-4dfd-b0b8-40f08de9ca0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/label[@id=&quot;searchLabel&quot;]/span[1]</value>
+      <webElementGuid>f6b140b5-f038-4597-8675-4ec5f06b1d4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='searchLabel']/span</value>
+      <webElementGuid>afb7ab03-41fe-4ec5-9bfa-e085e2f72e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/following::span[1]</value>
+      <webElementGuid>6971d8c6-80d7-4509-8400-ae2a81b6bdd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select search records or attachments'])[1]/following::span[2]</value>
+      <webElementGuid>04f00b0a-3e17-470e-b73c-7ead8ceb2c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='case'])[1]/preceding::span[2]</value>
+      <webElementGuid>fedf6f94-5e59-41ff-be5e-dc5294115edb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='event'])[1]/preceding::span[4]</value>
+      <webElementGuid>4287b9b6-c20a-4fa8-86e1-6e456eddcfde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='address']/parent::*</value>
+      <webElementGuid>7308e8bb-8d06-4b31-9920-f181d68a1143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>5b77c6d1-1fe7-4635-87d6-7dd4d9ffbf33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

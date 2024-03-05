@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to person register using the top menu</description>
+   <name>Navigate to Person Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c52b3e4d-a3f4-4956-bf1f-f23677ee82b5</testCaseGuid>
+</TestCaseEntity>

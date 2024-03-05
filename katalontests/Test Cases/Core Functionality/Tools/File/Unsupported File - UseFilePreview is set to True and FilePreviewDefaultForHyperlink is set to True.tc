@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UseFilePreview - False&#xd;
+FilePreviewDefaultForHyperlink - True or False</description>
+   <name>Unsupported File - UseFilePreview is set to True and FilePreviewDefaultForHyperlink is set to True</name>
+   <tag>File</tag>
+   <comment></comment>
+   <testCaseGuid>1b6c63d3-c077-4efd-aea1-034677959d42</testCaseGuid>
+</TestCaseEntity>

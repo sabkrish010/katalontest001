@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the last print has been saved to report history when save a copy is checked.</description>
+   <name>Verify last entry in report history has been generated as PDF</name>
+   <tag>Print SaveToReportHistory Verify</tag>
+   <comment></comment>
+   <testCaseGuid>c53a6f73-3d5b-4a21-8d06-ec3ae801e5f1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EnteredBy (AddNotes Inv)</name>
+   <tag></tag>
+   <elementGuidId>2f75feff-cc52-47b9-b421-99f9643f6ed0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Personnel']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Personnel</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;Personnel&quot;)[count(. | //*[@data-bind = concat(&quot;options: clue.lookup(&quot; , &quot;'&quot; , &quot;01e7768e-9929-480d-bc4e-05a3c9a3de49&quot; , &quot;'&quot; , &quot;, model.Personnel()), value: model.Personnel&quot;) and @id = 'Personnel' and @title = 'Entered By']) = count(//*[@data-bind = concat(&quot;options: clue.lookup(&quot; , &quot;'&quot; , &quot;01e7768e-9929-480d-bc4e-05a3c9a3de49&quot; , &quot;'&quot; , &quot;, model.Personnel()), value: model.Personnel&quot;) and @id = 'Personnel' and @title = 'Entered By'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>options: clue.lookup('01e7768e-9929-480d-bc4e-05a3c9a3de49', model.Personnel()), value: model.Personnel</value>
+      <webElementGuid>9d451ab7-454b-44c2-8953-7d29b364dfe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Personnel</value>
+      <webElementGuid>62d350a9-c8fa-40a9-980a-b37b8ff97b14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Personnel</value>
+      <webElementGuid>ea8a9cce-d5cf-4607-b4f6-4d08e520a08e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Entered By</value>
+      <webElementGuid>cf62919f-02d4-4480-8e3b-4238f436eff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Personnel&quot;)</value>
+      <webElementGuid>72f25cd0-7074-4c00-b46f-892b00213bb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Personnel']</value>
+      <webElementGuid>5b2e9015-abe1-428f-b291-9dbdede76306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dialog1']/form/fieldset/ul/li/div[2]/select</value>
+      <webElementGuid>2dcd1ad9-61ea-4339-8f5b-9ec0f9012c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entered By'])[1]/following::select[1]</value>
+      <webElementGuid>78b09ae4-7758-44a7-b1ad-4188723edac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[2]/preceding::select[1]</value>
+      <webElementGuid>52b50928-deab-400d-bafa-9340fc182cc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/fieldset/ul/li/div[2]/select</value>
+      <webElementGuid>bec8ff81-9831-4576-80ca-ab2c4089f52d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'Personnel' and @name = 'Personnel' and @title = 'Entered By']</value>
+      <webElementGuid>0dc4d8f0-c625-429c-bd96-a6b557f33914</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to the Field Management page</description>
+   <name>Navigate to Field Management</name>
+   <tag>Fields</tag>
+   <comment></comment>
+   <testCaseGuid>e81d403e-f4bc-44a1-a868-66aa6387aed0</testCaseGuid>
+</TestCaseEntity>

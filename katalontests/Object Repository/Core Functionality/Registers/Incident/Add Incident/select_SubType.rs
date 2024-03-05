@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SubType</name>
+   <tag></tag>
+   <elementGuidId>fb6e80da-c835-4091-a251-e9c6e0a765ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;SubType&quot;)[count(. | //select[@id = 'SubType' and @name = 'SubType']) = count(//select[@id = 'SubType' and @name = 'SubType'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a254eba4-8333-4a63-894d-718a9d8baa98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combo-box editable</value>
+      <webElementGuid>8ed3e905-9477-41d7-b493-5acaa14dc64a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SubType</value>
+      <webElementGuid>372395dc-f0ca-461e-9b20-489b13b7d79f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>SubType</value>
+      <webElementGuid>009ce090-e78f-483a-828b-199c5a554963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Subtype</value>
+      <webElementGuid>5c8263bf-2c00-4c66-aa94-77835968d47f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SubType&quot;)</value>
+      <webElementGuid>1041d61a-e76a-402d-856a-6f29e852a0e9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

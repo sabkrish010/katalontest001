@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Error message shown when using search all fields on select file pop-up</name>
+   <tag>File Pop-Up Regression Search</tag>
+   <comment></comment>
+   <testCaseGuid>e69ab659-45c1-4ea0-8b6a-6e355f5c795c</testCaseGuid>
+</TestCaseEntity>

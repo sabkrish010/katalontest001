@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Redact results from incident record</description>
+   <name>Redact SearchTerms from Event record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>540b3335-a154-46bb-8171-fd8f873037bc</testCaseGuid>
+</TestCaseEntity>

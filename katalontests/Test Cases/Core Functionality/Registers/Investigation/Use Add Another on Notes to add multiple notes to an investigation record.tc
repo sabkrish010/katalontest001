@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Use Add Another on Notes to add multiple notes to an investigation record</name>
+   <tag>Incident Investigator Notes</tag>
+   <comment></comment>
+   <testCaseGuid>b1a7109e-f77c-42d4-9893-811af6a6e0d2</testCaseGuid>
+</TestCaseEntity>

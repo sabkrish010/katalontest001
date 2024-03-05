@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_FilterValue</name>
+   <tag></tag>
+   <elementGuidId>29de1034-2c1b-4f38-a0ef-33a6673d8fbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;advOptFilterValue0&quot;)[count(. | //input[@id = 'advOptFilterValue0']) = count(//input[@id = 'advOptFilterValue0'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f7695583-1d1e-49cd-9b60-129254a48e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>dce94d29-3767-40d5-b6ab-1d5b50adc1ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-box edit</value>
+      <webElementGuid>79debf6d-fac3-4060-a0ca-35d75f530d9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>advOptFilterValue0</value>
+      <webElementGuid>f2c19107-640c-499a-8368-081bbfdc0300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;advOptFilterValue0&quot;)</value>
+      <webElementGuid>9dc4f3a7-cc40-4d8e-ae72-096ec6dcfa9f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

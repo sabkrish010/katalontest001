@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>surname(SearchResults)</name>
+   <tag></tag>
+   <elementGuidId>124befaa-a696-4076-8f76-7384b4a9e2e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form1']/div/fieldset[2]/ul/li[2]/div[2]/table/tbody/tr[2]/td</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//td[(text() = 'Surname' or . = 'Surname')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>6fd2e46c-5b6d-4449-9f1a-36236cfde486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: $data[0]</value>
+      <webElementGuid>fdf77bfa-c8e8-4ed0-8aab-28494d62932b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Surname</value>
+      <webElementGuid>1e0d4eb9-54f7-4113-a9bc-bdbe9fe6c082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form1&quot;)/div[1]/fieldset[2]/ul[1]/li[2]/div[@class=&quot;list maxWidth&quot;]/table[1]/tbody[1]/tr[2]/td[1]</value>
+      <webElementGuid>a5c0e883-4429-45ef-8e95-228e2e558766</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form1']/div/fieldset[2]/ul/li[2]/div[2]/table/tbody/tr[2]/td</value>
+      <webElementGuid>adb3968a-1baf-43d9-bac8-c914288c08b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pamela'])[1]/following::td[1]</value>
+      <webElementGuid>6983f2fa-5bba-4627-b41d-d662f33e52f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='forename'])[1]/following::td[2]</value>
+      <webElementGuid>5015dc65-fc64-4b11-858c-5e4994f283ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GORCZANY'])[1]/preceding::td[1]</value>
+      <webElementGuid>6340a573-cbba-4ee4-9d11-d43b46a2592f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Fields'])[2]/preceding::td[2]</value>
+      <webElementGuid>58c4af0b-a6db-4347-9d3d-d4685958ec43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='surname']/parent::*</value>
+      <webElementGuid>5a80a5e9-ba3e-4ac1-997e-a8fc8df1d0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td</value>
+      <webElementGuid>11558597-59f5-4c9a-aa89-2be51aa605ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Details</name>
+   <tag></tag>
+   <elementGuidId>407574ee-b043-4d85-9050-e7ca771d805f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='LinksWrapper']/fieldset[3]/div[12]/div/table/tbody/tr/td[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>934f6f5d-4a9f-433c-abd3-29935fa8dd4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/amazon-training/Person/Details/0/20015</value>
+      <webElementGuid>68ae29ae-6ce6-4250-85f8-6cd382299746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>attr: { href: clue.replaceUrlNameFromType($parent.$type, $parents[1].targetDetailsUrl) + '/' + ($parent.$type === 'InvestigationLinkViewModel' ? $parent.Target.Id : $root.model.ContainerId()) + '/' + $parent.Target.Id }, text: clue.formatColumnWithDefault($data, $parent, true, true, 'Details'), click: function (m, e) { e.stopPropagation(); return true; }</value>
+      <webElementGuid>0a0b1b7d-8f9f-4f54-b831-dd24e75b5b35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LinksWrapper&quot;)/fieldset[3]/div[12]/div[@class=&quot;list maxWidth&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;clickable&quot;]/a[1]</value>
+      <webElementGuid>6a494378-ad47-49a3-8a99-d582887704cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='LinksWrapper']/fieldset[3]/div[12]/div/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>d102bb3c-6a53-48d1-af9c-7ee55989ccdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Details')]</value>
+      <webElementGuid>b53f99a8-4b76-45da-bd82-31ae8b8f2cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created in an Investigation. Restrictions apply from your current location.'])[2]/following::a[7]</value>
+      <webElementGuid>79d98232-ed4f-4f2d-ac53-24807ece1ee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='People'])[1]/following::a[7]</value>
+      <webElementGuid>82655a91-7ec4-456f-bcc2-c83b142464f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jrrogahn@example.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>aa0a6aef-bdd8-4c0d-a604-613e69bd9694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Joany Rogahn'])[1]/preceding::a[1]</value>
+      <webElementGuid>98ed635d-6ab9-46c1-bc43-3b8a1e431169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/amazon-training/Person/Details/0/20015')]</value>
+      <webElementGuid>a04965f5-5c15-4ce4-9c13-77344ff3ac44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>49d8522a-00c9-41f6-8d95-4df071f59e17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

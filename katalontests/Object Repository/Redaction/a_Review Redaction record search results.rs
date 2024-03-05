@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Review Redaction record search results</name>
+   <tag></tag>
+   <elementGuidId>8b86b250-005f-4393-a733-26b462d8a246</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='reviewRedactionSearchResult']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#reviewRedactionSearchResult</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>471d0b9e-c498-45b8-ae36-da99e36ad038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>6cf76d21-807a-4992-88df-2df56618655d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>reviewRedactionSearchResult</value>
+      <webElementGuid>3e7a3b07-ca77-46b2-a2a0-4e4dacefb6df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>click: () => clue.redaction.render($data.model, 20)</value>
+      <webElementGuid>58eacd14-3534-42fd-85b3-c097e97e5c44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Review Redaction record search results</value>
+      <webElementGuid>0bc06b87-0240-4882-8d8e-dc90131c67ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reviewRedactionSearchResult&quot;)</value>
+      <webElementGuid>7bbb9563-b32b-4569-a762-24da0c1945aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='reviewRedactionSearchResult']</value>
+      <webElementGuid>dda7bf11-7bb7-4df6-bcca-3f6f7bbd3068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form1']/div/fieldset[2]/ul/li[2]/div[3]/a</value>
+      <webElementGuid>633938a3-16d3-4ec5-b1bd-b4a10249afc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Review Redaction record search results')]</value>
+      <webElementGuid>5631d1a8-e234-4846-a43f-820145e82560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='James'])[1]/following::a[1]</value>
+      <webElementGuid>01c1773b-f00d-4c09-85a9-2dda77ebe358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forename'])[1]/following::a[1]</value>
+      <webElementGuid>3f4f87c4-fb19-4c9d-a770-3b4254ade03f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Fields'])[2]/preceding::a[3]</value>
+      <webElementGuid>ad2c0b2a-82df-4ced-97a7-1bd0a387578e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Review Redaction record search results']/parent::*</value>
+      <webElementGuid>6084eeed-a18c-4b72-ad00-a405ca85b466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>df6de2d3-bb38-47a5-bcb9-622b4d1dce6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div[3]/a</value>
+      <webElementGuid>3ff865c6-a92e-4e66-83b9-2c72c2e9dba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'reviewRedactionSearchResult']</value>
+      <webElementGuid>c626be2f-c8ac-4a61-981c-3c4b9a91ec23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

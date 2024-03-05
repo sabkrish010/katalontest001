@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to vehicle register using the top menu</description>
+   <name>Navigate to Vehicle Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2dd9305-e6df-4dbb-bbbc-cc17b34ef5a4</testCaseGuid>
+</TestCaseEntity>

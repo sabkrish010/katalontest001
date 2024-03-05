@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_AddressLine3</name>
+   <tag></tag>
+   <elementGuidId>244e3475-30cd-4e8e-aae9-dafd666c3ffa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;AddressLine3&quot;)[count(. | //*[@id = 'AddressLine3' and @title = 'Address Line 3']) = count(//*[@id = 'AddressLine3' and @title = 'Address Line 3'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>29322ea4-8160-40a5-87ea-fa717320cdc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-box single-line</value>
+      <webElementGuid>eb900b24-a35b-4e33-a80f-f71353d7837a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AddressLine3</value>
+      <webElementGuid>0a3bf14f-f43c-4513-b7bb-a25f328d8659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>AddressLine3</value>
+      <webElementGuid>5abaa5ca-dd09-4b10-ab03-8b9bdcded3f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Address Line 3</value>
+      <webElementGuid>103749c9-664a-4a4d-b6e1-7feace8f9ed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AddressLine3&quot;)</value>
+      <webElementGuid>1b6d5cf9-92c0-439a-9eec-9d9c0c6ae730</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

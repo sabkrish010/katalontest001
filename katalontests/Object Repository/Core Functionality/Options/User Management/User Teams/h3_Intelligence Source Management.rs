@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Intelligence Source Management</name>
+   <tag></tag>
+   <elementGuidId>9e9257d4-e4de-44cd-9ff0-c9a698613226</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/fieldset[2]/div/div/div[41]/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>76f2c526-e534-4864-9279-1cc120951f66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: team.name</value>
+      <webElementGuid>f6a2eba2-f5cc-4275-bda3-52664d819973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intelligence Source Management</value>
+      <webElementGuid>5a50a60a-1cfa-4a5b-92e2-ffcea3c98eab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/fieldset[2]/div[1]/div[1]/div[@class=&quot;ui-droppable&quot;]/div[1]/h3[1]</value>
+      <webElementGuid>357d995e-59f1-4bd1-a740-a76df96c0d20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/fieldset[2]/div/div/div[41]/div/h3</value>
+      <webElementGuid>f19a1943-0878-414e-9da0-a72288148ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User4131'])[7]/following::h3[1]</value>
+      <webElementGuid>6edd146e-76d7-4a42-b09d-49d8f6091deb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bindu'])[11]/preceding::h3[1]</value>
+      <webElementGuid>ca414dba-e547-4dd9-a719-002f2a20a3ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[41]/div/h3</value>
+      <webElementGuid>6576de90-5ed8-403d-8136-406cebc77d6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Error when adding records with permissions</description>
+   <name>Unable to add new records in registers with permissions enabled</name>
+   <tag>Permissions Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b7af4472-f6e4-4756-a2b3-bc0de7f31635</testCaseGuid>
+</TestCaseEntity>

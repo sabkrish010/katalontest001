@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Outcome</name>
+   <tag></tag>
+   <elementGuidId>21f9e3c0-bc93-4fd3-8ff8-66be1c294b41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#result-content-2 > div.flex.items-center.justify-between.gap-x-2 > div.flex.items-center.justify-start.gap-x-2.min-w-0 > #searchResult</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h4[@id='searchResult' and contains(text(),'Outcome')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>aaf6a7fc-763f-4861-868f-89de236416d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-medium leading-6 text-gray-900 truncate</value>
+      <webElementGuid>c7a03e05-6083-44cc-915c-0924087a225b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchResult</value>
+      <webElementGuid>65bcbb35-f49a-4adc-93b0-bb43c8314cee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: (item.Register()||'') + ' | ' + (item.Urn()||'') + ' | ' + (item.RecordTitle()||'')</value>
+      <webElementGuid>ea289a3b-d1c4-485a-a03d-e7fda52463de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Investigation | 37 | Case and disclosure witness list - Arnold Clarkton</value>
+      <webElementGuid>ac38b8da-4849-4bc9-82a6-cc811c7cef54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result-content-2&quot;)/div[@class=&quot;flex items-center justify-between gap-x-2&quot;]/div[@class=&quot;flex items-center justify-start gap-x-2 min-w-0&quot;]/h4[@id=&quot;searchResult&quot;]</value>
+      <webElementGuid>3b59b078-50f8-4041-a183-f4e2eb4dbb76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//h4[@id='searchResult'])[3]</value>
+      <webElementGuid>14672f37-cdfb-45f5-a7d9-014d77803b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='result-content-2']/div/div/h4</value>
+      <webElementGuid>cb5b48eb-ce68-4299-afc9-168cb116c773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaction successful'])[2]/following::h4[1]</value>
+      <webElementGuid>82ad1cc1-53eb-4a48-8847-16376e5d3490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try again'])[2]/following::h4[1]</value>
+      <webElementGuid>53185c17-a81d-40f5-a174-b2ddf239c63e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redact'])[8]/preceding::h4[1]</value>
+      <webElementGuid>4cfab663-915d-4cb8-9b06-f2c3ee727966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[3]/preceding::h4[1]</value>
+      <webElementGuid>a6d024eb-a051-44f1-b1ad-e83945e45f62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Investigation | 37 | Case and disclosure witness list - Arnold Clarkton']/parent::*</value>
+      <webElementGuid>3b49e253-61e1-44b4-9ef6-29891cd7c886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/div/h4</value>
+      <webElementGuid>eafe34b6-4c87-4ae1-b97a-cc5797b7676f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[@id = 'searchResult']</value>
+      <webElementGuid>d9c581d2-17c0-4234-9a91-710f1b4fb3b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

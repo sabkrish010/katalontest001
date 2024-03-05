@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_RecordType</name>
+   <tag></tag>
+   <elementGuidId>6ed75c8d-95b3-47db-ad2d-7f53e35a25c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id = 'RecordType' and @name = 'RecordType' and @title = 'Type' and (text() = 'ContractedEx Police OfficerServing Police Officer
+' or . = 'ContractedEx Police OfficerServing Police Officer
+')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>acf27a63-4412-42ff-816f-f7886ea7f97e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combo-box editable</value>
+      <webElementGuid>63906a44-9773-46d2-ae81-6117c7ce7229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>options: clue.filteredLookup('ed2ea6f0-e862-48a5-8873-00cd60a3d44a', model.RecordType), optionsText: 'Value', optionsValue: 'Value', value: model.RecordType,event: {change: function() {clue.SetSubtypeEmpty(model.SubtypeVisible,'783e3adf-ec82-42de-9331-4fd6e3947ad3', model.Subtype, model.RecordType);}}</value>
+      <webElementGuid>fd3e5f00-ddb1-4219-81e4-9c2c50fa8600</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>94731a51-dc09-4f5a-b304-7aaf159c6f56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-length</name>
+      <type>Main</type>
+      <value>The field Type must be a string with a maximum length of 255.</value>
+      <webElementGuid>0ed0031e-b86c-467e-96c3-b1831918e1a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-length-max</name>
+      <type>Main</type>
+      <value>255</value>
+      <webElementGuid>6e1f8600-ece4-4b2d-aefa-69b6a9e37723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>RecordType</value>
+      <webElementGuid>e2d6ed9c-c11f-4d8a-8f85-91d0c1e9bf82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>RecordType</value>
+      <webElementGuid>c682df08-e2c7-424a-8a35-4f953f22c40c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Type</value>
+      <webElementGuid>af48b33a-cdec-4fc6-b10d-a7ecaccb226b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RecordType&quot;)</value>
+      <webElementGuid>4ac90c61-d1b8-4e48-9a19-14dc9b061366</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

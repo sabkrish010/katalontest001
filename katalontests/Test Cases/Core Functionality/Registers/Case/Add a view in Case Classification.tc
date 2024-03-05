@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add a view in Case Classification</name>
+   <tag>Case Classification</tag>
+   <comment></comment>
+   <testCaseGuid>107ff72d-796e-4184-b167-cd79ef6da37c</testCaseGuid>
+</TestCaseEntity>

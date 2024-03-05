@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add a new investigation record</description>
+   <name>Add Investigation</name>
+   <tag>Add,Investigstion</tag>
+   <comment></comment>
+   <testCaseGuid>93a5108d-d9b5-4bed-b6f8-67f28d876aaf</testCaseGuid>
+</TestCaseEntity>

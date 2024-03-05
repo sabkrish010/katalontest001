@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit a record and add new incident record via links</description>
+   <name>Add Incident via links</name>
+   <tag>Incident Links</tag>
+   <comment></comment>
+   <testCaseGuid>9eebfc17-186d-4f64-8da5-0d4613216d03</testCaseGuid>
+</TestCaseEntity>

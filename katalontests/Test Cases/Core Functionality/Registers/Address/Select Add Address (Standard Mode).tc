@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select Add Address contol on Address register</description>
+   <name>Select Add Address (Standard Mode)</name>
+   <tag>Add Control</tag>
+   <comment></comment>
+   <testCaseGuid>fe6c3e05-7f53-454b-9215-1c20c3fbfc92</testCaseGuid>
+</TestCaseEntity>

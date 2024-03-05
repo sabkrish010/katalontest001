@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Details_Hyperlink</name>
+   <tag></tag>
+   <elementGuidId>84319fc8-9263-495e-864b-6814a71ebbac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@data-bind = concat(&quot;attr: { href: clue.replaceUrlNameFromType($parent.$type, $parents[1].targetDetailsUrl) + &quot; , &quot;'&quot; , &quot;/&quot; , &quot;'&quot; , &quot; + ($parent.$type === &quot; , &quot;'&quot; , &quot;InvestigationLinkViewModel&quot; , &quot;'&quot; , &quot; ? $parent.Target.Id : $root.model.ContainerId()) + &quot; , &quot;'&quot; , &quot;/&quot; , &quot;'&quot; , &quot; + $parent.Target.Id }, text: clue.formatColumnWithDefault($data, $parent, true, true, &quot; , &quot;'&quot; , &quot;Details&quot; , &quot;'&quot; , &quot;), click: function (m, e) { e.stopPropagation(); return true; }&quot;)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.clickable > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5bf63978-3fd8-4041-baff-1f6d6f254a67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>attr: { href: clue.replaceUrlNameFromType($parent.$type, $parents[1].targetDetailsUrl) + '/' + ($parent.$type === 'InvestigationLinkViewModel' ? $parent.Target.Id : $root.model.ContainerId()) + '/' + $parent.Target.Id }, text: clue.formatColumnWithDefault($data, $parent, true, true, 'Details'), click: function (m, e) { e.stopPropagation(); return true; }</value>
+      <webElementGuid>3a8de614-f684-41e6-896f-eb02caa74777</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='LinksWrapper']/fieldset[2]/div[9]/div/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>b6f0248a-34e5-4090-bb00-1035711a3302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'156')]</value>
+      <webElementGuid>75a60209-f646-46cb-8878-51b04bacca9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created in an Investigation. Restrictions apply from your current location.'])[1]/following::a[5]</value>
+      <webElementGuid>6e5fbf7d-d9f1-4363-8fcf-4d83776cef63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[2]/following::a[5]</value>
+      <webElementGuid>2db79851-30eb-457a-92ac-d253022b132c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='orchestrate jacques Qui aut minus voluptate culpa.'])[1]/preceding::a[1]</value>
+      <webElementGuid>fee0412f-f92c-4d62-a070-c5b50b6b5877</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IHW19YSL94'])[1]/preceding::a[1]</value>
+      <webElementGuid>2be04de3-0f58-4fad-934c-ce0f8bced03c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='156']/parent::*</value>
+      <webElementGuid>421b64e4-385d-47f4-b393-609c40f1b5bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/jersey/Information/Details/0/180')]</value>
+      <webElementGuid>f2b0583c-1d19-470a-a905-1f290ee9cea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>97605d49-145a-48a1-9570-16614f50a52e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

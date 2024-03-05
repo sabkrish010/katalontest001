@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create New Record</name>
+   <tag></tag>
+   <elementGuidId>196c4c8e-39b8-48cc-b79f-387d739472c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#form3 > p > #createNewRecord</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='createNewRecord'])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = '#' and @id = 'createNewRecord' and (text() = 'Create New Record' or . = 'Create New Record')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9e1b80c9-bee7-40bd-acb8-a9a918d0ae37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>8c04d6d7-0983-47cf-8932-fa78d0936859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>createNewRecord</value>
+      <webElementGuid>d16b656a-ce57-4741-b50c-e92f842b1c03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectCreateNew</value>
+      <webElementGuid>f95c834a-bb67-4a99-8ccf-b2f99729eeae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create New Record</value>
+      <webElementGuid>7ec0b5e1-8b86-4660-9af6-4587f64ffd28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form3&quot;)/p[1]/a[@id=&quot;createNewRecord&quot;]</value>
+      <webElementGuid>9a60bb95-fca0-4481-96ae-87dd416db27c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='createNewRecord'])[2]</value>
+      <webElementGuid>a9f07c7e-ab34-4cc7-aef7-259aaaeecde0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form3']/p/a</value>
+      <webElementGuid>ae408b16-ef88-404e-96aa-c2bd04b65065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Create New Record')])[2]</value>
+      <webElementGuid>3c999af1-da2f-42a3-a98f-38d0334bd17b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[3]/following::a[1]</value>
+      <webElementGuid>5770cd62-30dd-4350-b493-66d7b5c6c1fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Person'])[6]/following::a[1]</value>
+      <webElementGuid>9d14d619-f653-43a3-a4ff-4eb29ae4d1cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please correct the following:'])[4]/preceding::a[1]</value>
+      <webElementGuid>d1095f79-94f3-4f3c-a349-78bc106aede1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Criteria'])[2]/preceding::a[1]</value>
+      <webElementGuid>01ed0555-a97d-4c3a-8cef-86e35bd748f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[101]</value>
+      <webElementGuid>66eabd3e-b4ce-4fdf-9d71-7a0a15ea68b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]/form/p/a</value>
+      <webElementGuid>eff14330-9196-4b24-ac52-f4153f41b8b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'createNewRecord']</value>
+      <webElementGuid>e2052b82-24bd-470a-b912-776e60c6e142</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_A teamRedact</name>
+   <tag></tag>
+   <elementGuidId>2732effa-0441-4620-9be5-20839140238a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#CreatorTeam</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='CreatorTeam']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3aeca77b-199b-4ad9-b4fd-7b9c93c3cba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combo-box editable</value>
+      <webElementGuid>de99f524-2e24-4cfa-acb0-148272e65611</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>options: model.userStructuralTeams, value: model.CreatorTeam</value>
+      <webElementGuid>7de3dd6d-1688-4a7d-8385-ccf84e0f1698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>CreatorTeam</value>
+      <webElementGuid>9f89e686-387a-480f-9c28-1641c8115fe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>CreatorTeam</value>
+      <webElementGuid>2ba21447-f577-49cd-b947-f511a902b201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Owner Team</value>
+      <webElementGuid>74a1b578-d16d-4550-9226-a3b58116b4bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A teamRedact
+</value>
+      <webElementGuid>8ccd5bfc-91d9-4148-a0e0-3d3731c67435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CreatorTeam&quot;)</value>
+      <webElementGuid>9937c094-6d9a-410e-aca0-89d2a204741d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='CreatorTeam']</value>
+      <webElementGuid>770a4184-2647-4531-9398-4bbf166f67b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-id-3']/div/form/fieldset/ul/li[37]/div/div[2]/select</value>
+      <webElementGuid>669bc4b6-cf2d-4444-ba18-149144bcbaa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner Team'])[2]/following::select[1]</value>
+      <webElementGuid>83c958c2-c62c-4333-8717-6b9426e3dd59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Fields'])[3]/preceding::select[1]</value>
+      <webElementGuid>84ee8fa4-1c92-4d21-a172-53053894d61d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[37]/div/div[2]/select</value>
+      <webElementGuid>22c4d22c-bea5-4e4a-aeec-b67e24c57fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'CreatorTeam' and @name = 'CreatorTeam' and @title = 'Owner Team']</value>
+      <webElementGuid>df33843d-165d-4684-a9ca-4fe3f08756b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

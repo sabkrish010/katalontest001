@@ -1,0 +1,1 @@
+New folder above created for Katalon tests

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Assessment_RecordLink</name>
+   <tag></tag>
+   <elementGuidId>c6dda58b-390a-49b8-883b-63297c167bfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.clickable > a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;LinksWrapper&quot;)/fieldset[3]/div[2]/div[@class=&quot;list maxWidth&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;clickable&quot;]/a[1][count(. | //a[@data-testid = 'goToChildLink' and contains(@href, 'Assessment')]) = count(//a[@data-testid = 'goToChildLink' and contains(@href, 'Assessment')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='LinksWrapper']/fieldset[3]/div[2]/div/table/tbody/tr/td/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f611fda6-07bf-4c8f-a552-e8b9b9f0150c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>goToChildLink</value>
+      <webElementGuid>d0bd4dff-0574-4f3c-bb4f-63320051b915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Assessment</value>
+      <webElementGuid>b16f8435-863c-4e86-b1fd-ceb19298a76f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LinksWrapper&quot;)/fieldset[3]/div[2]/div[@class=&quot;list maxWidth&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;clickable&quot;]/a[1]</value>
+      <webElementGuid>0d354d6e-3eec-4226-86e9-b9bc9c00ef02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='LinksWrapper']/fieldset[3]/div[2]/div/table/tbody/tr/td/a</value>
+      <webElementGuid>0fbd91a2-f43d-4bb8-8940-96077926f0ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'25')]</value>
+      <webElementGuid>357794d7-76d0-4801-8feb-aa2d4e43fc14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tennis/Assessment/Details/0/31')]</value>
+      <webElementGuid>4a6553fb-861a-49f1-b772-f87956779d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>6b5a0854-0154-4f0e-8895-1576c84d2420</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

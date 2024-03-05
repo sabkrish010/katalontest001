@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Previous</name>
+   <tag></tag>
+   <elementGuidId>feb359ef-3179-42a7-b148-1e25a386cbed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Go to the previous page&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form2']/div[3]/div/table/tfoot/tr/td/a[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = '#' and (text() = 'Previous' or . = 'Previous')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2ac35093-545f-4274-aead-7dfdbee20738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>a2a31848-f311-4546-9de0-b1a72334fea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Go to the previous page</value>
+      <webElementGuid>7f190ba5-97d2-4f22-bdb6-df544178834c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Previous</value>
+      <webElementGuid>27746f94-75e6-468e-87f4-a1ca599db310</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form2']/div[3]/div/table/tfoot/tr/td/a[2]</value>
+      <webElementGuid>9d3611dc-e209-4ea4-98cd-0aafe2fde9e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Previous')]</value>
+      <webElementGuid>ac55c215-9a0a-4d22-bfc5-eb10eb1212cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Future Intranet Representative'])[1]/following::a[3]</value>
+      <webElementGuid>b9da06b7-0c28-484f-8798-56996a38efe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 11 to 11 of 11 records'])[1]/preceding::a[1]</value>
+      <webElementGuid>eafe6fc4-80c6-4a0a-aee2-8ac09f2ca88e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 11 to 11'])[1]/preceding::a[1]</value>
+      <webElementGuid>57d0d6f6-947c-4870-8a9a-503e11efec35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Previous']/parent::*</value>
+      <webElementGuid>9aab115b-6492-4b5b-a0c1-6a672c5c7bdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[30]</value>
+      <webElementGuid>d79bada2-d0cc-43cd-8a39-0de3c387193f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a[2]</value>
+      <webElementGuid>856490de-9a29-42ff-aca5-18a64f302370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Go to the previous page']</value>
+      <webElementGuid>9056e027-b61f-43b9-8d0e-b849b0d55f7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

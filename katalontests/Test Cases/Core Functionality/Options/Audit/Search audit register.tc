@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search audit register</name>
+   <tag>Search Audit</tag>
+   <comment></comment>
+   <testCaseGuid>af69c2fe-2fbd-474b-a158-b2b3d5ac8689</testCaseGuid>
+</TestCaseEntity>

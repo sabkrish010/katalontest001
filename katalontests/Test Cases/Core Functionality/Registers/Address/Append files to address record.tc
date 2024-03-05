@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Append files to address record</description>
+   <name>Append files to address record</name>
+   <tag>Address Print Append</tag>
+   <comment></comment>
+   <testCaseGuid>c8326084-9c3f-4790-9de5-4f5c6ef3503f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Prefix investigation number and exhibit reference to material title and location fields on MG6C</name>
+   <tag>MG6C</tag>
+   <comment></comment>
+   <testCaseGuid>a0d6a57d-b383-404a-8cd8-583c8bf54ebc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select a Filter drom the dropdown</description>
+   <name>Apply Organisation Filter</name>
+   <tag>Filter</tag>
+   <comment></comment>
+   <testCaseGuid>b79a9d85-1393-488a-89b1-b1d576c1c23e</testCaseGuid>
+</TestCaseEntity>

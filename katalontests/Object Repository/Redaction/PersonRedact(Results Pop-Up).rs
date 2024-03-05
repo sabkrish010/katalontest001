@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PersonRedact(Results Pop-Up)</name>
+   <tag></tag>
+   <elementGuidId>253e29a9-488e-45c1-8218-e463832fa991</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'searchResult' and (text() = 'Organisation' or . = 'Organisation')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h4[@id='searchResult'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>3cad710c-c0c8-48eb-b399-23722c4ca7ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchResult</value>
+      <webElementGuid>b9c4dcb9-2ee4-44ad-98b8-16d3a07b4a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: (item.Register()||'') + ' | ' + (item.Urn()||'') + ' | ' + (item.RecordTitle()||'')</value>
+      <webElementGuid>a3f3bde5-979b-4542-ac5b-33c4a6422b74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Organisation</value>
+      <webElementGuid>93b69007-3b14-4cad-8ea6-21e59d8ce610</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//h4[@id='searchResult'])[2]</value>
+      <webElementGuid>a3a07f35-715b-41cb-adf2-7f0f7bd8c009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='result-id-1']/div/div/div/h4</value>
+      <webElementGuid>f484d329-d791-4e47-b409-9a28fd80025b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaction successful'])[1]/following::h4[1]</value>
+      <webElementGuid>33ec647e-b90e-49ca-88e4-ba833aa1dd70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try again'])[1]/following::h4[1]</value>
+      <webElementGuid>b83a4971-d1e7-4aeb-9635-8f9b690d8b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redact'])[4]/preceding::h4[1]</value>
+      <webElementGuid>23d8ec1e-cb25-48ef-8981-be954a014023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[2]/preceding::h4[1]</value>
+      <webElementGuid>d16a7431-467c-43b0-83b7-394958c1b282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Organisation']/parent::*</value>
+      <webElementGuid>8ce95995-5325-4cfe-b119-a3df4980b737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/div/h4</value>
+      <webElementGuid>ed591c78-8ad3-47fc-81db-c4f07b34005c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[@id = 'searchResult']</value>
+      <webElementGuid>c55adc7a-b68d-4c8a-928f-7a17e5228d60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

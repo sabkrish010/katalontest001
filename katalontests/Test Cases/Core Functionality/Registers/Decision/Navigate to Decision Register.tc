@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Decision Register</description>
+   <name>Navigate to Decision Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee442342-339c-4c80-b4ea-212984fd0fba</testCaseGuid>
+</TestCaseEntity>

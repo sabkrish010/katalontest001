@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Open(RedactResultsPop-Up)</name>
+   <tag></tag>
+   <elementGuidId>570977c9-ebb4-4337-b419-44ee3b04769b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='opt-open']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1c07e8e5-e396-4c5b-9184-04919d5394fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-normal block truncate</value>
+      <webElementGuid>d013fa89-22e6-4cd8-9806-06f69764e7ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open</value>
+      <webElementGuid>ca01c89c-fca6-4ff6-b75a-b1293fca30d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropList_0&quot;)/li[@id=&quot;opt-open&quot;]/a[@class=&quot;block py-1.5 pl-4 pr-9 hover:bg-gray-50 focus:outline-none focus:bg-gray-50 hover:no-underline hover:text-gray-900&quot;]/span[@class=&quot;font-normal block truncate&quot;]</value>
+      <webElementGuid>f1929296-cfc4-4fb4-9908-ab3b3a823bbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='opt-open']/a/span</value>
+      <webElementGuid>2df544f5-973a-4dea-b65f-9a80cbf129d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/following::span[2]</value>
+      <webElementGuid>fb6dd7b5-e67f-4417-9a33-af4fecb49204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redact'])[1]/following::span[4]</value>
+      <webElementGuid>7eee3f92-719b-4b9f-a77c-52e78049c62a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::span[2]</value>
+      <webElementGuid>5d902a4e-f676-49e6-bdaf-8731076d00b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details > Notes:'])[1]/preceding::span[4]</value>
+      <webElementGuid>fc3574fb-5b9f-4665-8fc3-cad1467950d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Open']/parent::*</value>
+      <webElementGuid>c4331258-900f-468f-90e3-5327939b949e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>009958ef-8e15-43d0-8553-098f8f57a71e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

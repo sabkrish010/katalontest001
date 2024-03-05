@@ -1,0 +1,284 @@
+{
+	"info": {
+		"_postman_id": "f35fe11d-5c39-4cd5-815f-efebf438517a",
+		"name": "4023 - Delete Menu item ( Address Country)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18534666"
+	},
+	"item": [
+		{
+			"name": "Post Menu item for Menu",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const jsonData = pm.response.json();\r",
+							"\r",
+							"pm.test(\"response was successfull\", () => {\r",
+							"    pm.response.to.have.status(201);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Menu Item is created\", () => {\r",
+							"    pm.expect(jsonData).to.be.an(\"object\");\r",
+							"    pm.expect(jsonData.id).to.be.a(\"number\");\r",
+							"    pm.collectionVariables.set(\"newMenuItemId\", jsonData.id);\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableCookies": true
+			},
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "API_USER",
+						"value": "{{api_user}}",
+						"type": "default"
+					},
+					{
+						"key": "API_KEY",
+						"value": "{{api_key}}",
+						"type": "default"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"menuId\": {{menuid}},\r\n  \"Value\": \"Item {{$randomAlphaNumeric}}{{$randomAlphaNumeric}}{{$randomAlphaNumeric}}{{$randomAlphaNumeric}}{{$randomAlphaNumeric}}{{$randomAlphaNumeric}}{{$randomAlphaNumeric}}{{$randomAlphaNumeric}}\",\r\n  \"IsSystemDependent\": false\r\n}\r\n"
+				},
+				"url": {
+					"raw": "{{clueurl}}/api/v2/menus/{{menuid}}/items",
+					"host": [
+						"{{clueurl}}"
+					],
+					"path": [
+						"api",
+						"v2",
+						"menus",
+						"{{menuid}}",
+						"items"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Check Menuitem exists",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const jsonData = pm.response.json();\r",
+							"\r",
+							"pm.test(\"Successful request\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Menu item exists\", function () {\r",
+							"    pm.expect(jsonData.id).to.be.equal(parseInt(pm.variables.replaceIn(\"{{newMenuItemId}}\")));\r",
+							"    pm.collectionVariables.set(\"newMenuItemName\", jsonData.value);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "API_USER",
+						"value": "{{api_user}}",
+						"type": "default"
+					},
+					{
+						"key": "API_KEY",
+						"value": "{{api_key}}",
+						"type": "default"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "default"
+					}
+				],
+				"url": {
+					"raw": "{{clueurl}}/api/v2/menus/{{menuid}}/items/{{newMenuItemId}}",
+					"host": [
+						"{{clueurl}}"
+					],
+					"path": [
+						"api",
+						"v2",
+						"menus",
+						"{{menuid}}",
+						"items",
+						"{{newMenuItemId}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Check Menuitem exists in Menu",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const jsonData = pm.response.json();\r",
+							"\r",
+							"pm.test(\"Successful request\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Menu has Item name\", function () {\r",
+							"     _.each(jsonData._embedded.items.id, (item) => {\r",
+							"        pm.expect(item.value).to.include(pm.variables.replaceIn(\"{{newMenuItemName}}\"))\r",
+							"    });\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "API_USER",
+						"value": "{{api_user}}",
+						"type": "default"
+					},
+					{
+						"key": "API_KEY",
+						"value": "{{api_key}}",
+						"type": "default"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "default"
+					}
+				],
+				"url": {
+					"raw": "{{clueurl}}/api/v2/menus/{{menuid}}/items",
+					"host": [
+						"{{clueurl}}"
+					],
+					"path": [
+						"api",
+						"v2",
+						"menus",
+						"{{menuid}}",
+						"items"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Menuitem",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Successful request\", function () {\r",
+							"    pm.response.to.have.status(204);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "API_KEY",
+						"value": "{{api_key}}",
+						"type": "default"
+					},
+					{
+						"key": "API_USER",
+						"value": "{{api_user}}",
+						"type": "default"
+					}
+				],
+				"url": {
+					"raw": "{{clueurl}}/api/v2/menus/{{menuid}}/items/{{newMenuItemId}}",
+					"host": [
+						"{{clueurl}}"
+					],
+					"path": [
+						"api",
+						"v2",
+						"menus",
+						"{{menuid}}",
+						"items",
+						"{{newMenuItemId}}"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "newMenuItemId",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"key": "newMenuItemName",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"key": "menuid",
+			"value": "3",
+			"type": "string"
+		}
+	]
+}

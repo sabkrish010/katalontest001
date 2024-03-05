@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select a Filter drom the dropdown</description>
+   <name>Apply Equine Filter</name>
+   <tag>Filter</tag>
+   <comment></comment>
+   <testCaseGuid>9b10b9a9-67ae-4462-b468-4dae85f1fe92</testCaseGuid>
+</TestCaseEntity>

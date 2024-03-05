@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ExpandColumns</name>
+   <tag></tag>
+   <elementGuidId>8c5ed275-387c-40bf-9003-e91f75ff5cbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#advOptColumnsClose > i.fas.fa-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h3[@id='advOptColumnsClose']/i)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b68d0a20-75a4-4bb6-8a87-1d3a84abcc85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-plus</value>
+      <webElementGuid>9ccec959-8697-434d-95b1-0ea7512cf8fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;advancedOptionsDiv&quot;)/div[@class=&quot;label span4&quot;]/h3[@id=&quot;advOptColumnsClose&quot;]/i[@class=&quot;fas fa-plus&quot;]</value>
+      <webElementGuid>fa153541-a2ea-4de6-8fa8-0f19d4c1ea00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//h3[@id='advOptColumnsClose']/i)[2]</value>
+      <webElementGuid>539a096e-c0fa-46ab-a2cf-4be30c4d7b3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/h3[2]/i</value>
+      <webElementGuid>80f48003-89e9-4287-8cbe-609724b99ed6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

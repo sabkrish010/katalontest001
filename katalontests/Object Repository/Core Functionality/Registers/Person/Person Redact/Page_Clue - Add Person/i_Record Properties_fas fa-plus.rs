@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Record Properties_fas fa-plus</name>
+   <tag></tag>
+   <elementGuidId>60155c18-33c9-4da0-937b-74d520593d3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='recordPropertiesExpand']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7f697375-dd35-4fb6-bd66-682a93fe27c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-plus</value>
+      <webElementGuid>3330aa49-0643-42a8-84db-a1ffb0718af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;recordPropertiesExpand&quot;)/i[@class=&quot;fas fa-plus&quot;]</value>
+      <webElementGuid>267df165-f449-4871-a832-3d2f609314d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='recordPropertiesExpand']/i</value>
+      <webElementGuid>aebbf471-bb0a-4aa4-8811-2ab642670383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/i</value>
+      <webElementGuid>b6388688-6bc7-4d39-b8c0-bd1ec3630bc9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

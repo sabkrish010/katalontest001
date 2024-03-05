@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add new communication record from register page</description>
+   <name>Add Communication for redaction</name>
+   <tag>Add Communication</tag>
+   <comment></comment>
+   <testCaseGuid>ea956088-16fb-4805-8db5-bb17ef89c706</testCaseGuid>
+</TestCaseEntity>

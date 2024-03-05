@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Select_Person_1</name>
+   <tag></tag>
+   <elementGuidId>c599ebd9-385d-4f81-b68e-7d7b08ddb6b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Select')])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Select this record&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;form3&quot;)/div[3]/div[@class=&quot;list maxWidth&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;action&quot;]/a[1][count(. | //*[@title = 'Select this record']) = count(//*[@title = 'Select this record'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3a864eca-cc88-4027-aa61-d59c1055edfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>e7c5da06-e450-4cb0-86fe-17cbd02d9faf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Select this record</value>
+      <webElementGuid>c300007f-2d13-4507-b813-9417fb3da4bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>click: function () { $root.select($data); }</value>
+      <webElementGuid>4c2aaa31-73fa-4a50-a653-eb10b5567ec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>5521381a-1b0f-4c7f-8fcf-5414375ffece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form3&quot;)/div[3]/div[@class=&quot;list maxWidth&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;action&quot;]/a[1]</value>
+      <webElementGuid>291c96c1-4317-48b4-bb49-40b14fed4a68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form3']/div[3]/div/table/tbody/tr/td[9]/a</value>
+      <webElementGuid>4051c33e-1b8b-4347-afcd-ad506601ef4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Select')])[13]</value>
+      <webElementGuid>f7e94c49-ff3f-4b3e-941e-98016e0880eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clue'])[1]/following::a[1]</value>
+      <webElementGuid>96390fa2-ea17-48ad-80b7-24a2747eb507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alex Frank'])[1]/following::a[1]</value>
+      <webElementGuid>6aaa6323-0fd7-4f8e-92ac-c5872b92fe25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mr Crash Terwilliker Dummy'])[1]/preceding::a[1]</value>
+      <webElementGuid>4e4ee5cb-7e4d-4420-a18e-7e37730b67cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='stevenk'])[1]/preceding::a[1]</value>
+      <webElementGuid>6b046c79-c504-47e2-b6db-c219133d8d43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select']/parent::*</value>
+      <webElementGuid>8ca35469-ceab-41fa-accc-adb3aecc569b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[49]</value>
+      <webElementGuid>17e3c561-434b-43b2-a362-e1cbdfbb45cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/a</value>
+      <webElementGuid>4b075155-869c-4c89-bd1e-3541f0cb6148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Select this record']</value>
+      <webElementGuid>d1209baf-fe71-4f76-8297-8fcc65744be2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

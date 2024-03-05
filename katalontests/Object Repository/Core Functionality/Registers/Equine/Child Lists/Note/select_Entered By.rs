@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Entered By</name>
+   <tag></tag>
+   <elementGuidId>3cf492b8-85ec-4b23-b254-92c6eecc3243</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combo-box editable</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>options: clue.lookup('cccb777e-06e7-4e2c-b54e-02ab304439ba', model.CheckedBy()), value: model.CheckedBy</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>CheckedBy</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>CheckedBy</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Entered By</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Abi TuckwellAdele EdwardsAlana ChapmanAlister CrabbsAllison WillimentAmy BayntonAmy FlowersAmy FordhamAmy GedgeAmy McCormackAmy MillsAmy SmithAndrew PeterAnna BraysonBarry MappsBasil HayesBenson KiaranBenson RustyBOM representativeBrian WardenBriony GilksCaroline HeardCarran RaineCarys SamuelsCharlotte BerryCharlotte DannCharlotte JonesChloe StottChris ShawChrissy CopemanClaire GordonClaire PhillipsClaire SalterDale GedgeDaniel NicholsDanny FinlayDavid BoydDawn WitneyDawson JonesDebbie GraverDonna WilkinsDoug HowieEileen GillenEllie HumphreyEloise CocksEmily AshleeEmily PurnellEmma HalesEmma JamesEmma SharmanEmma SwadloEmma WilliamsEmme BaylissFelicity BridgesFern LaurieFiona HuntFrances WilliamsonGemma BarryGemma HaynesGeoff LawsonGrace VooghtGreame UlricGus DowsonHannah BrownHannah LynchHannah WestenHardy ScottHayley PenriceHelen LambertHelen MillichampIzzy PageJacko JacksonJamie WalkerJane MillerJeff HerringtonJemma HermannsJessica StarkJessie HancyJim MaxwellJo CullifordJohn BurnsJohn CunninghamJohn TrechardJude AndersonJulia SlyJustina SmithKaren WrightKat AlonKate StarkieKatherine GreenKathy DunnKatie GrimshawKelly MacleodKirsten CookeKirstie IrwinLaura BeckLaura ChapmanLaura SayerLauren GilliverLawson BlaineLeanne McPakeLeigh BaxterLisa GardinerLisa GedgeLizzie BirdLorraine HolmesLouise EmslieLucy RobbLucy StanglLucy TearleMandy DavidsonMark CrabbsMark JacksonMaxine LangleyNatalie BurgoyneNatalie StoneNick WhiteNicolle MacdonaldNicolle O'MalleyNicolle WalmerslyNiles DyrellPauline MorleyPhil JonesPhilip LawsonPhilippa GilliePip FrommRachel AndrewsRachel PottsRoger SwannRoly OwersRosie HendersonSaj SoutheySam ChubbockSammy CheesemanSammy VeallSara HemingfieldSara JermanSarah HectorSarah JoseSarah Martin-PearceSarah SmithSarah TuckerSheri FrearsonSophie RichardsonSteph SmithSteven GaleSue AverySue HodgkinsSue RaggettTanya ElementTanya LoftusTate BasilTed BarnesTina SalesTobin KirstyTony EvansTony TylerTracey FlemingVicki CooperVicki NewtonVicky BarnesVicky SpencerZoe Clifford
+</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CheckedBy&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <value>//select[@id='CheckedBy']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='dialog3']/form/fieldset/ul/li[2]/div[4]/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entered By'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[4]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//form/fieldset/ul/li[2]/div[4]/select</value>
+   </webElementXpaths>
+</WebElementEntity>

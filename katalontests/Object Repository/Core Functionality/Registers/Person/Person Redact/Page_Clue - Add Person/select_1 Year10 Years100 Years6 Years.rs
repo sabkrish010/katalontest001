@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_1 Year10 Years100 Years6 Years</name>
+   <tag></tag>
+   <elementGuidId>a3c5f43d-a354-43ef-ab22-46a21a741b5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#RetainPeriod</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='RetainPeriod']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>76f516d8-7ddf-4378-9ffb-f1297f8c3994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combo-box editable</value>
+      <webElementGuid>ed2b4f82-06db-41da-906e-6ea7b2213327</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>options: clue.lookup('385c9875-54f2-4535-9eef-44062a301900', model.RetainPeriod()), value: model.RetainPeriod, event: {change: function () {if (model.RetainPeriod() != null){model.RetainDate(clue.addPeriodToDate(new Date(), model.RetainPeriod(), true));}} }</value>
+      <webElementGuid>024e8d9c-d017-4b70-88e1-bd3c183873c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>RetainPeriod</value>
+      <webElementGuid>553bde16-0a8d-4039-879e-3cfff5915a24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>RetainPeriod</value>
+      <webElementGuid>148e229f-d864-4971-a343-cb3853f97f4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Retain For</value>
+      <webElementGuid>e4cc3992-1478-4870-bdae-42b8a5ccece7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 Year10 Years100 Years6 Years
+</value>
+      <webElementGuid>8ede6c32-5d85-46f1-9709-ce121413b7ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RetainPeriod&quot;)</value>
+      <webElementGuid>115c627f-73e9-47a8-9a70-dec63cb66c34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='RetainPeriod']</value>
+      <webElementGuid>8c8b5103-670d-44cd-a42d-f1c64503c6ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form1']/div[5]/fieldset[3]/div[2]/ul/li[7]/div[2]/select</value>
+      <webElementGuid>02c191bf-9481-49df-a79f-acbace1d5938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retain For'])[1]/following::select[1]</value>
+      <webElementGuid>e1f350fb-1271-4160-826b-e05a4edf799e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='on'])[2]/preceding::select[1]</value>
+      <webElementGuid>6f283443-5e29-4208-96d0-d25e50bfc541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div[2]/select</value>
+      <webElementGuid>af0cabc8-6546-4cc2-95d7-355ca528a4f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'RetainPeriod' and @name = 'RetainPeriod' and @title = 'Retain For']</value>
+      <webElementGuid>0e5c1a9c-8207-4203-b68b-d0b5e05582b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

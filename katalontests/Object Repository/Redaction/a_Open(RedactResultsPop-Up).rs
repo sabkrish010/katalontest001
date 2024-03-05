@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Open(RedactResultsPop-Up)</name>
+   <tag></tag>
+   <elementGuidId>de75abb5-2ad0-4fc1-8d47-648e872ac474</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='opt-open']/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;dropList_0&quot;)/li[@id=&quot;opt-open&quot;]/a[@class=&quot;block py-1.5 pl-4 pr-9 hover:bg-gray-50 focus:outline-none focus:bg-gray-50 hover:no-underline hover:text-gray-900&quot;][count(. | //a[@href = '#' and (text() = 'Open&#xd;
+                                                            &#xd;
+                                                        ' or . = 'Open&#xd;
+                                                            &#xd;
+                                                        ')]) = count(//a[@href = '#' and (text() = 'Open&#xd;
+                                                            &#xd;
+                                                        ' or . = 'Open&#xd;
+                                                            &#xd;
+                                                        ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c5cceb5e-0ff5-4f0d-9464-338b15a6e621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>fe35f5ed-8cf7-4d14-b8a7-3336ea914d48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>2a669c5e-ea0f-4446-843c-1c0944e317e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block py-1.5 pl-4 pr-9 hover:bg-gray-50 focus:outline-none focus:bg-gray-50 hover:no-underline hover:text-gray-900</value>
+      <webElementGuid>94367d8d-da8e-4100-afae-4d74cdc73999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>click: function () { $parent.viewDetails($index()); $parent.closeList('dropList_' + $index()); }</value>
+      <webElementGuid>917713d0-1aaf-41b3-8ec7-159434a58af5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open&#xd;
+                                                            &#xd;
+                                                        </value>
+      <webElementGuid>a55de765-93ae-40f8-bc18-aa1564f03647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropList_0&quot;)/li[@id=&quot;opt-open&quot;]/a[@class=&quot;block py-1.5 pl-4 pr-9 hover:bg-gray-50 focus:outline-none focus:bg-gray-50 hover:no-underline hover:text-gray-900&quot;]</value>
+      <webElementGuid>7e999e87-851e-4a24-8210-2cd1384112e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='opt-open']/a</value>
+      <webElementGuid>744ed873-9e30-433d-bbaf-17294ad3758c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/following::a[1]</value>
+      <webElementGuid>e2b297e1-9d59-438c-981d-fb2ca7d6fc8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redact'])[1]/following::a[2]</value>
+      <webElementGuid>bbe63a6f-afaf-4394-97e8-aa671f933702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::a[1]</value>
+      <webElementGuid>e34ba9c6-c102-4521-93ae-8baf20f79c60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[11]</value>
+      <webElementGuid>26185039-dffc-43be-9efb-75c2b50385c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[2]/a</value>
+      <webElementGuid>1e90b529-dd9b-4588-a2be-3adf5d553dd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

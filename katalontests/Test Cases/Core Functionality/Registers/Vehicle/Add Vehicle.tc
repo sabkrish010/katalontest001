@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add vehicle record</description>
+   <name>Add Vehicle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c167ab1e-7a75-4e70-8e75-2f8040cdf196</testCaseGuid>
+</TestCaseEntity>

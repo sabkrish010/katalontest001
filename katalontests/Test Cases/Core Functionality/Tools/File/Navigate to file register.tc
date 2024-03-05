@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to file register</description>
+   <name>Navigate to file register</name>
+   <tag>File</tag>
+   <comment></comment>
+   <testCaseGuid>d94749a8-586e-47b5-b6b1-9b647db6f627</testCaseGuid>
+</TestCaseEntity>

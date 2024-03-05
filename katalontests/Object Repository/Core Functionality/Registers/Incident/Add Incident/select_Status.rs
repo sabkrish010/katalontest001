@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Status</name>
+   <tag></tag>
+   <elementGuidId>473caafa-aa8d-48e3-ace7-3601df1c9943</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;Status&quot;)[count(. | //*[@id = 'Status' and @name = 'Status']) = count(//*[@id = 'Status' and @name = 'Status'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d3c8ccaa-7f96-428c-9d36-8c0c5f15a038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combo-box editable</value>
+      <webElementGuid>1d2f8323-d963-42d0-8bfe-328ed568a7ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>options: clue.lookup('b0c5ff76-f9d0-4fde-8fef-12f4cd2fc626', model.Status()), value: model.Status</value>
+      <webElementGuid>5e7848ff-d7ab-467a-bcc1-a25bd3e62154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Status</value>
+      <webElementGuid>1401f615-39b7-4bb0-a08c-9ad6850ba8eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Status</value>
+      <webElementGuid>8560308d-43c8-4af9-aadc-d4a9ca5ce895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Status</value>
+      <webElementGuid>8d7579b7-7d95-4424-bb26-8f5286d15db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Status&quot;)</value>
+      <webElementGuid>47dd2de1-1537-4b1b-9257-c4e90c969d51</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add a Statement record</description>
+   <name>Select Add Statement (Standard Mode)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1025b742-9600-4ade-b18a-d5dabc540b73</testCaseGuid>
+</TestCaseEntity>

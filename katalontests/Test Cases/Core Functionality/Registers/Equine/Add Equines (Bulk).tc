@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add Equine record</description>
+   <name>Add Equines (Bulk)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef3e2e3e-59c4-4bc7-b105-66ac67ff38e0</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>2aaf2849-d9ea-4e9c-a892-7a51769892c0</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>4a70f798-2f0a-4704-8b89-ebeee94d227f</id>
+      <masked>false</masked>
+      <name>OriginalFarm</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>48191c87-c6e5-4a63-8137-0e2fc029f8fb</id>
+      <masked>false</masked>
+      <name>Status</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>cd271b0c-bf00-47cd-ba34-700a4f118501</id>
+      <masked>false</masked>
+      <name>ReasonForAdmittance</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>2fd684c9-1224-45d6-861e-df2e0d303f01</id>
+      <masked>false</masked>
+      <name>ProsecutionInfo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>428b7685-5fde-4fbe-9b6c-75cf9d51710f</id>
+      <masked>false</masked>
+      <name>Gender</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>309f4b86-15c4-4e9f-9f98-2fb3a10df0f2</id>
+      <masked>false</masked>
+      <name>Type</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>c929f5ed-91c0-4f38-95eb-b68ce185f4cc</id>
+      <masked>false</masked>
+      <name>HRNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>4da54f18-f4a0-48b3-90a2-451d32fabf79</id>
+      <masked>false</masked>
+      <name>Height</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>1aaf6cb2-d604-45e7-ac34-4d4c4ffd4116</id>
+      <masked>false</masked>
+      <name>Colour</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>26f6b2c4-5fa7-470a-b35f-082112d70dfc</id>
+      <masked>false</masked>
+      <name>Breed</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>040f6ea0-d4f6-4afc-9683-82a3e22c1c9c</id>
+      <masked>false</masked>
+      <name>RehomingCategory</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>f1ca2699-969d-4da5-bc36-66bf0d1faa91</id>
+      <masked>false</masked>
+      <name>AssignedTo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>793cdc95-554b-4942-a7d7-3bf540c02662</id>
+      <masked>false</masked>
+      <name>ImportantNotes</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>3f8565ac-fa3d-48b7-8165-ea94225a1544</id>
+      <masked>false</masked>
+      <name>FarmRehomingNotes</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Equine Data')</defaultValue>
+      <description></description>
+      <id>f47c147a-f8e6-4906-a82a-c177536293bd</id>
+      <masked>false</masked>
+      <name>Rugs</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Notes(ViewMode)</name>
+   <tag></tag>
+   <elementGuidId>0a5846b8-9398-4aac-814e-32d93c8d3caa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-box.multi-line</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@title = 'Description']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>130f45b2-3b17-41e5-a7ae-0302e3cdae3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-box multi-line</value>
+      <webElementGuid>6b3deab5-ae68-4826-9082-ec64489065b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Description</value>
+      <webElementGuid>4e8aba1d-6356-49e2-b1aa-b20bc514c054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form1&quot;)/div[1]/fieldset[1]/ul[1]/li[4]/div[@class=&quot;field span20&quot;]/div[@class=&quot;text-box multi-line&quot;]</value>
+      <webElementGuid>d32d2daa-e08e-4431-99c4-7bd7454b153c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form1']/div/fieldset/ul/li[4]/div[2]/div</value>
+      <webElementGuid>a0a0421d-f69c-499e-8c43-743e6ad8f8d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::div[2]</value>
+      <webElementGuid>86e79e8f-5c85-4c1b-b345-f5f052484582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Priority'])[1]/preceding::div[1]</value>
+      <webElementGuid>505b62c1-9ffd-4de7-8de4-1761cf10fd62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div[2]/div</value>
+      <webElementGuid>a3ca70a5-be92-456f-bdb9-ceff0fdc48bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Description']</value>
+      <webElementGuid>e01cd8b7-a5be-432c-92f0-cd31cd17603b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

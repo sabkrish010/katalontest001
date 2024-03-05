@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Notes</name>
+   <tag></tag>
+   <elementGuidId>5e42b2b9-abc6-41a1-96f2-4b5b67ab9d3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;Notes&quot;)[count(. | //*[@id = 'Notes' and @name = 'Notes' and @title = 'Notes']) = count(//*[@id = 'Notes' and @name = 'Notes' and @title = 'Notes'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>02ebcf29-0c42-4b58-b088-8d5c89928034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-box multi-line</value>
+      <webElementGuid>adce8fdb-ea1c-401a-88a2-d65e69f94131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>value: model.Notes</value>
+      <webElementGuid>4363dad9-41d0-414e-94c4-f01c02929e2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Notes</value>
+      <webElementGuid>51cfa8ad-f3fc-47f2-a310-f5fb9f126fe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Notes</value>
+      <webElementGuid>59293b61-b95e-4e25-9877-23c5e1699764</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Notes</value>
+      <webElementGuid>abdbfeef-aadf-4d91-88c1-bd9371f48f68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Notes&quot;)</value>
+      <webElementGuid>685db962-6904-4ede-a88e-3eb1aaa4eb1d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

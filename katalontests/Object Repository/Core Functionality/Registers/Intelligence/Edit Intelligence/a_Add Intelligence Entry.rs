@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add Intelligence Entry</name>
+   <tag></tag>
+   <elementGuidId>725b843f-74be-4813-87f8-75f95b80a94e</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9e80be1a-6c3e-457f-8bd2-c7e1471353f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AddIntelligencelink</value>
+      <webElementGuid>b3804a77-fc75-49c4-ac5c-7c65def31cbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>ce24f8fd-4511-47a3-a8ea-ee6fed4f654c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>css: {hidden: $root.disableChildFields()},text: 'Add Intelligence Entry', click: function () { clue.addIntelligenceTextItem(model.IntelligenceEntries.items); }</value>
+      <webElementGuid>5f38b9c5-bc56-419e-8db7-19e37865965c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Intelligence Entry</value>
+      <webElementGuid>ba4a4db4-28ba-4760-b4c5-0c56c6486a98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AddIntelligencelink&quot;)</value>
+      <webElementGuid>261bfeea-0bc6-43cc-bd4c-e1feac7e24d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='AddIntelligencelink']</value>
+      <webElementGuid>ef933a02-1326-4bcd-a212-a252c49f936a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form1']/div[4]/div/table/caption/a</value>
+      <webElementGuid>7e16233e-2e0b-47b5-8a4f-2a45812463b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add Intelligence Entry')]</value>
+      <webElementGuid>809287eb-be05-4d91-8ac2-e793bca6d924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source'])[1]/following::a[4]</value>
+      <webElementGuid>f0508eda-391e-43d4-bbbe-52913c950e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/preceding::a[1]</value>
+      <webElementGuid>fbcc6142-080d-4254-863d-6abd486cf518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/preceding::a[1]</value>
+      <webElementGuid>57a192a4-61e9-46d8-ad8f-230481711171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[5]</value>
+      <webElementGuid>e46bfa42-7aac-4581-96b1-6c892fcc8806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//caption/a</value>
+      <webElementGuid>6a655ea5-3b08-4843-b484-0408661614e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

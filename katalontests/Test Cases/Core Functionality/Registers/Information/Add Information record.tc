@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add Information record</description>
+   <name>Add Information record</name>
+   <tag>Organisation, Information</tag>
+   <comment></comment>
+   <testCaseGuid>5f623a19-245d-4e99-8233-6138d6c277b0</testCaseGuid>
+</TestCaseEntity>

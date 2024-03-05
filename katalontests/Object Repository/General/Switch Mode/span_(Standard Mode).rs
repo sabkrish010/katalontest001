@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_(Standard Mode)</name>
+   <tag></tag>
+   <elementGuidId>5a048185-3da0-4753-8b83-028287a8586d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(text() = '(Standard Mode)' or . = '(Standard Mode)')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.blk</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Off'])[1]/preceding::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>07b18acd-56de-43c5-9474-b2b84f629eae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blk</value>
+      <webElementGuid>22f7c7a3-60f0-471b-a40b-6f8fe7a2f4b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>visible:(selectedInvestigation() == null &amp;&amp; availableInvestigations &amp;&amp; availableInvestigations().length > 0)</value>
+      <webElementGuid>f8420869-baeb-4577-9dad-6997a2429ff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(Standard Mode)</value>
+      <webElementGuid>e75d6793-cd57-4109-9a18-cb7936fefddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;disabled_StdMode_button&quot;)</value>
+      <webElementGuid>659b6529-9812-4af3-b3d0-66a644324dd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>disabled_StdMode_button</value>
+      <webElementGuid>a64a9d4e-26cf-4f35-8c9d-820e4e756c75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div/div[3]/span[2]</value>
+      <webElementGuid>7cd9baf3-dea4-4b38-a7ae-8fa3e873a708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='emmal'])[1]/following::span[1]</value>
+      <webElementGuid>4786d0c7-1233-4f1c-a271-9a68f511db1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::span[1]</value>
+      <webElementGuid>7f945dbc-8055-4834-ad7b-9e308d6ad2bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Off'])[1]/preceding::span[2]</value>
+      <webElementGuid>ddd0e83a-15c1-423b-b13f-1ef726730919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(Standard Mode)']/parent::*</value>
+      <webElementGuid>2df5e3f0-15fc-4365-9182-bf39fa3ff55d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>b648d1ff-9f81-496a-a78a-59d36da93d3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

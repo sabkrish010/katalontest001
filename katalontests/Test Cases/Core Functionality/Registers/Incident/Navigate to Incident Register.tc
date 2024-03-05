@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Incident register</description>
+   <name>Navigate to Incident Register</name>
+   <tag>Incident</tag>
+   <comment></comment>
+   <testCaseGuid>b8249ca5-7d7d-4b33-bb92-12ee6536d1ae</testCaseGuid>
+</TestCaseEntity>

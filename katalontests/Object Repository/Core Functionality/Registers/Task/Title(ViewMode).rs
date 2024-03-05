@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title(ViewMode)</name>
+   <tag></tag>
+   <elementGuidId>67bb1bdb-9d49-4bd1-93e6-fd23cfcbbb63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-box.single-line</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;form1&quot;)/div[1]/fieldset[1]/ul[1]/li[1]/div[@class=&quot;field span8&quot;]/div[@class=&quot;text-box single-line&quot;][count(. | //*[@title = 'Type']) = count(//*[@title = 'Type'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8a29028a-9a17-4915-8fb4-1685addc6a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-box single-line</value>
+      <webElementGuid>c051e12c-1d06-44c1-bdad-ea57b9596b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Type</value>
+      <webElementGuid>3a429643-70ae-423b-a1cc-56b30d0d30c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: model.Type</value>
+      <webElementGuid>00bdf27f-3272-4cc4-9969-9a108615c419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form1&quot;)/div[1]/fieldset[1]/ul[1]/li[1]/div[@class=&quot;field span8&quot;]/div[@class=&quot;text-box single-line&quot;]</value>
+      <webElementGuid>ce85dad2-02ad-4a2e-8e88-96ce42f47d0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form1']/div/fieldset/ul/li[3]/div[2]/div</value>
+      <webElementGuid>5ccb1506-c7e1-4558-9005-322192d235a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/following::div[2]</value>
+      <webElementGuid>8c969f1c-b3e9-42c1-ad1d-37e4f811afa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::div[1]</value>
+      <webElementGuid>313c1359-a323-4342-9d37-a72018b5f912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div[2]/div</value>
+      <webElementGuid>a2beb0ee-b64b-4517-9ee8-d0a992ec794c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Title']</value>
+      <webElementGuid>ac8242bf-cdb0-44b6-9eee-98097e2caf66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

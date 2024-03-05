@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AssessmentSearchResult(Results Pop-Up)</name>
+   <tag></tag>
+   <elementGuidId>f0b3a3b0-2695-4514-ab3e-1e324c065ce4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h4[@id='searchResult'])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//h4[@id = 'searchResult' and (contains(text(), 'Assessment') or contains(., 'Assessment'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>a270f338-e99c-410f-85ea-677522155e86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-medium leading-6 text-gray-900 truncate</value>
+      <webElementGuid>82e8636a-973b-4434-8bbd-0bbd67475b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchResult</value>
+      <webElementGuid>21da5c82-558c-44eb-87e0-a68e18476364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assessment</value>
+      <webElementGuid>0953230c-b76f-4bdc-8d75-c8072e29bf7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result-id-1&quot;)/div[@class=&quot;min-w-full min-h-[7rem]&quot;]/div[@class=&quot;flex items-center justify-between gap-x-2&quot;]/div[@class=&quot;flex items-center justify-start gap-x-2 min-w-0&quot;]/h4[@id=&quot;searchResult&quot;]</value>
+      <webElementGuid>86d05b5a-a6fd-4400-8f19-737debc83bdb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//h4[@id='searchResult'])[2]</value>
+      <webElementGuid>25e4d4d3-e357-4060-973a-153cfabd9bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='result-id-1']/div/div/div/h4</value>
+      <webElementGuid>05d0369c-3049-41e7-9817-555b4b92a799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaction successful'])[1]/following::h4[1]</value>
+      <webElementGuid>c62520fe-f432-4c15-97b9-5a5df0622f46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try again'])[1]/following::h4[1]</value>
+      <webElementGuid>915e4ca4-4c58-4b47-9b6f-c63fc0ba004e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redact'])[4]/preceding::h4[1]</value>
+      <webElementGuid>09a6be02-ea6d-4e75-b4cd-6b8f49f8d577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[2]/preceding::h4[1]</value>
+      <webElementGuid>1e1444a0-3a24-4f0f-9c3c-dd210cfbd7da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Address | 537 | 21, Strackley Hill, Ketley Bank, London, United Kingdom, TF2 0BJ']/parent::*</value>
+      <webElementGuid>ff177486-5416-43f9-868f-f2ffd31b7a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/div/h4</value>
+      <webElementGuid>bcfcfce3-d3e2-44a5-8e78-0a3a3a7f66c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[@id = 'searchResult']</value>
+      <webElementGuid>658ef486-dd6b-469b-b974-9ceb63569eb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

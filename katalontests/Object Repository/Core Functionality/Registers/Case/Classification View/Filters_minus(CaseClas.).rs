@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Filters_minus(CaseClas.)</name>
+   <tag></tag>
+   <elementGuidId>6e0e207f-9852-4ddc-95f0-455f2678f075</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='advancedOptionsDiv']/div/h3/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.h3-options > i.fas.fa-minus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>bc2fd962-eb48-4f0b-8fa4-d3ed750b8817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-minus</value>
+      <webElementGuid>aa42a317-3c6d-43df-8711-2354295d3a7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;advancedOptionsDiv&quot;)/div[@class=&quot;label span4&quot;]/h3[@class=&quot;h3-options&quot;]/i[@class=&quot;fas fa-minus&quot;]</value>
+      <webElementGuid>18b7ac6f-6a8b-4515-882d-bfa6ca9ae6ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='advancedOptionsDiv']/div/h3/i</value>
+      <webElementGuid>6f388e94-12c0-4f0a-ac0c-ab385ff8f9f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/i</value>
+      <webElementGuid>2b25d47c-adf7-4560-89aa-52c6ab88432d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

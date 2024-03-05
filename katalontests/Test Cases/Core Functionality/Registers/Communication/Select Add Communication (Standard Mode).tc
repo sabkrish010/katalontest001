@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Add Communication (Standard Mode)</name>
+   <tag>Communication</tag>
+   <comment></comment>
+   <testCaseGuid>21cea4a4-6963-4c88-b900-9ac0b1aeeb03</testCaseGuid>
+</TestCaseEntity>

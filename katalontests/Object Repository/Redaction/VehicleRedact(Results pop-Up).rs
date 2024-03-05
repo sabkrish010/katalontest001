@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>VehicleRedact(Results pop-Up)</name>
+   <tag></tag>
+   <elementGuidId>edccf245-17e9-4b9a-8d46-7b3de7c2b76e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h4[@id='searchResult'])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;result-id-1&quot;)/div[@class=&quot;min-w-full min-h-[7rem]&quot;]/div[@class=&quot;flex items-center justify-between gap-x-2&quot;]/div[@class=&quot;flex items-center justify-start gap-x-2 min-w-0&quot;]/h4[@id=&quot;searchResult&quot;][count(. | //h4[@id = 'searchResult']) = count(//h4[@id = 'searchResult'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>4479e295-e5fd-4e54-acaf-2e55ae24b546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-medium leading-6 text-gray-900 truncate</value>
+      <webElementGuid>5e1cc96a-0e56-4964-b25a-d06af7a8684b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchResult</value>
+      <webElementGuid>63ec60f0-fcea-48f5-abee-526d276d4ef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: (item.Register()||'') + ' | ' + (item.Urn()||'') + ' | ' + (item.RecordTitle()||'')</value>
+      <webElementGuid>48982e3f-f269-457b-811b-b0696262a1d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vehicle</value>
+      <webElementGuid>236995ac-ffb4-4655-95d3-a88126c6295e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result-id-1&quot;)/div[@class=&quot;min-w-full min-h-[7rem]&quot;]/div[@class=&quot;flex items-center justify-between gap-x-2&quot;]/div[@class=&quot;flex items-center justify-start gap-x-2 min-w-0&quot;]/h4[@id=&quot;searchResult&quot;]</value>
+      <webElementGuid>25331dd2-0221-472a-82bd-6d61c222987c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//h4[@id='searchResult'])[2]</value>
+      <webElementGuid>a740a2c8-43ec-4661-a8f0-990eaf1a19a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='result-id-1']/div/div/div/h4</value>
+      <webElementGuid>98f9e474-4929-4e01-89cc-3a4a0fd56a3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaction successful'])[1]/following::h4[1]</value>
+      <webElementGuid>94a422cb-6e59-4094-95a8-278e31a2cb04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try again'])[1]/following::h4[1]</value>
+      <webElementGuid>d3ef6d32-e0b3-44ca-af3e-7c6a1a979945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redact'])[4]/preceding::h4[1]</value>
+      <webElementGuid>0231c07e-c76a-4303-be4c-23146460291f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[2]/preceding::h4[1]</value>
+      <webElementGuid>e814db64-e61d-4bba-95d0-37ac15aecb65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vehicle | 49 | P262 DJO']/parent::*</value>
+      <webElementGuid>19aff73f-81c9-465a-9a57-8d2f33d2bb1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/div/h4</value>
+      <webElementGuid>cf35ac23-3190-482c-93a1-9a85cb11eb1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[@id = 'searchResult']</value>
+      <webElementGuid>201ebc6b-f151-4a1a-aa9f-a65715b033bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

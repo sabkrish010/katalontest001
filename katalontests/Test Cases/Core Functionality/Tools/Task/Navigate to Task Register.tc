@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to the Task register</description>
+   <name>Navigate to Task Register</name>
+   <tag>Task</tag>
+   <comment></comment>
+   <testCaseGuid>c3ccef24-dee8-42c5-a209-1439e32ae5c2</testCaseGuid>
+</TestCaseEntity>

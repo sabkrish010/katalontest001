@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Event register</description>
+   <name>Navigate to Event register</name>
+   <tag>Event</tag>
+   <comment></comment>
+   <testCaseGuid>efa803b4-4da8-4a1b-a699-c5318fee4902</testCaseGuid>
+</TestCaseEntity>

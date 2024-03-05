@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click download button on preview modal</description>
+   <name>Click download on Preview Modal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab88369f-d152-452e-b39d-f7414e8cad30</testCaseGuid>
+</TestCaseEntity>

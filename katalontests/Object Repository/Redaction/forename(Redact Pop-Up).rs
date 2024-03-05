@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>forename(Redact Pop-Up)</name>
+   <tag></tag>
+   <elementGuidId>8a1869f7-52ad-4978-93a6-01fb4024101b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Forename'])[1]/following::td[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>58fa50d8-a484-4b65-993f-724e61be70dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>whitespace-nowrap py-2 px-3 text-sm text-gray-600</value>
+      <webElementGuid>4f6699b0-4ba7-41e6-9616-427b55df91d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text:$data[1]</value>
+      <webElementGuid>2305203a-28b1-41ed-a86e-f4c83fa18a30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cassidy</value>
+      <webElementGuid>d34d881e-e516-4e7b-bc6d-3b0af78c8577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-3&quot;)/div[@class=&quot;tailwind&quot;]/div[@class=&quot;bg-white min-h-full&quot;]/div[@class=&quot;flex h-[calc(100vh-7.34rem)] flex-col overflow-hidden&quot;]/header[@class=&quot;border-b z-20 bg-gray-50&quot;]/div[@class=&quot;relative mx-auto max-w-screen-xl py-3 px-4&quot;]/details[@class=&quot;w-full group&quot;]/div[@class=&quot;border-t sm:border sm:rounded-md sm:shadow-sm mt-2 -mb-3 sm:mb-0 -mx-4 sm:mx-0&quot;]/table[@class=&quot;table-fixed min-w-full divide-y divide-gray-200 sm:border sm:rounded-sm overflow-hidden&quot;]/tbody[@class=&quot;divide-y divide-gray-200 bg-white&quot;]/tr[1]/td[@class=&quot;whitespace-nowrap py-2 px-3 text-sm text-gray-600&quot;]</value>
+      <webElementGuid>93f3d0fc-926c-4256-81ed-490119118db5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-id-3']/div/div/div/header/div/details/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>c1f9e7d5-a2fd-469d-8fa8-82ddd068dbbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forename'])[1]/following::td[1]</value>
+      <webElementGuid>e6036d59-b13c-4372-90a8-13d51e989410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Value'])[1]/following::td[2]</value>
+      <webElementGuid>6eec83e3-2134-421f-8017-e78937e83c98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surname'])[1]/preceding::td[1]</value>
+      <webElementGuid>7ebdd1d2-9a04-4c06-a748-b3d301de455e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Houston'])[2]/preceding::td[2]</value>
+      <webElementGuid>121239b3-6bdf-4862-803e-cad2a13c6898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>efd76b7e-c914-4003-aeab-d10898eb2bc9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

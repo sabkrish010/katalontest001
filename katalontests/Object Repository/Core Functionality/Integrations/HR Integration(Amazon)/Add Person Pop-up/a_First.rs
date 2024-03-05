@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_First</name>
+   <tag></tag>
+   <elementGuidId>1714c635-9719-410a-b4b3-b258708e44ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Go to the first page&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form4']/div[3]/div/table/tfoot/tr/td/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = '#' and @title = 'Go to the first page' and @data-bind = 'click: first' and (text() = 'First' or . = 'First')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e738d2fc-89f7-4afa-88a6-feb903be83bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>d5c7da3d-a980-4c62-81a4-b5ef3193420f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Go to the first page</value>
+      <webElementGuid>e3a8c85d-e0b8-496e-9667-399b75aa64de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>click: first</value>
+      <webElementGuid>02857c08-3399-4e28-8e9b-a568f7133d7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>First</value>
+      <webElementGuid>e8bfa445-6042-468c-a985-ec66008bbbce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form4&quot;)/div[3]/div[@class=&quot;list maxWidth&quot;]/table[1]/tfoot[1]/tr[1]/td[1]/a[1]</value>
+      <webElementGuid>96754e6e-b716-4501-af08-9e1aa71c6047</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Go to the first page']</value>
+      <webElementGuid>bd1bdd05-6c4f-43cb-b4d7-9501cd098445</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

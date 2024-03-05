@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select a Filter drom the dropdown</description>
+   <name>Apply Task Filter</name>
+   <tag>Filter</tag>
+   <comment></comment>
+   <testCaseGuid>b94ca0bf-0c65-45b9-95c5-93b157c8d601</testCaseGuid>
+</TestCaseEntity>

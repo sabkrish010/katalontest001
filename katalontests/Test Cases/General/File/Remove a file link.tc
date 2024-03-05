@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remove a file link</name>
+   <tag>File , Remove</tag>
+   <comment></comment>
+   <testCaseGuid>d617f3fb-cc5b-4fc6-95e5-afc4a04122de</testCaseGuid>
+</TestCaseEntity>

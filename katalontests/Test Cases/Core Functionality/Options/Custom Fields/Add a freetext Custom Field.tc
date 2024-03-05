@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add a Custom field to a register</description>
+   <name>Add a freetext Custom Field</name>
+   <tag>Custom Field</tag>
+   <comment></comment>
+   <testCaseGuid>92072a41-bcc4-455d-af99-577d5c74d64b</testCaseGuid>
+</TestCaseEntity>

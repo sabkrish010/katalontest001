@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Type(Conditional)</name>
+   <tag></tag>
+   <elementGuidId>351c4c99-d652-4cd1-b975-44fa4f4f4858</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@data-bind = concat(&quot;options: clue.lookup(&quot; , &quot;'&quot; , &quot;f5ed8375-8467-46c5-8ec3-4d91335f2bc7&quot; , &quot;'&quot; , &quot;), value: model.Type&quot;) and (text() = 'Boolean (Yes/No)CurrencyDateDropdownFree textLink ' or . = 'Boolean (Yes/No)CurrencyDateDropdownFree textLink ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[2]/following::select[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6c38d279-791f-4aae-ae49-5315349819af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combo-box</value>
+      <webElementGuid>d01eaaa8-e53d-479b-8e20-c4163278ba28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>d7280ee3-9071-43a0-9d7d-d0c8b3bb3037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>options: clue.lookup('f5ed8375-8467-46c5-8ec3-4d91335f2bc7'), value: model.Type</value>
+      <webElementGuid>f66b37b4-3ad9-434c-8237-ea6561e6421e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Boolean (Yes/No)CurrencyDateDropdownFree textLink </value>
+      <webElementGuid>ead4ec6f-3476-44b0-83b6-cc778f9c4934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-7&quot;)/form[1]/fieldset[1]/ul[1]/li[6]/div[@class=&quot;field span7&quot;]/select[@class=&quot;combo-box&quot;]</value>
+      <webElementGuid>c99a1f82-fd98-4b35-8793-a077f4c38929</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-id-7']/form/fieldset/ul/li[6]/div[2]/select</value>
+      <webElementGuid>b33b3a2f-b11b-4409-b9f5-d313ef41cb4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[2]/following::select[1]</value>
+      <webElementGuid>40229980-5103-4773-b46c-68a5aec8e7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To'])[1]/preceding::select[1]</value>
+      <webElementGuid>ba6147a8-86d5-457a-932e-942fff1854d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/div[2]/select</value>
+      <webElementGuid>66a9afcc-cd22-4433-b461-2686e6949e06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

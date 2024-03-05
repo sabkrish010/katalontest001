@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select Person(Pop-Up)</name>
+   <tag></tag>
+   <elementGuidId>513e5be3-caa5-4fb0-a544-f74c89da7c2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Select')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Select this record&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = '#' and @title = 'Select this record' and @data-bind = 'click: function () { $root.select($data); }' and (text() = 'Select' or . = 'Select')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5cc93a02-be99-4d1c-bfc9-15908db529c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>6a77d284-c787-4caf-b73b-6605dfe66a7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Select this record</value>
+      <webElementGuid>c9fa7b99-0359-430b-9a0e-133d8623e78b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>click: function () { $root.select($data); }</value>
+      <webElementGuid>897c7093-2507-47ea-800d-a6d9fd8ede75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>79b92fb0-3a51-4a19-b60c-ecf616f6ec99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form2&quot;)/div[3]/div[@class=&quot;list maxWidth&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;action&quot;]/a[1]</value>
+      <webElementGuid>bb851522-d922-4b5e-b152-046e16ef9bc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form2']/div[3]/div/table/tbody/tr/td[4]/a</value>
+      <webElementGuid>357e62a8-7f71-4a5b-ae6c-6ada3a4671b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Select')])[2]</value>
+      <webElementGuid>74b4fd37-554c-4726-9909-d8f03447180d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ms Celinka Elan'])[1]/following::a[1]</value>
+      <webElementGuid>ffcc4c72-44f9-4468-ae17-5fabf1eda0b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[3]/following::a[1]</value>
+      <webElementGuid>555f9760-97a1-4e07-9758-54a7f25aeb32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mr Orly Giacometti'])[2]/preceding::a[1]</value>
+      <webElementGuid>4bca9f20-61a0-46ec-855f-60f1f6570133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mr Melosa Mounch'])[1]/preceding::a[2]</value>
+      <webElementGuid>1dc11d08-dc6d-4c6e-883f-6e0cf906b27e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select']/parent::*</value>
+      <webElementGuid>612c7449-acad-4586-8edd-7021f258e0ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[78]</value>
+      <webElementGuid>dff44489-9424-4b9a-a8c9-73cd2bb125a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/table/tbody/tr/td[4]/a</value>
+      <webElementGuid>965a80f8-9c7d-40c7-ba31-634920981d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Select this record']</value>
+      <webElementGuid>a7fc59ad-d4bc-4c43-86fc-20a3341bc105</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Load an address record and generate a record print</description>
+   <name>Print Address record</name>
+   <tag>Print Address</tag>
+   <comment></comment>
+   <testCaseGuid>9a3cc445-ca69-44de-b657-c1aa45ed1779</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Print a incident record</name>
+   <tag>Print Incident</tag>
+   <comment></comment>
+   <testCaseGuid>3df9ea73-6efe-4a59-a0e9-f78e4d6c54cd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7335f23a-9472-4341-bb8f-257686b5de4f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7335f23a-9472-4341-bb8f-257686b5de4f</id>
+      <masked>false</masked>
+      <name>incidentTitle</name>
+   </variable>
+</TestCaseEntity>

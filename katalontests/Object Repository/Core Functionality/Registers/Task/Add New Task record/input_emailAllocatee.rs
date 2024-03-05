@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_emailAllocatee</name>
+   <tag></tag>
+   <elementGuidId>f75296c2-4c0e-403c-9581-ef4af7ccfe83</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>disable: (!model.AllocatedToAsText() ? (!model.AllocatedToTeamAsText() ? true :  $root.disableDetailFields()) :  $root.disableDetailFields()), css: {disabled: (!model.AllocatedToAsText() ? (!model.AllocatedToTeamAsText() ? true:  $root.disableDetailFields()) :  $root.disableDetailFields())}, checked: model.EmailAllocatee</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>emailAllocatee</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;emailAllocatee&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

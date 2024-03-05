@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select a Filter drom the dropdown</description>
+   <name>Apply Case Filter</name>
+   <tag>Filter</tag>
+   <comment></comment>
+   <testCaseGuid>1a4b89ce-940c-4ac8-a819-615a32b4b294</testCaseGuid>
+</TestCaseEntity>

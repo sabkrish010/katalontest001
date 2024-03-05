@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_creatorTeam</name>
+   <tag></tag>
+   <elementGuidId>9e9c0d44-f659-44a6-9f4b-6449792d62dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertyCreatorTeam > div.field.span8 > div.text-box.single-line</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PropertyCreatorTeam']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c8e83085-3a49-4baf-a754-500fd37a40bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-box single-line</value>
+      <webElementGuid>f5cdd9e7-aaa7-46a5-92eb-2b54ff4b7f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Owner Team</value>
+      <webElementGuid>5853f022-d7f8-4448-abf0-54cc93f6ee2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertyCreatorTeam&quot;)/div[@class=&quot;field span8&quot;]/div[@class=&quot;text-box single-line&quot;]</value>
+      <webElementGuid>6ee46322-c414-4da3-854d-5ffb55a45edc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PropertyCreatorTeam']/div[2]/div</value>
+      <webElementGuid>6c630ae2-6778-4fcd-a8bb-1be4778a364c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner Team'])[1]/following::div[2]</value>
+      <webElementGuid>19baa5fc-0915-47fd-af10-d8387ad3b867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creator'])[1]/preceding::div[1]</value>
+      <webElementGuid>20d8589d-4d2c-4299-8186-6ead256c3d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Intelligence Source Management']/parent::*</value>
+      <webElementGuid>f29610db-83d8-45ae-bbec-a48962a952e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div[2]/div</value>
+      <webElementGuid>c905dac8-7a6f-42ea-a2c2-366a420a80ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Owner Team']</value>
+      <webElementGuid>51fe6a6c-e1da-4402-986a-1dc101efc313</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

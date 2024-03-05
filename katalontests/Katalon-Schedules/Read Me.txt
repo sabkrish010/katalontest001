@@ -1,0 +1,9 @@
+Use these files to setup nightly Automation Tests using Windows Task Scheduler
+
+You need to include "cd C:\Katalon-Studio" at the beginning of the bat.
+
+The Master.bat instigates the LogOnLogOff.bat (which effectively wakes the sites from their slumber), in readiness for the multiple Core Functionality batch tests to kick in.
+
+
+Do you need?
+--config -webui.autoUpdateDrivers=true  

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Username</name>
+   <tag></tag>
+   <elementGuidId>1000e046-06f9-4b5f-8f50-dd13d1ec1011</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[@class = 'ui-draggable ui-draggable-handle' and (text() = 'foxtrotg7' or . = 'foxtrotg7')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(11) > span.ui-draggable.ui-draggable-handle</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[@class = 'ui-draggable ui-draggable-handle' and (text() = ${Username} or . = ${Username})])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2619d724-e415-4d8d-9c28-f91c4224a337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: user.username, drag: { value: { UserId: user.id() } }, style: { 'color': user.isLocked() ? '#f00' : null }</value>
+      <webElementGuid>2774ac9d-f433-4f6d-bcc7-e59b5ac13438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-draggable ui-draggable-handle</value>
+      <webElementGuid>afc6ee19-190a-43ec-b970-1d236c28f729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${Username}</value>
+      <webElementGuid>d43ee549-97d7-49eb-b686-aae472131d7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[@class = 'ui-draggable ui-draggable-handle' and (text() = ${Username} or . = ${Username})])[2]</value>
+      <webElementGuid>bbbf2fbf-47a4-40ee-84ee-af862261df6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='unassignedwrapper']/div[11]/span</value>
+      <webElementGuid>50020a4b-2348-44dd-9c7d-98e7160f5e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='foxtrottest'])[1]/following::span[1]</value>
+      <webElementGuid>36b87ff1-7bfe-4ff8-820b-f9ed8502e85a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gary.Kirchmair@clue.co.uk'])[1]/preceding::span[1]</value>
+      <webElementGuid>099b74b7-56eb-45f2-aa88-7f1fe89a14c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='foxtrottest2']/parent::*</value>
+      <webElementGuid>8679d908-b52d-4027-948c-09e8eddcff3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/span</value>
+      <webElementGuid>c28f9465-b24e-4373-b27c-2dcf0e72c5b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

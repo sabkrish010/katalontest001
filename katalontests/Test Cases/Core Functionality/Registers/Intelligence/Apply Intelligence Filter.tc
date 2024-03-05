@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select a Filter drom the dropdown</description>
+   <name>Apply Intelligence Filter</name>
+   <tag>Filter</tag>
+   <comment></comment>
+   <testCaseGuid>dabff20c-bbe0-4eef-a5d2-6255bc304876</testCaseGuid>
+</TestCaseEntity>

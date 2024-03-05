@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Type</name>
+   <tag></tag>
+   <elementGuidId>b7637494-9cbe-44d9-9076-a4f71f1b635c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Configuration']/div/div/div/table/tbody/tr[14]/td[3]/div/div/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0ce36789-d4d7-47c1-9830-63856dc737da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-gray-700 hover:bg-gray-100</value>
+      <webElementGuid>129c7dfa-8df4-484b-81d8-19f3e300d9a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Configuration&quot;)/div[@class=&quot;-my-2 -mx-4 sm:-mx-6 lg:-mx-8&quot;]/div[@class=&quot;inline-block min-w-full py-2 align-middle md:px-6 lg:px-8&quot;]/div[@class=&quot;shadow ring-1 ring-black ring-opacity-5 md:rounded-lg&quot;]/table[@class=&quot;min-w-full divide-y divide-gray-300&quot;]/tbody[@class=&quot;divide-y divide-gray-200 bg-white&quot;]/tr[@class=&quot;bg-white&quot;]/td[@class=&quot;px-2 py-2 text-sm text-gray-900&quot;]/div[@class=&quot;badger&quot;]/div[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu min-w-max absolute hidden bg-white text-base z-50 float-left py-2 list-none text-left rounded-lg shadow-lg mt-1 hidden m-0 bg-clip-padding border-none&quot;]/li[@class=&quot;cursor-pointer&quot;]/span[@class=&quot;dropdown-item text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-gray-700 hover:bg-gray-100&quot;]</value>
+      <webElementGuid>60893e28-e499-46a0-98b5-47c780b86a7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Configuration']/div/div/div/table/tbody/tr[14]/td[3]/div/div/ul/li/span</value>
+      <webElementGuid>40de647d-452d-4357-8387-c82340678149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subject'])[1]/following::span[1]</value>
+      <webElementGuid>9d1f7412-b55c-4ebd-81a8-ddbb4864c388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Civilian'])[2]/preceding::span[1]</value>
+      <webElementGuid>38748bde-fcec-48dc-8430-e57d23fbbccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ex Police Officer'])[3]/preceding::span[2]</value>
+      <webElementGuid>55ab8a64-5dc7-43d4-9ccd-9b94668e0a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[14]/td[3]/div/div/ul/li/span</value>
+      <webElementGuid>dfd96e12-f1d3-434e-973a-a3deeb28cf45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

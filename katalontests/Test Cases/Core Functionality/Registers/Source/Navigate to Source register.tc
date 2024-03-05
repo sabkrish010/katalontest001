@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to the Source register</description>
+   <name>Navigate to Source register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3f185fe-d6d2-4b2d-8f66-c5c9a3926fa0</testCaseGuid>
+</TestCaseEntity>

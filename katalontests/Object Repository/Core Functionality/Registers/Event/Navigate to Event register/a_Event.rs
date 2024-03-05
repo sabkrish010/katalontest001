@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Event</name>
+   <tag></tag>
+   <elementGuidId>ff64ff51-58f0-4e3e-b924-0694dfebf186</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;header&quot;)/div[@class=&quot;nav&quot;]/ul[1]/li[@class=&quot;span3&quot;]/ul[1]/li[12]/a[1][count(. | //a[(text() = 'Event' or . = 'Event')]) = count(//a[(text() = 'Event' or . = 'Event')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Event</value>
+   </webElementProperties>
+</WebElementEntity>

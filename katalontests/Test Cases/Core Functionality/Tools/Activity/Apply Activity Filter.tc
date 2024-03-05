@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select a Filter drom the dropdown</description>
+   <name>Apply Activity Filter</name>
+   <tag>Filter</tag>
+   <comment></comment>
+   <testCaseGuid>bbb1dbef-04fc-4f85-8958-c030349577cd</testCaseGuid>
+</TestCaseEntity>

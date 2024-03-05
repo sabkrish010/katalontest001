@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Save(New View)</name>
+   <tag></tag>
+   <elementGuidId>086e5acc-8ed1-4f61-910c-5e739a4d0f9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@onclick = 'createNewView()' and @type = 'button' and (text() = '  Save Working' or . = '  Save Working') and @name = 'Filters']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name = 'Filters' and @type = 'submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>28c776b2-fd47-44be-bcee-d8f8850c6c08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex justify-center rounded-md border border-transparent py-1 sm:py-2 px-2 sm:px-4 text-sm font-medium text-sky-800 hover:bg-sky-100 focus:outline-none focus-visible:ring-sky-500 focus-visible:ring-2 focus-visible:ring-offset-2 disabled:bg-gray-100 disabled:text-gray-400</value>
+      <webElementGuid>e121aad5-c76a-4653-a3b4-0a744fe84da0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>createNewView()</value>
+      <webElementGuid>b92d787e-9bf7-4c59-b94b-a0542b22824f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>133cc816-6da1-4e0d-8254-6a6a107ebc28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Save Working</value>
+      <webElementGuid>f05df480-044b-4d9b-9c1a-01766b3fd1fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filters&quot;)/div[@class=&quot;w-auto shadow lg:rounded-md bg-gray-100 p-4 -mx-2 lg:-mx-0&quot;]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;shadow sm:rounded-md&quot;]/div[@class=&quot;flex justify-between border-t p-3 bg-gray-50&quot;]/div[@class=&quot;flex&quot;]/button[@class=&quot;inline-flex justify-center rounded-md border border-transparent py-1 sm:py-2 px-2 sm:px-4 text-sm font-medium text-sky-800 hover:bg-sky-100 focus:outline-none focus-visible:ring-sky-500 focus-visible:ring-2 focus-visible:ring-offset-2 disabled:bg-gray-100 disabled:text-gray-400&quot;]</value>
+      <webElementGuid>50598390-eb38-4dc2-b383-e626cb574194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Filters</value>
+      <webElementGuid>490f4b95-8349-4c01-9166-4d8fe0bd7c3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>1baebace-b18b-461a-9269-314ab886df89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='filters']/div/div[2]/div/div[2]/div/button[2]</value>
+      <webElementGuid>e8fc329a-1a6b-4180-99ca-f15b55f9fe6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview changes'])[1]/following::button[1]</value>
+      <webElementGuid>74be175e-5b59-49fc-9503-d74f227a1767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add filter'])[1]/following::button[2]</value>
+      <webElementGuid>8c7b5f3b-d84a-43eb-a2bd-8081bba67f47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::button[1]</value>
+      <webElementGuid>939c74f3-bde8-4c4f-81a0-9bdeea8c8daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working'])[1]/preceding::button[1]</value>
+      <webElementGuid>5745c229-2dd2-49ba-9ee8-63789a66eed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Copy as new view']/parent::*</value>
+      <webElementGuid>3d4b0f18-4745-492e-a745-ac4cc8f3e6ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>fc196f1c-f465-4283-8394-18e9a6a769f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>01727ae6-b021-40e0-88d3-fb853697ed33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

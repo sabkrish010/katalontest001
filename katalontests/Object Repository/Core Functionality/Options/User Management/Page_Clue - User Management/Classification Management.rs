@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Classification Management</name>
+   <tag></tag>
+   <elementGuidId>df433bf6-9288-412a-a678-7717997aa1fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/fieldset[2]/div/div/div[67]/div[2]/div/table/tbody/tr[33]/th[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>3729344b-773b-465d-8ffd-d69c4ddb3c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: componentPermission.name</value>
+      <webElementGuid>d7883ddf-9030-4033-aaae-ebaf26abe5f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Classification Management</value>
+      <webElementGuid>41b55fb1-4524-433b-81c7-63bb73ef1956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/fieldset[2]/div[1]/div[1]/div[@class=&quot;ui-droppable&quot;]/div[2]/div[@class=&quot;list&quot;]/table[1]/tbody[1]/tr[33]/th[2]</value>
+      <webElementGuid>d5019149-f49d-4ee9-9315-c3330816bc01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/fieldset[2]/div/div/div[67]/div[2]/div/table/tbody/tr[33]/th[2]</value>
+      <webElementGuid>ce372248-6bcc-432c-804b-063337a7caa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vehicle'])[2]/following::th[2]</value>
+      <webElementGuid>5e19f653-9718-4a76-ad54-2a0286e1cb4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::th[4]</value>
+      <webElementGuid>9d73525e-b91d-4a94-90e4-12b5eafa5550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='binduk'])[2]/preceding::th[1]</value>
+      <webElementGuid>9c2f3111-f3ce-46b0-a906-55ce9c47a574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Classification Management']/parent::*</value>
+      <webElementGuid>10c6ec72-0193-4e96-9c44-d7d594c19a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[33]/th[2]</value>
+      <webElementGuid>5d473ce6-3dbf-4973-8d60-83d5250ec0ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

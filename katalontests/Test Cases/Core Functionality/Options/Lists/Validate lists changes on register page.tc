@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate lists changes on register page</description>
+   <name>Validate lists changes on register page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd7ae89f-98b1-4915-9447-2e6764cf2a60</testCaseGuid>
+</TestCaseEntity>

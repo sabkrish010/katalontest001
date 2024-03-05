@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search for a term both in records and attachments</description>
+   <name>Search Records and Attachments</name>
+   <tag>Records &amp; Attachments</tag>
+   <comment></comment>
+   <testCaseGuid>b3371110-0231-45ab-99c5-054262e96379</testCaseGuid>
+</TestCaseEntity>

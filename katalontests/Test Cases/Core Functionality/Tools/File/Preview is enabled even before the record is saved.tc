@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>File preview is disabled after an upload until the record is saved</description>
+   <name>Preview is enabled even before the record is saved</name>
+   <tag>File Preview</tag>
+   <comment></comment>
+   <testCaseGuid>b151d661-916a-4d88-9f54-0ea9403b5ea0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_(InvMode) _inInvstDash</name>
+   <tag></tag>
+   <elementGuidId>8c3b8520-d9c5-4383-a844-89c39c7f1fcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'disabled_inv_mode_button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#disabled_inv_mode_button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='(Investigation Mode)']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>537011bb-adfc-4bc9-bce4-e380df555140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blk</value>
+      <webElementGuid>6740196f-5dbc-496f-be05-55c52b3c6c49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>visible:(selectedInvestigation() != null &amp;&amp; availableInvestigations &amp;&amp; availableInvestigations().length > 0)</value>
+      <webElementGuid>3b37826e-153e-464f-83d0-e13ac4a53954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>disabled_inv_mode_button</value>
+      <webElementGuid>f63c5fba-cbfe-4c83-b8a5-b61a8d83cf9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(Investigation Mode)</value>
+      <webElementGuid>0b1161b8-2c0a-477d-8411-78c2bfa447d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;disabled_inv_mode_button&quot;)</value>
+      <webElementGuid>1e14f0c5-00ec-43ee-abee-988185b71072</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='disabled_inv_mode_button']</value>
+      <webElementGuid>579dea5f-79be-46bd-83f1-464ce6971073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div/div[3]/span[2]</value>
+      <webElementGuid>b0ed65d0-8636-40df-bbdd-a449686fe563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='emmal'])[1]/following::span[1]</value>
+      <webElementGuid>6ef6b21e-c8dd-4aaa-8535-53ef440ad34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::span[1]</value>
+      <webElementGuid>2bd4adc6-af1e-42fa-aad3-cb9f305aa98f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Off'])[1]/preceding::span[2]</value>
+      <webElementGuid>de556e55-477b-48b6-8859-9e9ba47add7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(Investigation Mode)']/parent::*</value>
+      <webElementGuid>84d270aa-3d34-42bc-97b0-5fe2027fbd79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>6ccdf27d-2846-4667-b478-122b38f9a1e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'disabled_inv_mode_button']</value>
+      <webElementGuid>7b676d46-a9c5-42e0-b7a6-a2875b4aae1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

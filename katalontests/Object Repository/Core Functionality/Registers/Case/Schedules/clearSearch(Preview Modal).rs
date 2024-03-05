@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>clearSearch(Preview Modal)</name>
+   <tag></tag>
+   <elementGuidId>2d6f157f-4499-4c75-af85-9ef1ffe961d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[4]/div[4]/div[2]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.clearSearch-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6534dea3-f5e8-4149-a9fd-72e23d41d9ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clearSearch-button</value>
+      <webElementGuid>aabb53e5-ce06-4ce3-8aef-10e31925b49a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Search document</value>
+      <webElementGuid>df8616df-3c48-4864-9d21-1b7f2a5acbc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;right-panel&quot;]/div[@class=&quot;Panel SearchPanel open&quot;]/div[@class=&quot;SearchOverlay&quot;]/div[@class=&quot;input-container&quot;]/button[@class=&quot;clearSearch-button&quot;]</value>
+      <webElementGuid>7505577e-2823-46dc-8f2d-f5e2407ee6c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[4]/div[4]/div[2]/div/div/button</value>
+      <webElementGuid>6dded675-24e0-4b83-8237-95edb8cb8be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/ 4'])[1]/following::button[2]</value>
+      <webElementGuid>57cbab28-4c4b-44a2-851c-5de5b9e3a669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Scale'])[1]/following::button[3]</value>
+      <webElementGuid>933d24d6-59aa-4fbd-b585-b8613cf40f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case sensitive'])[1]/preceding::button[1]</value>
+      <webElementGuid>4c8bcb4f-2954-4524-9554-bcba36c7eb68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Whole word'])[1]/preceding::button[1]</value>
+      <webElementGuid>d81e7e7f-e33a-4992-9d34-04172becb1af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>db2fdfd7-5988-4049-bfba-1a04a790c907</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

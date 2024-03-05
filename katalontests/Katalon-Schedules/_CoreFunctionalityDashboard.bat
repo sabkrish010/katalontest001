@@ -1,0 +1,2 @@
+cd F:\Katalon-Studio-Engine
+katalonc -noSplash -runMode=console -projectPath="F:\katalon-tests\katalon-tests.prj" -retry=0 -testSuiteCollectionPath="Test Suites/Core Functionality/Dashboard/_Dashboard (Test Suite Collection)" -apiKey="3804f7b9-9fef-4a79-9d6f-2857dc446baa"

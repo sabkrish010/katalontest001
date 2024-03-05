@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete the notes register</description>
+   <name>Delete a note</name>
+   <tag>Delete Notes</tag>
+   <comment></comment>
+   <testCaseGuid>a08c10ca-805b-407e-9887-d906be7d50c1</testCaseGuid>
+</TestCaseEntity>

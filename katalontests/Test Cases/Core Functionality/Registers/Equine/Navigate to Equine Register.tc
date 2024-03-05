@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to the Equine Register</description>
+   <name>Navigate to Equine Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff231ad9-8888-476c-a2a8-c5ba1aadf6f6</testCaseGuid>
+</TestCaseEntity>

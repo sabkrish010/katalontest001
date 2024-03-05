@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add view to dashboard, validate, remove view from dashboard and delete the view</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99d822ca-248e-4b27-aab5-ca90866ed8f8</testCaseGuid>
+</TestCaseEntity>

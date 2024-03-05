@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search got hits in records only</description>
+   <name>Search Records Only</name>
+   <tag>Search,Record Only</tag>
+   <comment></comment>
+   <testCaseGuid>f8ca5548-e0bb-4314-9ae0-fd159c441e2e</testCaseGuid>
+</TestCaseEntity>

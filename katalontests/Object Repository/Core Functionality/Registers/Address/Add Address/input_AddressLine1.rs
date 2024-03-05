@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_AddressLine1</name>
+   <tag></tag>
+   <elementGuidId>72cf884f-a777-425c-b905-a2fd756cb587</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;AddressLine1&quot;)[count(. | //*[@id = 'AddressLine1' and @title = 'Address Line 1']) = count(//*[@id = 'AddressLine1' and @title = 'Address Line 1'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>cf2273ac-c5c7-44de-acad-81aa939b5d93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AddressLine1</value>
+      <webElementGuid>40efc7ad-249c-475a-a03c-2dde24c134b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>AddressLine1</value>
+      <webElementGuid>61a8ed53-dcf9-414e-ba5d-83c800f2e237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Address Line 1</value>
+      <webElementGuid>240667f4-8794-4e0a-9da4-ecf83ad8935b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1e47376a-5d83-4524-80aa-ee37e30c247d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AddressLine1&quot;)</value>
+      <webElementGuid>c7f60a9a-3b4e-45e0-86c9-dd08fb4bde14</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Submit_To_Position</name>
+   <tag></tag>
+   <elementGuidId>182aa646-056b-4be8-bdee-31449cee17e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#submit-position</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='submit-position']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7634b715-f986-458b-88e4-605a1074195d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>submit-position</value>
+      <webElementGuid>e75fda3c-bbcb-4446-ac05-dfebe9f22e30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a5becbb2-2aa2-4b3c-a1f7-46e82ecaa5bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex justify-center rounded-md border border-transparent bg-blue-800 py-1 sm:py-2 px-2 sm:px-4 text-sm font-medium text-white shadow-sm hover:bg-blue-900 focus:ring-transparent focus:outline-none focus-visible:ring-sky-500 focus-visible:ring-2 focus-visible:ring-offset-2 disabled:bg-gray-100 disabled:text-gray-400 disabled:border-gray-300 group</value>
+      <webElementGuid>1589ec6b-dfc3-47e2-8b69-df02dab0e995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>moveToPosition(31, 20)</value>
+      <webElementGuid>88c8b43e-6b02-4176-8335-22bf53e13faf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+                    
+                        
+                        
+                    
+
+                    Submit
+                    Working
+                </value>
+      <webElementGuid>788e7b6f-348f-4924-9b34-c42f77e7251b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submit-position&quot;)</value>
+      <webElementGuid>276a2eea-9ee1-49ff-89b0-069b7d40548f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='submit-position']</value>
+      <webElementGuid>a6f5f2e1-8c89-4fba-9290-e6d9d630b982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel-position-form']/form/div/button[2]</value>
+      <webElementGuid>dda75448-3124-40dc-b7af-b81565c86522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>640c1513-da05-4099-826c-979c7985bb8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move to position:'])[1]/following::button[2]</value>
+      <webElementGuid>0d719ba5-b522-48e9-ac5b-6264d9bf2aaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/button[2]</value>
+      <webElementGuid>498885a6-2600-4382-8d66-6e7d48061389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'submit-position' and @type = 'button']</value>
+      <webElementGuid>8cb4a109-9577-4e87-86d6-958a864b16b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

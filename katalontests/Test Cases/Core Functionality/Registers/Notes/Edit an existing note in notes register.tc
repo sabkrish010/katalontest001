@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit an existing note in notes registe</description>
+   <name>Edit an existing note in notes register</name>
+   <tag>Edit Notes</tag>
+   <comment></comment>
+   <testCaseGuid>fd09b921-d51e-468d-a10c-be268a581094</testCaseGuid>
+</TestCaseEntity>

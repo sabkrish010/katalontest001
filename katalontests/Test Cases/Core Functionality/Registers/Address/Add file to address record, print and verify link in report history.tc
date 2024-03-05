@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add a file to address, append and then download the file</description>
+   <name>Add file to address record, print and verify link in report history</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d14b6043-7d02-473b-9369-7b2bcaab1be1</testCaseGuid>
+</TestCaseEntity>

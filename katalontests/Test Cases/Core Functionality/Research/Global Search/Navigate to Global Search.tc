@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to the Global Search page</description>
+   <name>Navigate to Global Search</name>
+   <tag>Global Search</tag>
+   <comment></comment>
+   <testCaseGuid>733aa5fc-0857-4401-9872-f78904723ca9</testCaseGuid>
+</TestCaseEntity>

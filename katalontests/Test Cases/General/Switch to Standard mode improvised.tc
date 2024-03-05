@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Improvised switch to standard mode avoiding the route of making the step optional</description>
+   <name>Switch to Standard mode improvised</name>
+   <tag>Improvised Switch Std Mode</tag>
+   <comment></comment>
+   <testCaseGuid>a5cceb3a-4ee8-4ed3-870f-b543ebdb4548</testCaseGuid>
+</TestCaseEntity>

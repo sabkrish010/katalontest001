@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>File Preview - File link preview in address register search results</name>
+   <tag>File Register Search</tag>
+   <comment></comment>
+   <testCaseGuid>f2d6e5ff-fe6f-4826-bc6d-3aff7cfbd6d5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d76fd308-257f-4569-91d6-c6bd2a2823cd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d76fd308-257f-4569-91d6-c6bd2a2823cd</id>
+      <masked>false</masked>
+      <name>regnamevar</name>
+   </variable>
+</TestCaseEntity>

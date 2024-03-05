@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Minute of Occurrence</name>
+   <tag></tag>
+   <elementGuidId>ab517eb8-dd30-43d7-8a10-1aaedb28da8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#OccurrenceDateMin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id = 'OccurrenceDateMin' and @type = 'number' and @name = 'OccurrenceDateMin']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;OccurrenceDateTime_minute&quot;)[count(. | //*[@id = 'OccurrenceDateTime_minute' and @type = 'number']) = count(//*[@id = 'OccurrenceDateTime_minute' and @type = 'number'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>55b3e12f-9a0b-40c8-bde7-5b0f22fdd3cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>OccurrenceDateTime_minute</value>
+      <webElementGuid>94a5a10d-d675-44c0-b2be-3f14521283f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>63321efb-b73c-4b9a-9b07-d9843a3f6b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;OccurrenceDateTime_minute&quot;)</value>
+      <webElementGuid>7eed334b-5eea-471b-9d77-01fc7b189e98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='OccurrenceDateMin']</value>
+      <webElementGuid>23c27961-5f01-45b5-923d-d72e7e8eb378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noteCrudModal']/div/main/div[5]/div/div/div[2]/input[2]</value>
+      <webElementGuid>9d6fec11-b379-4a29-a32e-bf07ee046907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input[2]</value>
+      <webElementGuid>99c08a9e-d233-43c5-891d-8562b80f73b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'OccurrenceDateMin' and @type = 'number' and @name = 'OccurrenceDateMin']</value>
+      <webElementGuid>2833bba0-6c32-4d65-905b-5d42a12127d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

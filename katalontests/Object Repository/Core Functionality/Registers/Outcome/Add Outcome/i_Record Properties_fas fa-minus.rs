@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Record Properties_fas fa-minus</name>
+   <tag></tag>
+   <elementGuidId>7fc49bde-1b04-43b7-9868-e48a0e44e01b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-minus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='recordPropertiesCollapse']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c393b0c0-ed95-4ba7-b418-5d0dd442cfeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-minus</value>
+      <webElementGuid>13eb9a8a-f57d-45f7-a562-2845e247bcf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;recordPropertiesCollapse&quot;)/i[@class=&quot;fas fa-minus&quot;]</value>
+      <webElementGuid>c7627b21-2c80-46e5-b3d1-5da651dbd3e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='recordPropertiesCollapse']/i</value>
+      <webElementGuid>9ae2e5cc-e981-4550-b72e-d688e1f8b0d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>019504f2-47d8-4a79-9ca7-2b401e94da29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LinkReason(File Pop-Up)</name>
+   <tag></tag>
+   <elementGuidId>0f225d5e-01cc-4c44-b66f-e7937c50125e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@class = 'custom-combobox-input combo-box ui-autocomplete-input' and @autocomplete = 'off']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.custom-combobox-input.combo-box.ui-autocomplete-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-id-13']/div/form/fieldset[2]/ul/li/div[2]/span/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2b1facc0-6ed9-494c-aa25-ed2ebcffea26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-combobox-input combo-box ui-autocomplete-input</value>
+      <webElementGuid>109a61ac-6503-4a06-a07c-04ca2ee49af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>13afc2e8-685f-4107-add8-24220ca13ef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-13&quot;)/div[1]/form[1]/fieldset[2]/ul[1]/li[1]/div[@class=&quot;field span8&quot;]/span[@class=&quot;custom-combobox&quot;]/input[@class=&quot;custom-combobox-input combo-box ui-autocomplete-input&quot;]</value>
+      <webElementGuid>9ff91340-03ec-470f-bc26-47becd1ad0a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-id-13']/div/form/fieldset[2]/ul/li/div[2]/span/input</value>
+      <webElementGuid>3b1c1a1a-c14e-4d7f-887e-d5a2b2801c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/input</value>
+      <webElementGuid>0a6e4161-b8d7-43c1-952c-9ce42a74b1e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

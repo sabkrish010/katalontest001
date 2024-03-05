@@ -1,0 +1,5 @@
+cd F:\Katalon-Studio-Engine
+katalonc -noSplash  -runMode=console -projectPath="F:\katalon-tests\katalon-tests.prj" -retry=0 -testSuiteCollectionPath="Test Suites/Core Functionality/Research/Charting/_Charting (Test Suite Collection)"
+katalonc -noSplash  -runMode=console -projectPath="F:\katalon-tests\katalon-tests.prj" -retry=0 -testSuiteCollectionPath="Test Suites/Core Functionality/Research/Global Search/_Global Search Test Suite Collection"
+katalonc -noSplash  -runMode=console -projectPath="F:\katalon-tests\katalon-tests.prj" -retry=0 -testSuiteCollectionPath="Test Suites/Core Functionality/Research/Reporting/_Reporting (Test Suite Collection)"
+katalonc -noSplash  -runMode=console -projectPath="F:\katalon-tests\katalon-tests.prj" -retry=0 -testSuiteCollectionPath="Test Suites/Core Functionality/Research/User Management/_User Management Test Suite Collection"

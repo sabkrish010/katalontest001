@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Redact_options(RedactResultsPop-Up)</name>
+   <tag></tag>
+   <elementGuidId>f4f6040c-2c52-4b1d-91a8-827e8b4cc925</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='result-id-0']/div/div/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#actions-trigger</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;result-id-0&quot;)/div[@class=&quot;min-w-full min-h-[7rem]&quot;]/div[@class=&quot;flex items-center justify-between gap-x-2&quot;]/div[@class=&quot;flex flex-none items-center gap-x-4&quot;]/div[@class=&quot;relative flex-none -ml-2&quot;]/button[@id=&quot;actions-trigger&quot;][count(. | //*[@type = 'button' and @id = 'actions-trigger' and @title = 'Actions']) = count(//*[@type = 'button' and @id = 'actions-trigger' and @title = 'Actions'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>38a860d0-f173-4f14-bb84-9dd7ea0547be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>73afd1c8-18c8-43d4-b2eb-67cd6827e67d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>actions-trigger</value>
+      <webElementGuid>00167b09-21fe-4451-be45-0be71622e84d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Actions</value>
+      <webElementGuid>b7dff787-2047-42cf-8f62-c3b820f65af9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Actions</value>
+      <webElementGuid>85979a9e-3bd3-431d-aeb2-b872647e8ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center
+                              rounded-full border border-transparent bg-white p-1
+                              text-gray-900 hover:shadow-sm hover:bg-gray-100
+                              focus:ring-transparent focus:outline-none focus-visible:ring-sky-500 focus-visible:ring-2 focus-visible:ring-offset-2  disabled:bg-gray-100 disabled:text-gray-400 disabled:border-gray-300</value>
+      <webElementGuid>39559040-606d-4a88-a04e-0725174c7fb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>click: function () { $parent.openList('dropList_' + $index()); }</value>
+      <webElementGuid>6399b029-eef8-4cef-b3c4-2518a0d623bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result-id-0&quot;)/div[@class=&quot;min-w-full min-h-[7rem]&quot;]/div[@class=&quot;flex items-center justify-between gap-x-2&quot;]/div[@class=&quot;flex flex-none items-center gap-x-4&quot;]/div[@class=&quot;relative flex-none -ml-2&quot;]/button[@id=&quot;actions-trigger&quot;]</value>
+      <webElementGuid>55432f3a-aeda-424a-a383-3bb511646df6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='actions-trigger']</value>
+      <webElementGuid>119bd54f-c7a2-4938-b2d4-36d03492f98d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='result-id-0']/div/div/div[2]/div/button</value>
+      <webElementGuid>c4abaf53-7779-454f-b199-680d38658fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redact'])[1]/following::button[1]</value>
+      <webElementGuid>b3e0855e-3c0f-4a63-bf5c-3f6baa6a868e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task | 779 | PII Redaction -John'])[1]/following::button[2]</value>
+      <webElementGuid>ff4821b5-eaf3-4f61-82f1-8d9394ee80c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/preceding::button[1]</value>
+      <webElementGuid>a0bde383-4d9f-419a-9151-5132e24f4a74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[1]/preceding::button[1]</value>
+      <webElementGuid>4cbec8b2-d5d2-4d9d-8a97-bd0d8d19a168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/button</value>
+      <webElementGuid>f17abfd7-e9c7-45d6-be12-5e9af7d737b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'actions-trigger' and @title = 'Actions']</value>
+      <webElementGuid>656f10e6-cdfe-4f80-bd8c-a1f760e6c15c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

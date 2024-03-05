@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VEHICLE - Error when running register search with some specific filters</name>
+   <tag>Search Vehicle</tag>
+   <comment></comment>
+   <testCaseGuid>a0298831-175b-43d5-b142-1aa37c897575</testCaseGuid>
+</TestCaseEntity>

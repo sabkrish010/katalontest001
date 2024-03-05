@@ -1,0 +1,6 @@
+cd F:\Katalon-Studio-Engine
+katalonc -noSplash -runMode=console -projectPath="f:\katalon-tests\katalon-tests.prj" -retry=0 -testSuiteCollectionPath="Test Suites/Core Functionality/Options/Audit/_Audit (Test Suite Collection)" -apiKey="e4f91543-2903-47e1-ad05-8bad64c84d5c"
+katalonc -noSplash -runMode=console -projectPath="f:\katalon-tests\katalon-tests.prj" -retry=0 -testSuiteCollectionPath="Test Suites/Core Functionality/Options/Custom Fields/_Custom Fields (Test Suite Collection)" -apiKey="e4f91543-2903-47e1-ad05-8bad64c84d5c"
+katalonc -noSplash -runMode=console -projectPath="f:\katalon-tests\katalon-tests.prj" -retry=0 -testSuiteCollectionPath="Test Suites/Core Functionality/Options/Fields/_Fields Register (Test Suite Collection)" -apiKey="e4f91543-2903-47e1-ad05-8bad64c84d5c"
+katalonc -noSplash -runMode=console -projectPath="f:\katalon-tests\katalon-tests.prj" -retry=0 -testSuiteCollectionPath="Test Suites/Core Functionality/Options/Lists/_Lists Register (Test Suite Collection)" -apiKey="e4f91543-2903-47e1-ad05-8bad64c84d5c"
+katalonc -noSplash -runMode=console -projectPath="f:\katalon-tests\katalon-tests.prj" -retry=0 -testSuiteCollectionPath="Test Suites/Core Functionality/Options/Menus/_Menus Register (Test Suite Collection)" -apiKey="e4f91543-2903-47e1-ad05-8bad64c84d5c"

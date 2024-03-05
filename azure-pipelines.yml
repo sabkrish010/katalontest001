@@ -1,0 +1,78 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+# schedules:
+# - cron: "0 18 * * *"
+#   displayName: Daily Katalon test run @ 6 PM 
+#   branches:
+#     include:
+#     - main 
+
+trigger: none
+
+pool:
+  name: Azure Pipelines
+  vmImage: 'windows-latest'
+  
+
+parameters:
+  - name : testSuitesPath  
+    type: object
+    default: 
+       array : [
+                  #"Test Suites/Core Functionality/Dashboard/_Dashboard (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Options/Audit/_Audit (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Options/Custom Fields/_Custom Fields (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Options/Field Management/_Field Management (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Options/Lists/_Lists (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Options/Menus/_Menus (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Options/User Management/_User Management (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Address/_Address (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Case/_Case (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Communication/_Communication (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Decision/_Decision (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Equine/_Equine (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Event/_Event (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/File/File (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Incident/_Incident (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Information/_Information (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Intelligence/_Intelligence (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Investigation/_Investigation (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Material/_Material (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Organisation/_Organisation (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Person/_Person (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Source/_Source (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Staff/_Staff (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Statement/_Statement (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Registers/Vehicle/_Vehicle (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Research/Charting/_Charting (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Research/Global Search/_Global Search (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Research/Reporting/_Reporting (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Research/User Management/_User Management (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Tools/Activity/_Activity (Test Suite Collection)",
+                  #"Test Suites/Core Functionality/Tools/Task/_Task (Test Suite Collection)",
+                  #"Test Suites/General/_General (Test Suite Collection)",
+                  #"Test Suites/General/_Log On Log Off (Test Suite Collection)",
+                  #"Test Suites/Performance Test Cases/_Full User Journey (Test Suite)",
+                  #"Test Suites/Register Search and Advanced Options/RegisterSearch_All_TestSuites",
+                  "Test Suites/Regression Tests/Regression (test suite collection)",
+                  #"Test Suites/Redaction/_Redaction Test Suite Collection"
+               ]
+
+
+jobs:
+  - job: 
+    timeoutInMinutes: 0 # how long to run the job before
+    steps: 
+    - ${{ each testSuitePath in parameters.testSuitesPath }}: 
+      - ${{ each filePath in testSuitePath.value }}:
+        - task: katalonTask@1
+          continueOnError: true
+          inputs:
+            version: '9.2.0'
+            executeArgs: './katalonc -noSplash -runMode=console -projectPath=D:\a\1\s\katalontests\katalon-tests.prj -retry=0 -statusDelay=15 -testSuiteCollectionPath="Test Suites\Core Functionality\Dashboard\_Dashboard (Test Suite Collection)" -apiKey= "$(KatalonApiKey)" -orgID=988245 -licenseRelease=true --config -webui.autoUpdateDrivers=true -adoPlanId=8906 -adoTestRunName=Katalon Test Run --info -adoDefinitionID=18​'
+            xvfbConfiguration: '-a -n 0 -s "-screen 0 1024x768x24"'
+          displayName: ${{ filePath }}
+          

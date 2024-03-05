@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check for HR Search button on Add Pop-Up's, import person record and save.</description>
+   <name>Add Person via links</name>
+   <tag>HR Search Pop-up Links</tag>
+   <comment></comment>
+   <testCaseGuid>48bd9ecd-0b62-4a8f-95fc-21aefa669cc2</testCaseGuid>
+</TestCaseEntity>

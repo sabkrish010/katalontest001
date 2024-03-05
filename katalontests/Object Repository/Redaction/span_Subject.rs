@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Subject</name>
+   <tag></tag>
+   <elementGuidId>39dac680-facd-4845-b54b-1435e02f7070</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-id-1']/div/div/div/header/div/div/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1fdf2274-5e67-4e6b-9f2e-fc9b0453d1b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>max-w-[12rem] truncate pl-2 pr-2 py-0.5 rounded-r-full font-semibold</value>
+      <webElementGuid>3f7a1102-e8ac-4228-973c-a7632a48eb5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text:model.SearchParams().Register() + ', ' + model.SearchParams().Urn() + ', ' + model.SearchParams().SearchTerms()[0].Forename() + ' ' + model.SearchParams().SearchTerms()[0].Surname()</value>
+      <webElementGuid>2fe13ab0-132b-4b63-bda2-1d9f631e84ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Person, 744, Cassidy Houston</value>
+      <webElementGuid>bf3aa635-9215-4eb5-9162-be59f2c10ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-1&quot;)/div[@class=&quot;tailwind&quot;]/div[@class=&quot;bg-white min-h-full&quot;]/div[@class=&quot;flex h-[calc(100vh-7.34rem)] flex-col overflow-hidden&quot;]/header[@class=&quot;border-b z-20 bg-gray-50&quot;]/div[@class=&quot;relative mx-auto max-w-screen-xl py-3 px-4&quot;]/div[@class=&quot;absolute top-0 right-4 flex flex-wrap items-center py-2 py-5&quot;]/span[@class=&quot;inline-flex items-center rounded-full text-xs ring-1 ring-gray-200 text-gray-600 bg-white&quot;]/span[@class=&quot;max-w-[12rem] truncate pl-2 pr-2 py-0.5 rounded-r-full font-semibold&quot;]</value>
+      <webElementGuid>0428f8f5-c91e-43ee-afe6-18872681b0ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-id-1']/div/div/div/header/div/div/span/span[2]</value>
+      <webElementGuid>fa641592-0244-4090-a90b-43e0bce4be09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaction subject'])[1]/following::span[1]</value>
+      <webElementGuid>bb6e8756-e88d-45f3-861c-a263f55b8cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::span[3]</value>
+      <webElementGuid>4d8c5f4b-1aa5-4231-afbb-6a20f0881f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Term'])[1]/preceding::span[2]</value>
+      <webElementGuid>4829ed7e-276b-47d4-ac1f-3230e0d4be96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Value'])[1]/preceding::span[2]</value>
+      <webElementGuid>7ad2891c-72ec-433b-84dc-98ded0a02741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Person, 744, Cassidy Houston']/parent::*</value>
+      <webElementGuid>ca878302-918d-44bb-a447-7ed17ad84d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span[2]</value>
+      <webElementGuid>9c6fa950-a3e1-4691-8abe-75a36464925b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

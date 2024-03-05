@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_No of records(Add Pop-Up)</name>
+   <tag></tag>
+   <elementGuidId>ed834cc1-9132-4f16-8db6-ecb086c75a44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form4']/div[3]/div/table/tfoot/tr/td/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dd048c25-efe6-4867-9628-b3c46fbe5b88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>visible:!showNoTotal(),text: ((totalPages() > 1) ? 'Showing ' + firstIndex() + ' to ' + lastIndex() + ' of ' : '') + totalRecords() + ' record' + ((totalRecords() === 1) ? '' : 's')</value>
+      <webElementGuid>8ec6b277-f8c3-4dac-83f2-c81133486a07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form4&quot;)/div[3]/div[@class=&quot;list maxWidth&quot;]/table[1]/tfoot[1]/tr[1]/td[1]/div[1]</value>
+      <webElementGuid>2cefb8ed-381b-4b45-9f64-35a4dd02e197</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form4']/div[3]/div/table/tfoot/tr/td/div</value>
+      <webElementGuid>50e87521-6abd-4941-b869-97545bc3f08b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Human Tactics Analyst'])[1]/following::div[1]</value>
+      <webElementGuid>f635edd1-c0d3-45b2-a19e-834494af07ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 10'])[1]/preceding::div[1]</value>
+      <webElementGuid>1869b5ab-fa82-4767-ae29-942bd62f7977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alert'])[1]/preceding::div[3]</value>
+      <webElementGuid>7d7435c8-0238-4b74-a89e-2591c46ba327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Showing 1 to 10 of 42 records']/parent::*</value>
+      <webElementGuid>ef9246ea-76e0-4707-9119-ef216d99eb62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/table/tfoot/tr/td/div</value>
+      <webElementGuid>82e239ff-30aa-45e1-ab28-c43b71a3f536</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

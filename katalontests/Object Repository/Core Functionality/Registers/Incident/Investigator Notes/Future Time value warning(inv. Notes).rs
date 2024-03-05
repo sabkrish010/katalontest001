@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Future Time value warning(inv. Notes)</name>
+   <tag></tag>
+   <elementGuidId>88fbd098-f061-46fa-a776-8b19a10c073e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.validation-summary-errors > ul > li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dialog1']/form/fieldset/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2d9ee744-41b4-4278-bd5d-81be33ca04cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The field Time of Occurrence does not permit future times.</value>
+      <webElementGuid>c7b4d458-acdd-4979-9ff4-e722520b2715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dialog1&quot;)/form[1]/fieldset[1]/div[@class=&quot;validation-summary-errors&quot;]/ul[1]/li[1]</value>
+      <webElementGuid>6046b0f0-5c68-43fc-be8a-9a4592c7fbfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dialog1']/form/fieldset/div/ul/li</value>
+      <webElementGuid>30de08f1-f9ed-4999-9d8b-49dd22189854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please correct the following:'])[2]/following::li[1]</value>
+      <webElementGuid>d630e06d-f078-45df-a70b-541534b4ce28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[2]/following::li[1]</value>
+      <webElementGuid>76eca2ea-af7a-4feb-aedd-068431384fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entered By'])[1]/preceding::li[1]</value>
+      <webElementGuid>fe66623e-ee3b-4202-a433-37884929b497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The field Time of Occurrence does not permit future times.']/parent::*</value>
+      <webElementGuid>80843935-4d07-48fe-8e34-ff7489311341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/fieldset/div/ul/li</value>
+      <webElementGuid>48f10ea7-b141-490d-87d1-67331d252e98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

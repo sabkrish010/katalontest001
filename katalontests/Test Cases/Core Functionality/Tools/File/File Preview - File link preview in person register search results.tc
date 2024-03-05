@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>File Preview - File link preview in person register search results</name>
+   <tag>File Register Search</tag>
+   <comment></comment>
+   <testCaseGuid>89b0a9d4-ca16-46d0-be40-896964ea9b58</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05aa4a4e-da2a-4152-8899-5b445d327c0f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>05aa4a4e-da2a-4152-8899-5b445d327c0f</id>
+      <masked>false</masked>
+      <name>regnamevar</name>
+   </variable>
+</TestCaseEntity>

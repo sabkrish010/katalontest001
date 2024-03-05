@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to the Custom Fields register</description>
+   <name>Navigate to Custom Fields</name>
+   <tag>Custom Fields</tag>
+   <comment></comment>
+   <testCaseGuid>eb4a0233-c398-4f3b-9d3a-3637b723a602</testCaseGuid>
+</TestCaseEntity>

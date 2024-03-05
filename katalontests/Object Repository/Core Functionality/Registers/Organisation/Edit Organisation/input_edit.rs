@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_edit</name>
+   <tag></tag>
+   <elementGuidId>c309014a-1c22-46c4-9b95-cf7f5eb2cefc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;edit&quot;)[count(. | //input[@id = 'edit']) = count(//input[@id = 'edit'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type = 'button' and @id = 'edit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9ae1725b-11c4-4ea3-9ac0-6cc8fef26903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2b103fe2-c08c-4561-840b-382ecaca9c87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>edit</value>
+      <webElementGuid>f4d20ef0-6e18-4038-abb0-75bf02b98543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>ffc79af1-ef3d-48dd-a6b9-12730b01fe31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>click: editRecord, css: { hidden: !settings.EditUrl }</value>
+      <webElementGuid>966baaed-c5d0-44aa-a6e8-b3a046d5de89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit&quot;)</value>
+      <webElementGuid>378638c5-adc9-4cbb-8901-f7eb60841e54</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

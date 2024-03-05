@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>resultsFound_SchedulePreview</name>
+   <tag></tag>
+   <elementGuidId>96c32b7a-968b-48b3-b51c-4213203b7aa1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[4]/div[4]/div[2]/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.SearchOverlay > div.footer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9bfa572d-d1ef-49cc-b21f-1df216d45037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>footer</value>
+      <webElementGuid>58f7d94f-dd27-4819-9ba8-d9d7f5f9ef53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>results found</value>
+      <webElementGuid>338c3955-b780-4f91-bb29-7bf39749624f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;right-panel&quot;]/div[@class=&quot;Panel SearchPanel open&quot;]/div[@class=&quot;SearchOverlay&quot;]/div[@class=&quot;footer&quot;]</value>
+      <webElementGuid>64e5cb84-d249-4a38-806e-ccf615a93acb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[4]/div[4]/div[2]/div/div[4]</value>
+      <webElementGuid>d4839e0b-d534-446f-8fdc-6a68f0816526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Whole word'])[1]/following::div[2]</value>
+      <webElementGuid>f8a83728-3e19-4b92-b13a-8a1000298808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case sensitive'])[1]/following::div[3]</value>
+      <webElementGuid>dedc7a68-6146-4f6c-9636-7099b3431d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page 2'])[1]/preceding::div[5]</value>
+      <webElementGuid>98bc4b73-ae45-414b-b42e-457efdbab94c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div[4]</value>
+      <webElementGuid>3e208e60-91b5-4f90-a215-4af9f9e5fe2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

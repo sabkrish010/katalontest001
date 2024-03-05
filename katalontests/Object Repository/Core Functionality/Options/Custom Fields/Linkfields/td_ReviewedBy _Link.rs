@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_ReviewedBy _Link</name>
+   <tag></tag>
+   <elementGuidId>6447f15f-5a7f-4492-816e-71d33303a68d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//td[(text() = 'ReviewedBy _Link' or . = 'ReviewedBy _Link')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='ReviewedBy _Link']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#custField_2142</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5867ca83-0ded-4718-bb04-58abb8014099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>attr: { id: 'custField_' + customfield.Id },click:function(){$parent.setSelectedCustomField(customfield);},text: (customfield.IfType ? '(Conditional) ' : '') + customfield.Title</value>
+      <webElementGuid>0764297f-ebc8-4233-b636-f5ce6d1bf0b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>custField_2142</value>
+      <webElementGuid>76151f74-0d5c-4aca-9c02-b9521bbdfe30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ReviewedBy _Link</value>
+      <webElementGuid>b7d06b2a-f1ef-48df-972b-8a3ef97af8e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;custField_2142&quot;)</value>
+      <webElementGuid>1754c195-0c36-4da9-aaec-9e92a8e58ef4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='custField_2142']</value>
+      <webElementGuid>eda264bf-e470-48bd-85b6-090d91d01dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='customFieldsList']/tr[5]/td</value>
+      <webElementGuid>5202a9b2-4860-4d58-ba09-047c6047bb11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review Reference'])[1]/following::td[1]</value>
+      <webElementGuid>f25edf8b-177d-40f0-82ee-0ed291e7f3c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Officer Notes'])[1]/following::td[2]</value>
+      <webElementGuid>f3b28df8-774b-492e-bb13-c31856b107c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clue Computing Company Ltd'])[1]/preceding::td[1]</value>
+      <webElementGuid>df698b48-3e48-4fd3-bc88-6fba9bda26b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ReviewedBy _Link']/parent::*</value>
+      <webElementGuid>d8ab6ef6-fabf-4105-922d-ba425d320228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td</value>
+      <webElementGuid>0ee22ac1-6b8d-495a-a61f-081f2541dc63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@id = 'custField_2142']</value>
+      <webElementGuid>f5d8b3ee-23f4-45a9-a900-dd21cb2df294</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

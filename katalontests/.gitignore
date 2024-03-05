@@ -1,0 +1,13 @@
+.vs
+Reports/
+bin/lib/*.class
+bin/keyword/*.class
+bin/keyword/*
+bin/lib/CustomKeywords.class
+/libs/*.groovy
+/libs/CustomKeywords.groovy
+/settings/internal/com*.properties
+.classpath
+.project
+.cache
+/settings/internal/com.kms.katalon.composer.testcase.properties

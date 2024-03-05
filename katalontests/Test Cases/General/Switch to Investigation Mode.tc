@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Switch to Investigation Mode</description>
+   <name>Switch to Investigation Mode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0e6523b-ee3f-45b4-a3ba-3d4d128ced34</testCaseGuid>
+</TestCaseEntity>

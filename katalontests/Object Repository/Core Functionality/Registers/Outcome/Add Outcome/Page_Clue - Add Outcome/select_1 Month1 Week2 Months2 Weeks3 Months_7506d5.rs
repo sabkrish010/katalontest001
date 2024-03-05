@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_1 Month1 Week2 Months2 Weeks3 Months_7506d5</name>
+   <tag></tag>
+   <elementGuidId>25027bca-1a19-4a80-8309-8705cd2d9c6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ReviewPeriod']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ReviewPeriod</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>149d8e54-7761-4c20-b578-2d2b2eed7076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combo-box editable</value>
+      <webElementGuid>8dc27b98-7066-49cb-93a0-86342e447e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>options: clue.lookup('a54a367e-aa4b-4644-93a9-e887f54e2b1d', model.ReviewPeriod()), value: model.ReviewPeriod, event: {change: function () {if (model.ReviewPeriod() != null){model.ReviewDate(clue.addPeriodToDate(new Date(), model.ReviewPeriod(), true));}} }</value>
+      <webElementGuid>010e9976-99a0-4b12-a967-c68aac125d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ReviewPeriod</value>
+      <webElementGuid>cddfa319-e4ca-42f6-8039-9533e521cfcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ReviewPeriod</value>
+      <webElementGuid>efc05fc4-a758-4b6a-925f-b263a96ac426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Review After</value>
+      <webElementGuid>44c68778-3f15-4b96-b77f-526136553fb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 Month1 Week2 Months2 Weeks3 Months3 Weeks3 Years5 Years6 Years
+</value>
+      <webElementGuid>703fe236-1888-489d-8dce-b08f0fbc29f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ReviewPeriod&quot;)</value>
+      <webElementGuid>76c298d1-872c-4d2c-a43b-d2bd3f48b502</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ReviewPeriod']</value>
+      <webElementGuid>e176a3b1-d20d-4567-8a07-bd6b7c4285ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form1']/div[5]/fieldset/ul/li[4]/div[2]/select</value>
+      <webElementGuid>6ca46daa-fa9c-418e-bb9b-e7bc7e73f5d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review After'])[1]/following::select[1]</value>
+      <webElementGuid>e4a9970c-66f3-49b7-9bdc-aff6fda272e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='on'])[1]/preceding::select[1]</value>
+      <webElementGuid>33471184-5cdf-4660-8bb9-02c3baf56fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div[2]/select</value>
+      <webElementGuid>85a640e4-06b3-46ea-bad9-543b31a95f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ReviewPeriod' and @name = 'ReviewPeriod' and @title = 'Review After']</value>
+      <webElementGuid>0ab7e59b-80b3-485f-a57e-0b298f6623c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

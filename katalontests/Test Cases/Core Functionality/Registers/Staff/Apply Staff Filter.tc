@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select a Filter drom the dropdown</description>
+   <name>Apply Staff Filter</name>
+   <tag>Filter</tag>
+   <comment></comment>
+   <testCaseGuid>c82d2fae-9ad9-4300-be48-e487b15cb54c</testCaseGuid>
+</TestCaseEntity>

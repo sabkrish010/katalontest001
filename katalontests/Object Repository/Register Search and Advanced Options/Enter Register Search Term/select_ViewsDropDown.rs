@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ViewsDropDown</name>
+   <tag></tag>
+   <elementGuidId>f5719607-22d8-45c0-af0e-a3c6a11e268a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>#viewsDropDown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>747395e6-d154-477e-bcd8-5c746537e31b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>viewsDropDown</value>
+      <webElementGuid>296779a8-2968-4d6e-b802-da949e1cfc22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combo-box registerComboBox disabled</value>
+      <webElementGuid>495fdac5-daf7-4eba-82a9-30c33e648312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>options: availableViews, optionsText: 'Name', value: selectedView, optionsAfterRender: highlightDefaultView, disable: isSearching(), css: { disabled: isSearching() }</value>
+      <webElementGuid>029ee658-c044-4ffe-8c1f-6af8b367ae39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;viewsDropDown&quot;)</value>
+      <webElementGuid>79432eff-f10b-4363-9dca-efe9fb629750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#viewsDropDown</value>
+      <webElementGuid>4bd98fd8-d2bf-43a2-81d5-7a9d84f6499d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

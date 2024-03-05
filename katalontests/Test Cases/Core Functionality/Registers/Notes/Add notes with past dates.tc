@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add notes with past dates</name>
+   <tag>Notes</tag>
+   <comment></comment>
+   <testCaseGuid>ec96c3af-4091-42cd-9995-baa85e274d26</testCaseGuid>
+</TestCaseEntity>

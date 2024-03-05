@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AssignedTo</name>
+   <tag></tag>
+   <elementGuidId>d4d1a826-95c6-4dac-9c8b-28e38d3049b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;AssignedTo&quot;)[count(. | //select[@id = 'AssignedTo']) = count(//select[@id = 'AssignedTo'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>30f3ac99-cbf0-493d-b44b-14e71d8199b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AssignedTo</value>
+      <webElementGuid>3af9a093-2239-422c-8385-e97d0fd2b9d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AssignedTo&quot;)</value>
+      <webElementGuid>c9a9389e-fdc3-487d-b11e-7864e226ac61</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select a Filter drom the dropdown</description>
+   <name>Apply Investigation Filter</name>
+   <tag>Filter</tag>
+   <comment></comment>
+   <testCaseGuid>cb82d2df-8ea7-4baf-9909-6e4ed9965fdb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Address register via the register tabs</description>
+   <name>Navigate to Address Register</name>
+   <tag>Address</tag>
+   <comment></comment>
+   <testCaseGuid>b2d636c9-b5b8-47d7-b55d-1ad3693922f0</testCaseGuid>
+</TestCaseEntity>

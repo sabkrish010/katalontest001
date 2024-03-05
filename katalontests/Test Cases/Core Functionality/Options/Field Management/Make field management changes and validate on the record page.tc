@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make field management changes and save. Validate the field on the record.</description>
+   <name>Make field management changes and validate on the record page</name>
+   <tag>Field Management</tag>
+   <comment></comment>
+   <testCaseGuid>8d01f070-8e80-4f2d-9d4b-200f71dd71bb</testCaseGuid>
+</TestCaseEntity>

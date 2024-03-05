@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Sort_Classification</name>
+   <tag></tag>
+   <elementGuidId>96e3159b-5716-4c86-9b93-291599846d73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form1']/div[2]/div[2]/div/fieldset/ul/li/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li > div.field.span6 > select.combo-box</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>621cc7de-0d09-4007-bd08-e0d8b48bf62d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combo-box</value>
+      <webElementGuid>d6abb3f6-196d-4422-8c32-0898546ceec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>options: availableViews, optionsText: 'Name', value: selectedView, optionsAfterRender: highlightDefaultView, disable: isSearching(), css: { disabled: isSearching() }</value>
+      <webElementGuid>9a568348-f215-49e1-b5c1-4d0b1cd158a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>System ViewExhibitsMaterialStatementsWitnessesAdd new view</value>
+      <webElementGuid>30932948-1b84-40ad-a13a-eb0c299b5d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form1&quot;)/div[2]/div[@class=&quot;list maxWidth caseClassification&quot;]/div[1]/fieldset[1]/ul[1]/li[1]/div[@class=&quot;field span6&quot;]/select[@class=&quot;combo-box&quot;]</value>
+      <webElementGuid>eed9e7fa-6c2b-43a9-994d-8f966fcc90ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form1']/div[2]/div[2]/div/fieldset/ul/li/div/select</value>
+      <webElementGuid>f5a1621e-90d0-4dba-add0-d0e2ef6186a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Last Synced 21/01/2024 14:16:40)'])[1]/following::select[1]</value>
+      <webElementGuid>b060411b-0357-4f47-9d8d-9f5f3e3f7a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/preceding::select[1]</value>
+      <webElementGuid>f0a3835a-0234-4a65-ac05-abd87137e25c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[2]/preceding::select[1]</value>
+      <webElementGuid>26c20c7d-25c3-4921-a643-eeeafe8ae3cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/select</value>
+      <webElementGuid>4791b30e-1983-4bfb-954e-0d1446a6e783</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

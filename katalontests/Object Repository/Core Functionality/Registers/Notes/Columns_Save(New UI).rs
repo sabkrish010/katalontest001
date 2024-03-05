@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Columns_Save(New UI)</name>
+   <tag></tag>
+   <elementGuidId>8991ffbd-b124-4cdc-864c-3975bbbaa0fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply changes'])[2]/following::button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@onclick = 'submitSearchForm(event)' and @type = 'submit' and (text() = '  Save Working' or . = '  Save Working') and @name = 'Columns']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>67419788-b5b3-4bb8-9ef3-af76e284305a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>submitSearchForm(event)</value>
+      <webElementGuid>41497c92-a903-4a44-a759-3fd85805dcb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>4abc6eb7-43c5-4610-a726-08bc1fa7f19f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Save Working</value>
+      <webElementGuid>12c386d2-a5f0-4e4d-996d-eebd662633db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;columns&quot;)/div[@class=&quot;w-auto shadow lg:rounded-md bg-gray-100 p-4 -mx-2 lg:-mx-0&quot;]/div[1]/div[@class=&quot;lg:grid lg:grid-cols-3 lg:gap-6&quot;]/div[@class=&quot;mt-5 lg:col-span-2 lg:mt-0&quot;]/div[@class=&quot;shadow sm:overflow-hidden sm:rounded-md&quot;]/div[@class=&quot;flex justify-between border-t p-3 bg-gray-50&quot;]/div[@class=&quot;flex gap-2&quot;]/button[@class=&quot;inline-flex justify-center rounded-md border border-transparent bg-blue-800 py-1 sm:py-2 px-2 sm:px-4 text-sm font-medium text-white shadow-sm hover:bg-blue-900 focus:outline-none focus-visible:ring-sky-500 focus-visible:ring-2 focus-visible:ring-offset-2 disabled:bg-gray-100 disabled:text-gray-400&quot;]</value>
+      <webElementGuid>6e9f97d9-f4b6-49be-a67b-bf72b3c728dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Columns</value>
+      <webElementGuid>32184051-a3e7-4818-88e0-160c5e8dc6f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>c541f6f0-145a-4658-b1e6-97648cd018f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='columns']/div/div/div/div[2]/div/div[2]/div[2]/button</value>
+      <webElementGuid>de37c315-47b8-4c1c-8974-919928e328d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create new view'])[2]/following::button[1]</value>
+      <webElementGuid>cae7b094-bd83-40f0-ac61-525b6ffca123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply changes'])[2]/following::button[2]</value>
+      <webElementGuid>9b38bbfb-0f7f-4c2a-8817-8c1c22322778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[2]/preceding::button[1]</value>
+      <webElementGuid>9297fd13-b296-4688-9a9a-68b4ae3758c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Name'])[1]/preceding::button[1]</value>
+      <webElementGuid>ddc364ff-3d1b-44c7-adf7-f4199146b90c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div[2]/div/div[2]/div[2]/button</value>
+      <webElementGuid>acba75c1-e818-4558-a844-a41f6ddda71c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit']</value>
+      <webElementGuid>56db4d5c-7443-4be4-b706-1e53404ef96c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

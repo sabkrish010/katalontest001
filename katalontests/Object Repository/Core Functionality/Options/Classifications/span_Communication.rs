@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Communication</name>
+   <tag></tag>
+   <elementGuidId>ac285d8f-8cf4-4234-8c12-cc9ef7bc9edf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ABC'])[2]/preceding::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dd278c11-b71d-4a36-9873-aebe91ce217c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-gray-700 hover:bg-gray-100</value>
+      <webElementGuid>549ba221-d808-4eec-a39d-a4d29d1628ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ABC</value>
+      <webElementGuid>784bf181-cc15-4628-9a0e-4b6852ef1664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Configuration&quot;)/div[@class=&quot;-my-2 -mx-4 sm:-mx-6 lg:-mx-8&quot;]/div[@class=&quot;inline-block min-w-full py-2 align-middle md:px-6 lg:px-8&quot;]/div[@class=&quot;shadow ring-1 ring-black ring-opacity-5 md:rounded-lg&quot;]/table[@class=&quot;min-w-full divide-y divide-gray-300&quot;]/tbody[@class=&quot;divide-y divide-gray-200 bg-white&quot;]/tr[@class=&quot;bg-white&quot;]/td[@class=&quot;px-2 py-2 text-sm text-gray-900&quot;]/div[@class=&quot;badger&quot;]/div[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu min-w-max absolute hidden bg-white text-base z-50 float-left py-2 list-none text-left rounded-lg shadow-lg mt-1 hidden m-0 bg-clip-padding border-none&quot;]/li[@class=&quot;cursor-pointer&quot;]/span[@class=&quot;dropdown-item text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-gray-700 hover:bg-gray-100&quot;]</value>
+      <webElementGuid>09f04049-60a1-4150-b51a-bf67ddf70bd2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Configuration']/div/div/div/table/tbody/tr[3]/td[3]/div/div/ul/li/span</value>
+      <webElementGuid>57b85947-96fa-4d1a-9a53-5e3aaab24da1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Communication'])[2]/following::span[1]</value>
+      <webElementGuid>1feeccff-0d23-4068-9905-336ecc82df59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABC'])[2]/preceding::span[1]</value>
+      <webElementGuid>8ea4f2cf-1f6a-4361-b8f8-7465a2513740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABC'])[3]/preceding::span[2]</value>
+      <webElementGuid>20a2486a-43c9-4825-8e57-d6a62b4e0500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ABC']/parent::*</value>
+      <webElementGuid>190d6110-f4d5-4f14-95d0-3c292ef946db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]/div/div/ul/li/span</value>
+      <webElementGuid>3579326d-cc20-4e60-8775-d68d4a1c0a46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

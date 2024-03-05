@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ReportHistory_CreatedDateTime</name>
+   <tag></tag>
+   <elementGuidId>0e979afa-43b1-445a-8158-92ed2d8aa2a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='LinksWrapper']/div/div/table/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;LinksWrapper&quot;)/div[1]/div[@class=&quot;list maxWidth&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;white-space-pre&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>6b0f93dc-fe16-48db-9d49-eda72ccab4ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>white-space-pre</value>
+      <webElementGuid>265c29f5-6b60-45e4-90c8-bc3c46b56f3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: clue.formatColumn2($data, $parent, true, true)</value>
+      <webElementGuid>b6eca009-6a38-4305-981f-fd3b092b8e52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>24/05/2023 14:31</value>
+      <webElementGuid>32b155b3-2689-436e-b3da-2f956df3a96c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LinksWrapper&quot;)/div[1]/div[@class=&quot;list maxWidth&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;white-space-pre&quot;]</value>
+      <webElementGuid>f5e69421-7c88-4c7c-974a-5d3154cc6c32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='LinksWrapper']/div/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>a5c30af1-19ba-4282-a36d-24f1d2f90539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='emmal'])[3]/following::td[1]</value>
+      <webElementGuid>ae7c9379-758c-444a-92cb-236ee78c02f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address - 24/05/2023 14:31:48.docx'])[1]/following::td[2]</value>
+      <webElementGuid>67b1fad1-dd63-4518-aa39-caa3c727534f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tasks and Activities'])[1]/preceding::td[3]</value>
+      <webElementGuid>04a1dfd3-e69f-4a9e-aee3-4f4f6c9bd788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachments'])[1]/preceding::td[3]</value>
+      <webElementGuid>d9401285-a8a4-4070-9def-2dd27feaf8f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='24/05/2023 14:31']/parent::*</value>
+      <webElementGuid>d299a9de-c69c-4302-a769-7930e0945b4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>691ec14a-339c-4fd2-bf27-a75c79823a9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

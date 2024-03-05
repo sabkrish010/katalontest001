@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add Address record</description>
+   <name>Add Address record for redaction</name>
+   <tag>Address</tag>
+   <comment></comment>
+   <testCaseGuid>d2ad1784-c492-414f-a6b3-174adb1a7ac0</testCaseGuid>
+</TestCaseEntity>

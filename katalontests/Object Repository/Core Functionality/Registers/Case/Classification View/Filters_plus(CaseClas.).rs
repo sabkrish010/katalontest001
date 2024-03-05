@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Filters_plus(CaseClas.)</name>
+   <tag></tag>
+   <elementGuidId>e8edd70e-b481-40e2-9913-b7d0dad767cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='advancedOptionsDiv']/div/h3[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.h3-options > i.fas.fa-plus</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;advancedOptionsDiv&quot;)/div[@class=&quot;label span4&quot;]/h3[@class=&quot;h3-options&quot;]/i[@class=&quot;fas fa-plus&quot;][count(. | //i[@class = 'fas fa-plus']) = count(//i[@class = 'fas fa-plus'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8d8d40bd-ae86-4165-b389-8a11cebc6a51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-plus</value>
+      <webElementGuid>df4c6e3a-a601-4244-9afd-e523df8dd75f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;advancedOptionsDiv&quot;)/div[@class=&quot;label span4&quot;]/h3[@class=&quot;h3-options&quot;]/i[@class=&quot;fas fa-plus&quot;]</value>
+      <webElementGuid>31a8ec65-bdf6-4694-beea-b1695222a7f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='advancedOptionsDiv']/div/h3[2]/i</value>
+      <webElementGuid>53288dd4-bddd-4b50-b313-6b47d11e1604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3[2]/i</value>
+      <webElementGuid>39849746-c2aa-4aa2-a853-02b414745ddb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_save</name>
+   <tag></tag>
+   <elementGuidId>b6f073bc-87bb-4f75-93da-36ea3c0899a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;save&quot;)[count(. | //input[@id = 'save' and @type = 'submit' and @value = 'Save']) = count(//input[@id = 'save' and @type = 'submit' and @value = 'Save'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>343a90be-6236-4516-9b7b-2d077ae26b28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>save</value>
+      <webElementGuid>81b7c20f-16d0-4a47-895f-99acaecb2ec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>c6aa78e5-96d4-4b41-b7a6-d32d26d2ad99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>d9fb7e0a-8b85-48d5-b190-19f9343c2e46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>disable: model._isSaving, css: {disabled: model._isSaving}</value>
+      <webElementGuid>b3febd9f-2872-45e9-8d4b-baa79eb9444b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;save&quot;)</value>
+      <webElementGuid>b49f1e9a-4314-4a97-8b5a-5f50aa48a7c2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

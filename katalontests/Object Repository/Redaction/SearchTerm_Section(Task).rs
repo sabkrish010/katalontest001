@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SearchTerm_Section(Task)</name>
+   <tag></tag>
+   <elementGuidId>4c35e536-f4a0-4a3a-b241-a23990e31911</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.list.maxWidth</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form1']/div/fieldset[2]/ul/li[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7462e154-fee0-4ad5-a08e-6dc8f192898b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list maxWidth</value>
+      <webElementGuid>b08ca70b-32f7-44bb-8d23-1341ed706470</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form1&quot;)/div[1]/fieldset[2]/ul[1]/li[2]/div[@class=&quot;list maxWidth&quot;]</value>
+      <webElementGuid>524f1135-132f-4b15-a9f2-d1c76f4b9a7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form1']/div/fieldset[2]/ul/li[2]/div[2]</value>
+      <webElementGuid>3af66160-837f-47a2-9e89-b92e365cf557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Terms:'])[1]/following::div[1]</value>
+      <webElementGuid>6c379534-d0fb-4a55-a2e7-3dcd63f3bb96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mr Praise Jenson'])[1]/following::div[2]</value>
+      <webElementGuid>4c76b583-f7aa-465d-b956-016b765db30d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[2]/ul/li[2]/div[2]</value>
+      <webElementGuid>f1d52918-4834-47f2-9766-84f778f7a309</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

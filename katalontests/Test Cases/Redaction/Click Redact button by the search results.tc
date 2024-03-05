@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click Redact button by the search results</description>
+   <name>Click Redact button by the search results</name>
+   <tag>Redact</tag>
+   <comment></comment>
+   <testCaseGuid>a096592b-6ef2-4210-be36-f1cae0095790</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Case register</description>
+   <name>Navigate to Case register</name>
+   <tag>Navigate to Case register</tag>
+   <comment></comment>
+   <testCaseGuid>fd62f89c-3072-4e6b-a78d-70240ae56d77</testCaseGuid>
+</TestCaseEntity>

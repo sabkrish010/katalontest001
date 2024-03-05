@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_Address Line 1</name>
+   <tag></tag>
+   <elementGuidId>3d89d658-dfc8-4295-9fb2-bc4e4a19d0f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.span10 > select.combo-box > option</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//option[@value=''])[24]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>1f4c92c3-3a23-4956-a2b2-2b4f9995dfe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Address Line 1</value>
+      <webElementGuid>228d59a0-f93f-4f20-ab18-32b15455a449</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;columnsDiv&quot;)/ul[1]/li[1]/div[1]/div[@class=&quot;span10&quot;]/select[@class=&quot;combo-box&quot;]/option[1]</value>
+      <webElementGuid>82f4b9ca-0dd8-4610-8118-3b38e58b4f02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//option[@value=''])[24]</value>
+      <webElementGuid>9bf49036-7a8a-4f57-9aae-c29d03f1a7b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='columnsDiv']/ul/li/div/div[2]/select/option</value>
+      <webElementGuid>b45b3a72-ce96-4d92-96d6-d3a421c726f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AVAILABLE COLUMNS'])[1]/following::option[1]</value>
+      <webElementGuid>b7089368-5c8d-4b90-8f33-d87d3945f846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Columns'])[1]/following::option[1]</value>
+      <webElementGuid>8b1d3ae4-eab1-432f-903b-0d296bd798d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELECTED COLUMNS'])[1]/preceding::option[34]</value>
+      <webElementGuid>8ccce90c-8d5e-4e86-8b7d-459586387a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[1]/preceding::option[38]</value>
+      <webElementGuid>73802dfe-5e25-4c04-9ae8-d7fb912cc5db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Address Line 1']/parent::*</value>
+      <webElementGuid>aff37e75-7cdd-4ae9-82fa-c0b36efa7b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/select/option</value>
+      <webElementGuid>5efa8603-6d8d-491c-b6ed-f18bc4df823b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

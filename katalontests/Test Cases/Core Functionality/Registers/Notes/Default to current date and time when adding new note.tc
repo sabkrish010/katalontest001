@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Default to current date and time when adding new note</description>
+   <name>Default to current date and time when adding new note</name>
+   <tag>Notes Default Current Date and Time</tag>
+   <comment></comment>
+   <testCaseGuid>474f3469-7ab4-4e0f-8451-f53ae1e32e62</testCaseGuid>
+</TestCaseEntity>

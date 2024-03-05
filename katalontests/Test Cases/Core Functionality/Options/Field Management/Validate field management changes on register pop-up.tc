@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate field management changes on register pop-up</description>
+   <name>Validate field management changes on register pop-up</name>
+   <tag>Field Management Pop-Up Validation</tag>
+   <comment></comment>
+   <testCaseGuid>103a8072-7a65-4cfe-9189-4e2dfeb1fffa</testCaseGuid>
+</TestCaseEntity>

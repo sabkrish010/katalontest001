@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add a Custom field to a register</description>
+   <name>Add a boolean Custom Field</name>
+   <tag>Custom Field</tag>
+   <comment></comment>
+   <testCaseGuid>7e2dd04d-9e4b-48a7-ab2a-2dc6ff5c238e</testCaseGuid>
+</TestCaseEntity>

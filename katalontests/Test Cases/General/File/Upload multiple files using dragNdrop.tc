@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on Upload image control on the page</description>
+   <name>Upload multiple files using dragNdrop</name>
+   <tag>Upload,Images</tag>
+   <comment></comment>
+   <testCaseGuid>bd6bf9be-3db7-40ef-a76d-15c858321720</testCaseGuid>
+</TestCaseEntity>

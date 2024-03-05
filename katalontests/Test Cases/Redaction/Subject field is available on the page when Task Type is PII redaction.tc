@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Subject field is available on the page when Task Type is PII redaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>060ad497-e5e7-4712-97bf-53b4490bf46e</testCaseGuid>
+</TestCaseEntity>

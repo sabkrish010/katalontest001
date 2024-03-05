@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit a Source record</description>
+   <name>Edit Source</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0b1f03c-9626-431e-861f-805ebf459dce</testCaseGuid>
+</TestCaseEntity>

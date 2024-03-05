@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select Add Incident in Standard mode</description>
+   <name>Select Add Incident (Standard Mode)</name>
+   <tag>Incident</tag>
+   <comment></comment>
+   <testCaseGuid>8b519b18-f4b5-4ba8-8f08-e4a718730c43</testCaseGuid>
+</TestCaseEntity>

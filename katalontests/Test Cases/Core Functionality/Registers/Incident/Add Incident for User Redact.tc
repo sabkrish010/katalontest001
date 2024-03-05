@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a new incident record</description>
+   <name>Add Incident for User Redact</name>
+   <tag>Incident</tag>
+   <comment></comment>
+   <testCaseGuid>a0284038-b323-4dc7-8310-009a41ca5f87</testCaseGuid>
+</TestCaseEntity>

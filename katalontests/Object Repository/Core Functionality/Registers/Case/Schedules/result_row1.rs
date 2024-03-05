@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>result_row1</name>
+   <tag></tag>
+   <elementGuidId>51cb8f30-6692-42dd-a85d-aacf5d012574</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[4]/div[4]/div[2]/div[2]/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'search-value']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.search-value</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>966415c3-50f9-4038-8dea-8277c2ad2f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-value</value>
+      <webElementGuid>8634949b-e892-453f-af4d-1d0a989cdb0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;right-panel&quot;]/div[@class=&quot;Panel SearchPanel open&quot;]/div[@class=&quot;results&quot;]/div[@class=&quot;ReactVirtualized__Grid ReactVirtualized__List&quot;]/div[@class=&quot;ReactVirtualized__Grid__innerScrollContainer&quot;]/div[1]/button[@class=&quot;SearchResult&quot;]/span[@class=&quot;search-value&quot;]</value>
+      <webElementGuid>c6f988fb-8ca4-4d61-93c2-38b6c13545c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[4]/div[4]/div[2]/div[2]/div/div/div/button/span</value>
+      <webElementGuid>fc2370ad-b79a-4349-bd92-40dae68b83da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page 2'])[1]/following::span[1]</value>
+      <webElementGuid>ed5a5f1a-d25c-401c-bd2f-f6bb898651ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page Transition'])[1]/preceding::span[1]</value>
+      <webElementGuid>f52a9cb8-2de9-4572-9348-cda0393491d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continuous Page'])[1]/preceding::span[1]</value>
+      <webElementGuid>c96379dc-ac78-4a12-904c-8afb3494d383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AZJL7NSB9Q']/parent::*</value>
+      <webElementGuid>d98ced8a-a987-41e1-8153-9543f2cb55c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>5468f57b-9653-4331-a37b-256fa66c6d3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select System View</name>
+   <tag>System View</tag>
+   <comment></comment>
+   <testCaseGuid>683b32cd-67a7-40f2-97db-56abec413661</testCaseGuid>
+</TestCaseEntity>

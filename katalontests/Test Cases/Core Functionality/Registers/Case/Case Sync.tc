@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User sync case and the record is shown accurately</description>
+   <name>Case Sync</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6208062-fc6c-4495-863a-047c90507154</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Make a register field mandatory on Field Management page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b4d2918-0a22-45b8-b089-f011989f86ca</testCaseGuid>
+</TestCaseEntity>

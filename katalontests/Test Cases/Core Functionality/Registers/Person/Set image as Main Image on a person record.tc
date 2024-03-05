@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Set image as Main Image on a person record</name>
+   <tag>Person Image</tag>
+   <comment></comment>
+   <testCaseGuid>b434a651-0553-45c4-a465-4ecf9bc5d59d</testCaseGuid>
+</TestCaseEntity>

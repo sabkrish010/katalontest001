@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select System View filter std mode records only</name>
+   <tag>System View</tag>
+   <comment></comment>
+   <testCaseGuid>df773891-9c2d-4cfb-b440-1204d3c546fc</testCaseGuid>
+</TestCaseEntity>

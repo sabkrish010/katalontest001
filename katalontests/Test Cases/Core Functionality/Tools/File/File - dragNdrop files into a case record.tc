@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>dragNdrop files into a case record</description>
+   <name>File - dragNdrop files into a case record</name>
+   <tag>File Case</tag>
+   <comment></comment>
+   <testCaseGuid>ac8ef3b5-79f7-4367-906e-40e0ae4eb36a</testCaseGuid>
+</TestCaseEntity>

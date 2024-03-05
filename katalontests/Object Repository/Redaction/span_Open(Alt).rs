@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Open(Alt)</name>
+   <tag></tag>
+   <elementGuidId>f0aa3923-e6de-46b4-a2d3-bbbf2c987fa7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='opt-open']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3d4c5d76-a61f-4dfd-872a-97d03554d924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-normal block truncate</value>
+      <webElementGuid>c335b70b-dc6c-463c-87d8-61905e796b4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open</value>
+      <webElementGuid>a7d83659-1d50-4d99-ba8b-8d130ec15cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropList_0&quot;)/li[@id=&quot;opt-open&quot;]/a[@class=&quot;block py-1.5 pl-4 pr-9 hover:bg-gray-50 focus:outline-none focus:bg-gray-50 hover:no-underline hover:text-gray-900&quot;]/span[@class=&quot;font-normal block truncate&quot;]</value>
+      <webElementGuid>0940ef67-b99e-4346-904d-24b1da1b5a4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='opt-open']/a/span</value>
+      <webElementGuid>22f7eb69-0ba4-41d7-b1aa-a51b3461e765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>8b6e5317-d8f1-4a28-8da1-cd73cea2f466</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

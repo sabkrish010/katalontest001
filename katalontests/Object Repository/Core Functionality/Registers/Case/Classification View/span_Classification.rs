@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Classification</name>
+   <tag></tag>
+   <elementGuidId>075486c9-945f-4e20-9c9b-f0a769f38f15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form1']/div[2]/div[2]/div/table/caption/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>caption > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>acc3e29e-d8c3-439c-968f-6d635106bcff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Classification</value>
+      <webElementGuid>5f31f295-86c5-4789-901e-5212318dfc4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form1&quot;)/div[2]/div[@class=&quot;list maxWidth caseClassification&quot;]/div[1]/table[1]/caption[1]/span[1]</value>
+      <webElementGuid>5d72eddc-4fba-465b-ad88-e58ef3686c52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form1']/div[2]/div[2]/div/table/caption/span</value>
+      <webElementGuid>ac538d25-b556-44a2-a814-447f22be83c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Word'])[1]/following::span[4]</value>
+      <webElementGuid>83a2458a-a87e-4d79-a0d3-2a48eb6aa69c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[1]/following::span[4]</value>
+      <webElementGuid>f1f0e353-31ad-4ec7-8ab3-fd63615c0c7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Last Synced 31/08/2023 12:15:13)'])[1]/preceding::span[1]</value>
+      <webElementGuid>c7a3f450-db68-4dec-8cf4-91d779b320eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Classification']/parent::*</value>
+      <webElementGuid>27c97773-cb68-4293-807e-3051eb179fb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//caption/span</value>
+      <webElementGuid>d1866cbd-b306-46f7-98aa-e8662e383405</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

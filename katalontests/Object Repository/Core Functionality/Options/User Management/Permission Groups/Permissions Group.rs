@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Permissions Group</name>
+   <tag></tag>
+   <elementGuidId>0c027140-1bfb-4437-8a3c-671ce2b60225</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/fieldset/div/div/div[8]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>f24c88a9-bffb-4b8f-9268-b21b083a2d73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: group.name</value>
+      <webElementGuid>91206e1c-2e2f-46a0-bb41-7c630cccf88a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Supervisor</value>
+      <webElementGuid>404c901e-fe24-44ee-80d9-1ac2945ac05a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/fieldset[1]/div[1]/div[1]/div[@class=&quot;ui-droppable&quot;]/div[1]/h3[1]</value>
+      <webElementGuid>af2fac5f-37ad-4ab7-88c0-274fb1731a4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/fieldset/div/div/div[8]/div/h3</value>
+      <webElementGuid>e154b7cc-09a2-41cf-8160-e1339ac88e86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Owner Team'])[4]/following::h3[1]</value>
+      <webElementGuid>eb815fae-61f5-4cf9-834c-00514734fc32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Permissions'])[4]/following::h3[1]</value>
+      <webElementGuid>7d086610-11c1-49c0-a91c-e91bc8e89120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[5]/preceding::h3[1]</value>
+      <webElementGuid>dd46a90d-d178-47ca-9ab8-53ea1007fe78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[5]/preceding::h3[1]</value>
+      <webElementGuid>8bfd074d-c390-4a7e-a9b1-2bd4c5f67f66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/h3</value>
+      <webElementGuid>5e1d7f84-220e-4ca3-b2a7-a302134faf2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

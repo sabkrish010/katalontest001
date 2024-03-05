@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select add vehicle in standard mode</description>
+   <name>Select Add Vehicle (Standard Mode)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdd415fc-36fd-4b60-b877-5364eda67fd0</testCaseGuid>
+</TestCaseEntity>

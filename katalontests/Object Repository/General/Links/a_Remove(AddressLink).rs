@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Remove(AddressLink)</name>
+   <tag></tag>
+   <elementGuidId>65726842-4b21-4cbc-93aa-6a43e5eefcf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Test'])[1]/following::a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>fieldset:nth-of-type(3) > div > div.list.maxWidth > table > tbody > tr > td.action.align-right > a:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b108f114-86af-4ace-89af-0a6f857f8dd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>d4cf9595-8b05-433e-8132-37dc37c0eb52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>css: {hidden: clue.disableItemModification($root, $data)},visible: !$root.model._disableAll &amp;&amp; !$root.model._disableLinks &amp;&amp; !($root.model.InitiatingId != null &amp;&amp; $root.model.InitiatingId() == $data.Target.Id), click: function () { clue.removeChild($parent, $data, $root); }</value>
+      <webElementGuid>e55e5392-3a8a-4624-bdfb-bd67a82a322a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remove</value>
+      <webElementGuid>acc2e264-1341-44bc-901c-5f2a394332cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form1&quot;)/fieldset[3]/div[1]/div[@class=&quot;list maxWidth&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;action align-right&quot;]/a[2]</value>
+      <webElementGuid>bf20d074-014e-4c50-9dd1-124b4b3633af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form1']/fieldset[3]/div/div/table/tbody/tr/td[5]/a[2]</value>
+      <webElementGuid>821ffa7f-d3e8-4c57-bcff-603c62c2cc13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Remove')])[4]</value>
+      <webElementGuid>5be4795b-c9d3-47d2-91c3-549488eb0ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test'])[1]/following::a[2]</value>
+      <webElementGuid>e2ded344-6e67-4ee8-a750-bb8fc54b3836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[2]/following::a[3]</value>
+      <webElementGuid>b327c8fa-4c88-4987-b157-aa8c3f070eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test'])[2]/preceding::a[2]</value>
+      <webElementGuid>19c1ccb7-25c6-4402-8cfd-3c5f40a7b21e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assessments'])[1]/preceding::a[4]</value>
+      <webElementGuid>0184b171-0ba4-4811-9697-5dbc11d69194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[25]</value>
+      <webElementGuid>c799bdb8-0e58-4f5c-ae11-4be1ff0baea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a[2]</value>
+      <webElementGuid>7a8a2a72-0a2d-4528-9d91-7cb236f6ce16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

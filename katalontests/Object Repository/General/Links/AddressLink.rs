@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AddressLink</name>
+   <tag></tag>
+   <elementGuidId>91323b1e-eab9-4584-bb14-6482ea4d1877</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='LinksWrapper']/fieldset[3]/div/div/table/tbody/tr/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.clickable > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ef014447-a485-4525-ba0a-5489c9fc2ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/worldhorsewelfare/Address/Details/0/100116</value>
+      <webElementGuid>9faf3e9b-c563-4a53-b00e-dfad518befe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>attr: { href: clue.replaceUrlNameFromType($parent.$type, $parents[1].targetDetailsUrl) + '/' + ($parent.$type === 'InvestigationLinkViewModel' ? $parent.Target.Id : $root.model.ContainerId()) + '/' + $parent.Target.Id }, text: clue.formatColumnWithDefault($data, $parent, true, true, 'Details'), click: function (m, e) { e.stopPropagation(); return true; }</value>
+      <webElementGuid>6127d6ba-7e35-45d4-ad24-dd4062067d84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>59</value>
+      <webElementGuid>cf5f0168-1a52-4a37-b926-10ea04a98823</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LinksWrapper&quot;)/fieldset[3]/div[1]/div[@class=&quot;list maxWidth&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;clickable&quot;]/a[1]</value>
+      <webElementGuid>8dd3f822-e517-45f1-9c5b-3672fd7e9384</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='LinksWrapper']/fieldset[3]/div/div/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>4a6ec5a8-600f-4d97-afcb-e1dcbe90648b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'59')]</value>
+      <webElementGuid>dc795f73-158a-42f7-a3b7-31e3c9a64035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created in an Investigation. Restrictions apply from your current location.'])[1]/following::a[7]</value>
+      <webElementGuid>eb28d80a-59c0-49d2-aa89-c8eb61902b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Addresses'])[1]/following::a[7]</value>
+      <webElementGuid>0d8b695f-1007-4495-b076-047535a2d905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clue Computing Company Ltd'])[1]/preceding::a[2]</value>
+      <webElementGuid>ae287d46-a66d-455c-b11d-0ca6f7e70b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/worldhorsewelfare/Address/Details/0/100116')]</value>
+      <webElementGuid>e667b681-9b31-49f6-b25a-d4cfcce7be3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>6b14d038-0b8a-4fbe-9798-93bea215b743</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

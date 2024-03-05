@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a new case record in Standard mode</description>
+   <name>Add Case</name>
+   <tag>Case</tag>
+   <comment></comment>
+   <testCaseGuid>285cf12e-4f24-48f7-bce3-a2d3c96d7278</testCaseGuid>
+</TestCaseEntity>

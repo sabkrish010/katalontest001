@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>URN hyperlink</description>
+   <name>URN_hyperlink</name>
+   <tag></tag>
+   <elementGuidId>f74b4b0a-1fc8-4af2-8e0b-650042298a64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;resultsBody&quot;)/tr[2]/td[@class=&quot;clickable&quot;]/a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>88748bfa-7e6d-4a9b-bd8e-da54cf65836f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultsBody&quot;)/tr[2]/td[@class=&quot;clickable&quot;]/a[1]</value>
+      <webElementGuid>315ebf6a-975d-462b-8ed5-4fe519026772</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Populate the details of the Task record</description>
+   <name>Add Task (User Redact) - Intelligence</name>
+   <tag>Task,Add</tag>
+   <comment></comment>
+   <testCaseGuid>68d9b203-e292-494f-851d-e7b89da3fed4</testCaseGuid>
+</TestCaseEntity>

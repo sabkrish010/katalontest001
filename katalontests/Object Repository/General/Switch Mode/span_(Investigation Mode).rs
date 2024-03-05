@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_(Investigation Mode)</name>
+   <tag></tag>
+   <elementGuidId>b250c5a3-f5ec-4d5f-bc46-54fda275e144</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.blk</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/div/div[3]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dcde1d16-ab7a-40e9-a4bf-ea4ae8a454c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blk</value>
+      <webElementGuid>113e05b9-9fcc-4939-9dd7-c17dd6b78f56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>visible:(selectedInvestigation() != null &amp;&amp; availableInvestigations &amp;&amp; availableInvestigations().length > 0)</value>
+      <webElementGuid>83dc5587-734d-4411-98ad-0586707becd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(Investigation Mode)</value>
+      <webElementGuid>663b748e-7a86-421b-9290-7c7418a7d9a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;account span15 right&quot;]/span[@class=&quot;blk&quot;]</value>
+      <webElementGuid>d59f81ab-ff1f-4c86-af68-b5190fc2823e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div/div[3]/span[2]</value>
+      <webElementGuid>b91bd128-ce40-4411-a666-b7f08140bad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='emmal'])[1]/following::span[1]</value>
+      <webElementGuid>701cf314-8fab-43d7-a7f7-5924c3512e5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::span[1]</value>
+      <webElementGuid>e7be5f49-05f3-46c6-9aed-575f9c03057b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Off'])[1]/preceding::span[2]</value>
+      <webElementGuid>f18c6b3b-81b5-43bc-992d-5cf0323b1e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(Investigation Mode)']/parent::*</value>
+      <webElementGuid>bcbfd3bf-8384-4d39-a63b-dfd604183982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>dc1e78de-1ae7-4abc-911e-899624466637</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

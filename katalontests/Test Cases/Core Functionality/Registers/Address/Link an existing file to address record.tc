@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Link an existing file to address record</description>
+   <name>Link an existing file to address record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e33a4bad-7bd0-4676-b391-cd4679e07150</testCaseGuid>
+</TestCaseEntity>

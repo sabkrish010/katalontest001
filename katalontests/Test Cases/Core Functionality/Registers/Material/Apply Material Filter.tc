@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select a Filter drom the dropdown</description>
+   <name>Apply Material Filter</name>
+   <tag>Filter</tag>
+   <comment></comment>
+   <testCaseGuid>3d83a8cd-ef68-4dc3-8cc8-50b3ef3ca0ec</testCaseGuid>
+</TestCaseEntity>

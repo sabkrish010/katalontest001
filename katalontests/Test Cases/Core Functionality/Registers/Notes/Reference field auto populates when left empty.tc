@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reference field auto populates when left empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ba638cc-3ff9-44bd-ae7e-9153d401d194</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make changes to lists and save</description>
+   <name>Make changes to lists and save</name>
+   <tag>Lists</tag>
+   <comment></comment>
+   <testCaseGuid>4f5d22d8-526c-4911-9523-75dd83961b46</testCaseGuid>
+</TestCaseEntity>

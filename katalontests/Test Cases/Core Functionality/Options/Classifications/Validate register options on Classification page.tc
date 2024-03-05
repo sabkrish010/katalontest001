@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate register options on Classification page</name>
+   <tag>Registers Classisifcation</tag>
+   <comment></comment>
+   <testCaseGuid>8b5e0b8f-b26c-45ef-ac6a-a028f0de226d</testCaseGuid>
+</TestCaseEntity>

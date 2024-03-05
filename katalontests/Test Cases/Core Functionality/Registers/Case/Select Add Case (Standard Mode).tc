@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select Add Case in Standard mode</description>
+   <name>Select Add Case (Standard Mode)</name>
+   <tag>Case</tag>
+   <comment></comment>
+   <testCaseGuid>4b9aded7-d224-4ac2-9556-5c3c00b84f21</testCaseGuid>
+</TestCaseEntity>

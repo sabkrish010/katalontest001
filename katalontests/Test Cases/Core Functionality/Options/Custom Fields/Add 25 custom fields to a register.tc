@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add 25 custom fields to a register</name>
+   <tag>Custom fields</tag>
+   <comment></comment>
+   <testCaseGuid>813ae22b-17cb-47bb-8a62-09d2b73d77f7</testCaseGuid>
+</TestCaseEntity>

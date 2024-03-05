@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add investigator notes to incident record</description>
+   <name>Add Investigator notes to incident record and save</name>
+   <tag>Incident Investigator Notes</tag>
+   <comment></comment>
+   <testCaseGuid>070875fb-9307-43e3-b222-a1cb510f0764</testCaseGuid>
+</TestCaseEntity>

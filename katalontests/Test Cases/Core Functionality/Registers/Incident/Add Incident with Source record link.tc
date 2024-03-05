@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Incident with Source record link</name>
+   <tag>Incident, Source</tag>
+   <comment></comment>
+   <testCaseGuid>cbf4499a-7348-468f-a81e-e6fb52004b6b</testCaseGuid>
+</TestCaseEntity>

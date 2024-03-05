@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Intel Workflow2</name>
+   <tag></tag>
+   <elementGuidId>a13325a1-a200-44a3-88af-301e49024f07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/fieldset[2]/div/div/div[39]/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>7b3199c5-1599-48f7-91c2-1508a87e5b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: team.name</value>
+      <webElementGuid>5b0d3ac2-a532-46a9-aaee-b2b964082867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intel Workflow2</value>
+      <webElementGuid>209f8daa-ab72-4aa2-8021-a0f1a7f73d71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/fieldset[2]/div[1]/div[1]/div[@class=&quot;ui-droppable&quot;]/div[1]/h3[1]</value>
+      <webElementGuid>9b1717e4-164f-49ab-9ad3-ecf1af283363</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/fieldset[2]/div/div/div[39]/div/h3</value>
+      <webElementGuid>27551a3d-9c07-42d9-92de-e2d37ecc8315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User4131'])[5]/following::h3[1]</value>
+      <webElementGuid>65afb512-870e-487c-8a27-485663250eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bindu'])[9]/preceding::h3[1]</value>
+      <webElementGuid>c7700cc1-2416-4656-98ff-3c059e442683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[39]/div/h3</value>
+      <webElementGuid>ad16c2a2-41ce-48c2-97fd-59520f2d0827</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UseFilePreview is set to True and FilePreviewDefaultForHyperlink is set to False</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>404bf021-7a52-40f4-b018-22d9655be230</testCaseGuid>
+</TestCaseEntity>

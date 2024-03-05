@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_TestView1</name>
+   <tag></tag>
+   <elementGuidId>f1a100f4-2cff-4721-a3b7-2445cfcfbb29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#widget4119 > div.col-sm-12 > div.panel.panel-default.ui-sortable-handle > div.panel-heading > h3.panel-title</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//h3[@class = 'panel-title' and (text() = ' TestView1' or . = ' TestView1')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='TestView1']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>872ca3e6-706b-44c7-b798-e22b6ed63e7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-title</value>
+      <webElementGuid>c10e4320-316d-4c4b-9ae7-41fc7fdcfe4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> TestView1</value>
+      <webElementGuid>e7515d78-47f0-4bca-ac87-1e062bafa228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget4119&quot;)/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;panel panel-default ui-sortable-handle&quot;]/div[@class=&quot;panel-heading&quot;]/h3[@class=&quot;panel-title&quot;]</value>
+      <webElementGuid>0b36596b-fd16-4917-92a8-569f47ab88bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='widget4119']/div/div/div/h3</value>
+      <webElementGuid>49f67a74-24ec-43c2-9cd1-e2b757882745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 10 of 982 records'])[1]/following::h3[1]</value>
+      <webElementGuid>61f70b48-b247-4105-a2e7-20ded3c984a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[6]/preceding::h3[1]</value>
+      <webElementGuid>08055239-77be-467b-8d5c-8e5d19163d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created in an Investigation. Restrictions apply from your current location.'])[6]/preceding::h3[1]</value>
+      <webElementGuid>5c645d90-58e4-4dd7-8f99-4edd5d2aa859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TestView1']/parent::*</value>
+      <webElementGuid>6a3f897b-0ef9-4855-ae2a-f4eed454fbd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/h3</value>
+      <webElementGuid>0058bd6e-ba6c-4085-b6a9-46485dbe7548</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

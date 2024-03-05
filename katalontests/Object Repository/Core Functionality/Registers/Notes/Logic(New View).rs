@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Logic(New View)</name>
+   <tag></tag>
+   <elementGuidId>e0ff09b4-84cf-4765-933b-ef5ffd5fce51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;Filters_Conditions_1__LogicalOperator&quot;)[count(. | //*[@id = 'Filters_Conditions_1__LogicalOperator' and @name = 'Filters.Conditions[1].LogicalOperator']) = count(//*[@id = 'Filters_Conditions_1__LogicalOperator' and @name = 'Filters.Conditions[1].LogicalOperator'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ViewDetails_Filters_Conditions_Data_1__LogicalOperator</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ViewDetails_Filters_Conditions_Data_1__LogicalOperator']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>32065b4e-1c4a-4f01-990e-1f71c0849922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Filters_Conditions_1__LogicalOperator</value>
+      <webElementGuid>1508a7ed-9f08-43cc-9d20-748ce15e69e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Filters.Conditions[1].LogicalOperator</value>
+      <webElementGuid>d7f0b1f4-9d85-490c-9ac5-34756bd13550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block w-full rounded-md border-gray-300 py-2 pl-3 pr-8 text-sm focus:border-sky-500 focus:outline-none focus:ring-sky-500 valid</value>
+      <webElementGuid>84f79f8e-a937-4226-bd58-57b65d6fe5ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Filters_Conditions_1__LogicalOperator&quot;)</value>
+      <webElementGuid>bf5ddfed-2ab4-41eb-b3be-d8829edf9143</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ViewDetails_Filters_Conditions_Data_1__LogicalOperator']</value>
+      <webElementGuid>dc18bf78-1bb5-4038-aa88-fc089c31111a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ViewDetails_Filters_Conditions_Data_1_']/div/div/div/select</value>
+      <webElementGuid>e96a262a-c835-4f8f-8489-c9c964e65091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator'])[2]/following::select[1]</value>
+      <webElementGuid>17643beb-64ef-458c-8d03-186e50a353a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Value'])[1]/following::select[1]</value>
+      <webElementGuid>0e02c8f7-2e00-4e56-93a2-428bbb35422f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Field'])[2]/preceding::select[1]</value>
+      <webElementGuid>6a8c500b-b6c2-41c5-8bc6-fa9a131a6579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator'])[3]/preceding::select[2]</value>
+      <webElementGuid>84cb9b0f-845d-48e1-ab6f-e4c6ec1e164f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/select</value>
+      <webElementGuid>aa133895-b0c1-48bc-bd6f-c0100907e56c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ViewDetails_Filters_Conditions_Data_1__LogicalOperator' and @name = 'ViewDetails.Filters.Conditions.Data[1].LogicalOperator']</value>
+      <webElementGuid>b9772068-e6fc-41dd-bf81-eb796dad2ab3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Export a view from Audit register</description>
+   <name>Export audit views</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9f2c825-c56c-400e-8861-941f414e9c87</testCaseGuid>
+</TestCaseEntity>

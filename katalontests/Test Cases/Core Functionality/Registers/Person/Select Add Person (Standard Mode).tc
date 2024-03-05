@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select add person in standard mode</description>
+   <name>Select Add Person (Standard Mode)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38a31943-2e8a-4730-99d9-508d5506a41b</testCaseGuid>
+</TestCaseEntity>

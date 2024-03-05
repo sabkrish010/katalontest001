@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add a new view</description>
+   <name>Add a view</name>
+   <tag>View New</tag>
+   <comment></comment>
+   <testCaseGuid>ad333943-0399-4456-a613-628ff0e283f6</testCaseGuid>
+</TestCaseEntity>

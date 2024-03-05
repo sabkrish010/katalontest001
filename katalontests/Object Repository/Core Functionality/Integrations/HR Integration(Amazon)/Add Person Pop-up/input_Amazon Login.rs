@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Amazon Login</name>
+   <tag></tag>
+   <elementGuidId>178b13f2-2761-467f-b316-0f670f39ef60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#AmazonLogin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='AmazonLogin']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'AmazonLogin' and @name = 'AmazonLogin' and @title = 'Amazon Login' and @type = 'text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6f9103ea-c31d-403a-b888-813c7ea8e0f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-box single-line</value>
+      <webElementGuid>f18ffd95-29a2-42fa-b0db-f34cab9ec369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>value: model.AmazonLogin</value>
+      <webElementGuid>72e41896-81a3-4081-ba71-19616f848f02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AmazonLogin</value>
+      <webElementGuid>9497ccc9-aa16-45c1-8cff-4936455e4207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>AmazonLogin</value>
+      <webElementGuid>ecae1cf6-8a8f-4d1d-92db-f0a902f2cb3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Amazon Login</value>
+      <webElementGuid>dfc52c99-1a02-4708-8335-da8bca4e82f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>6007cc67-b5c4-4945-b9e2-8d5b826239f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AmazonLogin&quot;)</value>
+      <webElementGuid>e4f9b5f9-a2ba-42eb-8e2d-06aa9200a3de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'AmazonLogin' and @name = 'AmazonLogin' and @title = 'Amazon Login' and @type = 'text']</value>
+      <webElementGuid>7c10e2dc-67a9-4e95-95c1-0b28671156a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

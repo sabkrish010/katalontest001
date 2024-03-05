@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PDF Toolbar</name>
+   <tag></tag>
+   <elementGuidId>8553b9b4-b883-49bc-95de-e7018d4ad682</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pageWidgetContainer1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pageWidgetContainer1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;toolbar&quot;]</value>
+      <webElementGuid>a698cb2c-c89b-4058-ab16-45f94c1db3d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='pageWidgetContainer1']</value>
+      <webElementGuid>9e743cb4-70e3-4828-b3f7-77c832985f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pageContainer1']/div</value>
+      <webElementGuid>5538c9f1-43ff-48ca-886d-5da72d5f2254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>bb181e8d-2d6b-482d-be97-5a3912ae0d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'pageWidgetContainer1']</value>
+      <webElementGuid>ec774bf9-da70-47e0-845a-a9de6cb70738</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

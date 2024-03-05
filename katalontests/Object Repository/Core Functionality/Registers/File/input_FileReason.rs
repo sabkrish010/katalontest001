@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_FileReason</name>
+   <tag></tag>
+   <elementGuidId>93e0c331-37a5-45d8-998e-b904be555f84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.custom-combobox-input.combo-box.ui-autocomplete-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-id-6']/div/form/fieldset[2]/ul/li/div[2]/span/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>76bc5e32-6171-486c-83f7-5e2a7ebf9b49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-combobox-input combo-box ui-autocomplete-input</value>
+      <webElementGuid>a8695db7-b89a-415f-aff7-0bf209065988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-6&quot;)/div[1]/form[1]/fieldset[2]/ul[1]/li[1]/div[@class=&quot;field span8&quot;]/span[@class=&quot;custom-combobox&quot;]/input[@class=&quot;custom-combobox-input combo-box ui-autocomplete-input&quot;]</value>
+      <webElementGuid>969d670a-1b80-423e-b3dc-fb0aeaef7243</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-id-6']/div/form/fieldset[2]/ul/li/div[2]/span/input</value>
+      <webElementGuid>3bea54f1-92ce-4df6-96e9-935d35a86648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/input</value>
+      <webElementGuid>eff69249-0a82-4bf3-8ecf-968a6ab04156</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Print - Append files</name>
+   <tag></tag>
+   <elementGuidId>b290cc51-03a6-4fec-8f6f-e46ac5c029cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;reportAndIms&quot;)[count(. | //*[@id = 'reportAndIms' and @value = 'ReportAndIms']) = count(//*[@id = 'reportAndIms' and @value = 'ReportAndIms'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>reportAndIms</value>
+      <webElementGuid>d8f33ddf-a952-4d9c-97fa-b6ae7554a440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reportAndIms&quot;)</value>
+      <webElementGuid>c61b90e0-51a4-426c-b0fd-21d65fcea9c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>ReportAndIms</value>
+      <webElementGuid>5571e1f2-4c03-4841-8ba5-0c0afffb36e7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

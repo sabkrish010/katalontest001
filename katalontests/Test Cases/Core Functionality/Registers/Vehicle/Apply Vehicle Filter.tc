@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select a Filter drom the dropdown</description>
+   <name>Apply Vehicle Filter</name>
+   <tag>Filter</tag>
+   <comment></comment>
+   <testCaseGuid>bd5992b8-a35c-420a-a313-c6a5cca6499c</testCaseGuid>
+</TestCaseEntity>

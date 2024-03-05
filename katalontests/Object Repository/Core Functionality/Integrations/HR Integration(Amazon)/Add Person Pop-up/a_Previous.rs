@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Previous</name>
+   <tag></tag>
+   <elementGuidId>bc105298-1e71-4ffe-98e3-20f58d00ba43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Go to the previous page&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form4']/div[3]/div/table/tfoot/tr/td/a[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = '#' and @title = 'Go to the previous page' and @data-bind = 'click: previous' and (text() = 'Previous' or . = 'Previous')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f551cf80-80b9-4758-9f28-f9ca9b8523e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>98ac42d0-17ae-4ef8-918b-c2106ecce3fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Go to the previous page</value>
+      <webElementGuid>b10d25bb-46d2-4967-bbff-50989b64e4f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>click: previous</value>
+      <webElementGuid>07faf026-ccb1-4ab2-ba72-3e107a6fd2a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Previous</value>
+      <webElementGuid>21a4048a-57f9-49db-becd-b3df8b3e1e90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form4&quot;)/div[3]/div[@class=&quot;list maxWidth&quot;]/table[1]/tfoot[1]/tr[1]/td[1]/a[2]</value>
+      <webElementGuid>14915263-a30a-4198-80b5-5f1a3d4a060b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Go to the previous page']</value>
+      <webElementGuid>5a51e7ea-a73c-4b26-94c0-90261f76a7b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

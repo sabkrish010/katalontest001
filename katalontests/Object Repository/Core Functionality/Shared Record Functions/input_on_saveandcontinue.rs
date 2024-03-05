@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_on_saveandcontinue</name>
+   <tag></tag>
+   <elementGuidId>326778d7-46a4-4281-9fb7-5fcd0b16099a</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Clue - Edit Address/input_on_saveandcontinue.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id = 'saveandcontinue' and @type = 'button']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Clue - Edit Address/input_on_saveandcontinue.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#saveandcontinue</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;saveandcontinue&quot;)[count(. | //input[@id = 'saveandcontinue' and @type = 'button' and @value = 'Save &amp; Continue']) = count(//input[@id = 'saveandcontinue' and @type = 'button' and @value = 'Save &amp; Continue'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>22b8d9c3-689e-431a-9dc1-fa64e5530d02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>saveandcontinue</value>
+      <webElementGuid>34585ff3-ceee-4702-906e-caa3d8a6bcfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>03a9a7ad-f6f6-43d8-a1a2-fdf854d03f05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Save &amp; Continue</value>
+      <webElementGuid>18d506ca-e723-4c4b-bf5a-e221a721f9f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;saveandcontinue&quot;)</value>
+      <webElementGuid>c22eddf9-3377-41d6-9bb3-70ba29c5913f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='saveandcontinue']</value>
+      <webElementGuid>e2442b26-4d94-49ef-befc-44158feceef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form1']/p/input[2]</value>
+      <webElementGuid>f18b87c2-3eb1-45a1-8f33-0619ed2193ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/input[2]</value>
+      <webElementGuid>e272062d-2738-46e0-b7bd-ec1628d1339e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'saveandcontinue' and @type = 'button']</value>
+      <webElementGuid>1e0048f7-ae5d-44bf-affe-25fd86077b1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

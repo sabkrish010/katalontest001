@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sort(View)</name>
+   <tag></tag>
+   <elementGuidId>c2000b22-4c1f-4e71-aeff-ba6e7ca92879</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ViewDetails_Columns_Columns_Data_1__SortOrder</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>#ViewDetails_Columns_Columns_Data_3__SortOrder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ViewDetails_Columns_Columns_Data_0__SortOrder']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c0983143-f808-4ccf-87ba-07b7561b0a65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ViewDetails_Columns_Columns_Data_1__SortOrder</value>
+      <webElementGuid>7173632a-b591-4faa-a925-31c23b2f5d1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ViewDetails.Columns.Columns.Data[1].SortOrder</value>
+      <webElementGuid>4aa7a819-29b8-4aa1-8733-128568cb5a21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block w-full rounded-md border-gray-300 py-2 pl-3 pr-8 text-sm focus:border-sky-500 focus:outline-none focus:ring-sky-500</value>
+      <webElementGuid>887005b1-1164-4de1-9d3e-8ee69a1d4e1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    
+        A-Z
+        
+    
+        Z-A
+        
+</value>
+      <webElementGuid>91a660cd-a8c8-42ce-a101-e8cbf8729186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div[1]/div[2]/div/form/div[2]/div/div[2]/div/div/div/div[2]/div/div[1]/div[2]/div[4]/div[3]/div/div/select</value>
+      <webElementGuid>fa481a44-d9f8-419f-9811-63ff8a0509c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#ViewDetails_Columns_Columns_Data_3__SortOrder</value>
+      <webElementGuid>d5e7d645-6a58-4191-bb01-a195dfe70aa7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ViewDetails_Columns_Columns_Data_1__SortOrder']</value>
+      <webElementGuid>3eae0c14-5b67-4fa8-ba24-e25aabb421bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ViewDetails_Columns_Columns_Data_1_']/div[3]/div/div/select</value>
+      <webElementGuid>251a981a-c5d4-4182-83d0-51e6efe5110a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[3]/following::select[1]</value>
+      <webElementGuid>d4c7ea0e-5693-4c32-90d7-e5636a944a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[3]/following::select[1]</value>
+      <webElementGuid>ebe1d717-a737-438d-bdcb-bd737145edf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide'])[2]/preceding::select[1]</value>
+      <webElementGuid>a6a7d6ba-5e82-4c6a-8a22-b64181080a24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move up'])[3]/preceding::select[1]</value>
+      <webElementGuid>572170d7-33d9-4874-9fd0-89012f316fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/select</value>
+      <webElementGuid>df50a6b4-82be-490a-8c80-05c95510af57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ViewDetails_Columns_Columns_Data_1__SortOrder' and @name = 'ViewDetails.Columns.Columns.Data[1].SortOrder']</value>
+      <webElementGuid>3c8eba66-7313-41f9-b575-7fef886e2e57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

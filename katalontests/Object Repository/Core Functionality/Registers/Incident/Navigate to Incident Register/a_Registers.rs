@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Registers</name>
+   <tag></tag>
+   <elementGuidId>1e9cc2a1-2128-42e5-954c-ed4db729c904</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;nav_Registers&quot;][count(. | //a[(text() = 'Registers' or . = 'Registers') and @id = 'nav_Registers']) = count(//a[(text() = 'Registers' or . = 'Registers') and @id = 'nav_Registers'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a269a505-676b-4493-b244-0fe6e8c7b084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Registers</value>
+      <webElementGuid>5885cfc7-7dfb-45c8-b534-3ecd63fb4994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nav_Registers</value>
+      <webElementGuid>fb5ad760-4e82-4671-8696-4982c96a0dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;nav_Registers&quot;]</value>
+      <webElementGuid>ce4128fc-1968-4a26-82c3-21fffc58c887</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

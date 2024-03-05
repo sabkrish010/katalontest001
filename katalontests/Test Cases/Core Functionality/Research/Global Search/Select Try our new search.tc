@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Load gobal search page and switch between new Elasticsearch and old SQL search pages.  Note that switching between old and new search is only possible when core.setting 'AllowClassicGlobalSearch' is present and set to true. </description>
+   <name>Select Try our new search</name>
+   <tag>Global Search,Beta</tag>
+   <comment></comment>
+   <testCaseGuid>bc4d55f5-0a82-4210-a335-984974da8b32</testCaseGuid>
+</TestCaseEntity>

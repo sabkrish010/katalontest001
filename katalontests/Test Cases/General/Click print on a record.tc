@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click print button on a record</description>
+   <name>Click print on a record</name>
+   <tag>Print</tag>
+   <comment></comment>
+   <testCaseGuid>e2062f21-1bde-4410-a378-017cd299982e</testCaseGuid>
+</TestCaseEntity>

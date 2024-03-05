@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Use Add Another on Inv. Notes to add multiple notes to an incident record</name>
+   <tag>Incident Investigator Notes</tag>
+   <comment></comment>
+   <testCaseGuid>b969f923-0ab3-4c16-90c4-cac9572e2c3a</testCaseGuid>
+</TestCaseEntity>

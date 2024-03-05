@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add a Custom field to a register</description>
+   <name>Add a currency Custom Field</name>
+   <tag>Custom Field</tag>
+   <comment></comment>
+   <testCaseGuid>cb83b8d7-5507-4e98-a14c-ecfda2a43578</testCaseGuid>
+</TestCaseEntity>

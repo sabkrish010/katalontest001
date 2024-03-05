@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_FurtherDetails</name>
+   <tag></tag>
+   <elementGuidId>3f60d27d-ba4b-4383-80fd-89f21f0b07cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;FurtherDetails&quot;)[count(. | //*[@id = 'FurtherDetails' and @name = 'FurtherDetails' and @title = 'Further Details']) = count(//*[@id = 'FurtherDetails' and @name = 'FurtherDetails' and @title = 'Further Details'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>01b86bd0-52fa-4655-a737-9f2b5271b55b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-box multi-line</value>
+      <webElementGuid>f9b06a10-194f-49b1-8562-ebfa81e78d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>value: model.FurtherDetails</value>
+      <webElementGuid>5f6f3a3b-bfb7-42a5-8575-c80660d6192a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>FurtherDetails</value>
+      <webElementGuid>fe34b893-d5e3-47fe-ac5b-e1ee5cdc220f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>FurtherDetails</value>
+      <webElementGuid>bc94c5a4-74f6-49b8-8caa-f96a30900a66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Further Details</value>
+      <webElementGuid>8fad6bc9-05d5-47ac-95f9-09e0b10a5752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FurtherDetails&quot;)</value>
+      <webElementGuid>1618a4d0-c102-41ec-8bdf-8603c683155f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

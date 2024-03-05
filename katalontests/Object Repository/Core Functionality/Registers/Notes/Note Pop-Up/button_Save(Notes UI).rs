@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save(Notes UI)</name>
+   <tag></tag>
+   <elementGuidId>d706e297-c7d5-4de1-a562-efd37ee620c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;noteCrudModal&quot;)/div[@class=&quot;relative top-0 sm:top-10 mx-auto sm:shadow-xl sm:rounded-md bg-white max-w-3xl&quot;]/div[@class=&quot;sm:rounded-b-md overflow-hidden&quot;]/div[@class=&quot;flex justify-between border-t p-3 bg-gray-50&quot;]/div[@class=&quot;flex gap-2&quot;]/button[@class=&quot;inline-flex justify-center rounded-md border border-transparent bg-blue-800 py-1 sm:py-2 px-2 sm:px-4 text-sm font-medium text-white shadow-sm hover:bg-blue-900 focus:outline-none focus-visible:ring-sky-500 focus-visible:ring-2 focus-visible:ring-offset-2 disabled:bg-gray-100 disabled:text-gray-400 disabled:border-gray-300 group&quot;][count(. | //button[@type = 'submit']) = count(//button[@type = 'submit'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>67476545-75c9-40c1-81e0-a2cd9949b5c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex justify-center rounded-md border border-transparent bg-blue-800 py-1 sm:py-2 px-2 sm:px-4 text-sm font-medium text-white shadow-sm hover:bg-blue-900 focus:outline-none focus-visible:ring-sky-500 focus-visible:ring-2 focus-visible:ring-offset-2 disabled:bg-gray-100 disabled:text-gray-400 disabled:border-gray-300 group</value>
+      <webElementGuid>a51a1196-9321-46c8-aec7-72b631743d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>5218b0d4-d378-4e8e-9dd4-455e8c30b3d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Save Working</value>
+      <webElementGuid>2af6728c-92d1-4ed2-96ca-42d7f3fb6064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noteCrudModal&quot;)/div[@class=&quot;relative top-0 sm:top-10 mx-auto sm:shadow-xl sm:rounded-md bg-white max-w-3xl&quot;]/div[@class=&quot;sm:rounded-b-md overflow-hidden&quot;]/div[@class=&quot;flex justify-between border-t p-3 bg-gray-50&quot;]/div[@class=&quot;flex gap-2&quot;]/button[@class=&quot;inline-flex justify-center rounded-md border border-transparent bg-blue-800 py-1 sm:py-2 px-2 sm:px-4 text-sm font-medium text-white shadow-sm hover:bg-blue-900 focus:outline-none focus-visible:ring-sky-500 focus-visible:ring-2 focus-visible:ring-offset-2 disabled:bg-gray-100 disabled:text-gray-400 disabled:border-gray-300 group&quot;]</value>
+      <webElementGuid>2eae1cbd-77cb-466c-a74e-6ed155469dd1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[4]</value>
+      <webElementGuid>f9b9ad29-ca29-420e-b852-8484ef892b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noteCrudModal']/div/div[3]/div/div[2]/button[2]</value>
+      <webElementGuid>80416527-2684-40d5-b5c8-0da1a7f33853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>eb5100a3-8f2e-4dfd-bff7-c8e1a7c2c4a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minute of Occurrence'])[1]/following::button[2]</value>
+      <webElementGuid>dbc0aea0-2e59-4e66-909b-cc9c8b9993c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]</value>
+      <webElementGuid>73bcbe5f-a785-4447-a072-6db597897c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit']</value>
+      <webElementGuid>30b377d5-7c08-489d-b39b-bfb5b8c118e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

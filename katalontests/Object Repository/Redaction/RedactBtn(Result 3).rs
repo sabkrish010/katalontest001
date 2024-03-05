@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RedactBtn(Result 3)</name>
+   <tag></tag>
+   <elementGuidId>5fc033f8-e052-467e-a29e-547e4bdb8892</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#redact-button-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[3]/div/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1469dcd6-6d25-4955-8803-e04c05e350e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1de5305e-8100-4542-9f85-127f7700f1a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden sm:inline-flex justify-center
+                                                        rounded-md border border-gray-300 bg-white
+                                                        py-1 sm:py-2 px-2 sm:px-4
+                                                        text-sm font-medium text-gray-900 shadow-sm
+                                                        hover:bg-gray-100 focus:ring-transparent focus:outline-none focus-visible:ring-sky-500 focus-visible:ring-2 focus-visible:ring-offset-2
+                                                        disabled:bg-gray-200 disabled:text-gray-400</value>
+      <webElementGuid>908de7f9-d252-4312-bd39-7735b702002f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>547b0fd5-ed2d-428b-a489-92fbd9055408</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>click: function () { $parent.confirmRedaction($index()); }, attr: { 'id': 'redact-button-' + $index() }</value>
+      <webElementGuid>1f89d0bb-a7a7-4adb-8d28-cfd48cc822f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>redact-button-2</value>
+      <webElementGuid>c49b0514-005e-47cc-a594-ca19999ee6a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Redact
+                                        </value>
+      <webElementGuid>bd7a50a2-835c-4363-8f7d-2fd3449f3e30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;redact-button-2&quot;)</value>
+      <webElementGuid>4677314a-9ecf-4179-a721-7175aae304a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='redact-button-2']</value>
+      <webElementGuid>90cf5efc-0157-43de-8771-50f832adc0d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='result-content-2']/div/div[2]/button</value>
+      <webElementGuid>b231f12f-aa5a-4de7-9fe7-d1949b3b854d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redaction successful'])[2]/following::button[1]</value>
+      <webElementGuid>34908933-13bc-48ed-a632-5509358b62d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try again'])[2]/following::button[1]</value>
+      <webElementGuid>7f6b8228-56a0-43c3-8928-2561879f79b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[3]/preceding::button[2]</value>
+      <webElementGuid>d1a9e7f8-7aa6-4e9e-b721-042f15a3491a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[3]/preceding::button[2]</value>
+      <webElementGuid>f0f880ab-98c0-4377-8ead-ec8bb6885f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/div[2]/button</value>
+      <webElementGuid>308cdbcf-12c8-44f4-9963-a45461ad759f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'redact-button-2']</value>
+      <webElementGuid>3c3230c4-fe94-4dc0-a57d-98dbae1ce92d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

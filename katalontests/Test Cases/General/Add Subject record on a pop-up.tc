@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Populate subject field on Add pop-up</description>
+   <name>Add Subject record on a pop-up</name>
+   <tag>Links Subject</tag>
+   <comment></comment>
+   <testCaseGuid>3ff0e0e4-6980-4d0a-9ad2-a5485ded9cbe</testCaseGuid>
+</TestCaseEntity>

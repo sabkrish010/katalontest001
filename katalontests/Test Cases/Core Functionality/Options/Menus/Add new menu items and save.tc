@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add a new menu items and save the changes</description>
+   <name>Add new menu items and save</name>
+   <tag>Menu</tag>
+   <comment></comment>
+   <testCaseGuid>cfc7954d-8404-43ce-9047-91e20be2f612</testCaseGuid>
+</TestCaseEntity>

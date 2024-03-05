@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Set file as main attachment on a decision record</name>
+   <tag>Decision Main Attachment</tag>
+   <comment></comment>
+   <testCaseGuid>af309be2-c8b6-4ae4-a93e-d3766d2f3ef3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Type(Add Notes Inv)</name>
+   <tag></tag>
+   <elementGuidId>5975e684-9bed-4c85-9b36-0a03628f90ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='Type'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;dialog1&quot;)/form[1]/fieldset[1]/ul[1]/li[2]/div[@class=&quot;field span8&quot;]/select[@id=&quot;Type&quot;][count(. | //*[@data-bind = concat(&quot;options: clue.lookup(&quot; , &quot;'&quot; , &quot;403ee23d-d21b-423a-8aea-fb4a74fc2b2b&quot; , &quot;'&quot; , &quot;, model.Type()), value: model.Type&quot;) and @id = 'Type' and @name = 'Type' and @title = 'Type']) = count(//*[@data-bind = concat(&quot;options: clue.lookup(&quot; , &quot;'&quot; , &quot;403ee23d-d21b-423a-8aea-fb4a74fc2b2b&quot; , &quot;'&quot; , &quot;, model.Type()), value: model.Type&quot;) and @id = 'Type' and @name = 'Type' and @title = 'Type'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>68994920-6a75-48b0-916f-7bba5349ab01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combo-box editable</value>
+      <webElementGuid>c2125ebd-79d0-4eab-864c-edc79a0d85e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>options: clue.lookup('403ee23d-d21b-423a-8aea-fb4a74fc2b2b', model.Type()), value: model.Type</value>
+      <webElementGuid>bceefb79-2ac0-4b2c-a896-28b40331d196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Type</value>
+      <webElementGuid>6fb4b3c7-4cee-45a2-b6c0-b2700d6de394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Type</value>
+      <webElementGuid>68288c26-0920-4e8b-ba92-fffad44bf525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Type</value>
+      <webElementGuid>c7f91092-c023-4561-9919-eaddea6d8148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dialog1&quot;)/form[1]/fieldset[1]/ul[1]/li[2]/div[@class=&quot;field span8&quot;]/select[@id=&quot;Type&quot;]</value>
+      <webElementGuid>e794ffa5-365d-4754-84f4-3b7f60b693f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='Type'])[3]</value>
+      <webElementGuid>7da2f0da-30d0-4828-a9cf-067f25125595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dialog1']/form/fieldset/ul/li[2]/div[2]/select</value>
+      <webElementGuid>d9d5321b-7dad-4084-b13b-8bb7abcc498c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[2]/following::select[1]</value>
+      <webElementGuid>6e458982-0e61-4f48-ae55-484665ac4c43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference'])[2]/preceding::select[1]</value>
+      <webElementGuid>9c541eda-284c-471c-9d12-ded3027444f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/fieldset/ul/li[2]/div[2]/select</value>
+      <webElementGuid>fcf0e72d-d27c-482d-a28f-e66e63819c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'Type' and @name = 'Type' and @title = 'Type']</value>
+      <webElementGuid>a7a784f1-a9f3-4f63-8f25-f5c6cc4bea7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

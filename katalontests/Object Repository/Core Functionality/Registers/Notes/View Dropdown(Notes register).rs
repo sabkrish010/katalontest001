@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>View Dropdown(Notes register)</name>
+   <tag></tag>
+   <elementGuidId>d8a36a91-dd57-4704-8b43-234263656f00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Views</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;AvailableViews&quot;)[count(. | //*[@id = 'AvailableViews']) = count(//*[@id = 'AvailableViews'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id = 'AvailableViews' and @name = 'AvailableViews']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>447e8611-61fe-4a5c-8424-8ed768ee57fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AvailableViews</value>
+      <webElementGuid>15fb2885-2257-41be-881e-6a54e996eb96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>AvailableViews</value>
+      <webElementGuid>aec9ee6e-a466-4ceb-a116-8fb3b952e05e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    System View
+</value>
+      <webElementGuid>846da015-2f91-48c5-ab46-a672dda3cafd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AvailableViews&quot;)</value>
+      <webElementGuid>314cf17d-5ac1-40c2-ac03-3c2dc575da71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Views']</value>
+      <webElementGuid>7e00909a-48d1-4eaa-a9a8-71ada00aa5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainWrapper']/div[2]/div/ul/li/div/div/select</value>
+      <webElementGuid>0be71afa-14b4-481a-9a34-f403b250ab56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investigation Notes'])[1]/following::select[2]</value>
+      <webElementGuid>0b8ea271-f889-4013-b5f8-811681b209db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::select[2]</value>
+      <webElementGuid>59178cb6-c91c-4ddf-9de8-ae1678abae9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date/Time of Occurrence'])[1]/preceding::select[1]</value>
+      <webElementGuid>ba24cbf8-f916-4538-bd45-f2944ecba4a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[1]/preceding::select[1]</value>
+      <webElementGuid>21834c24-9e15-463e-86b7-707d74048233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/select</value>
+      <webElementGuid>111eee20-052e-4466-8285-6636eddad2e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'Views' and @name = 'Views']</value>
+      <webElementGuid>1e9e3cee-556b-4cc9-8d56-dac641da1fef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

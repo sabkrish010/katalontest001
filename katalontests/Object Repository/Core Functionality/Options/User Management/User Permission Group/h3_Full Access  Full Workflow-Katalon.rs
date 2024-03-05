@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Full Access  Full Workflow-Katalon</name>
+   <tag></tag>
+   <elementGuidId>5793d95b-64ef-4ad5-af09-80ed378762f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/fieldset/div/div/div[4]/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-droppable > div > h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>31cd87af-1e7f-468f-819e-b58c49521eb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: group.name</value>
+      <webElementGuid>12a0b105-fd08-4753-8681-d73a5c99f347</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Full Access &amp; Full Workflow-Katalon</value>
+      <webElementGuid>02071963-9569-48cc-9d69-7eada9b19130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/fieldset[1]/div[1]/div[1]/div[@class=&quot;ui-droppable&quot;]/div[1]/h3[1]</value>
+      <webElementGuid>2e3b2981-c1d2-4de9-ac89-28ba89380a3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/fieldset/div/div/div[4]/div/h3</value>
+      <webElementGuid>c8a0841d-2ea2-4a62-b03c-dcdb35e29e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text input'])[1]/following::h3[1]</value>
+      <webElementGuid>e2eeae24-2365-42d2-8e2f-fa43c4332205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/preceding::h3[1]</value>
+      <webElementGuid>2c01c95a-86f1-449d-8780-0d4db87d72a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/preceding::h3[1]</value>
+      <webElementGuid>5eb1f145-d517-4eb5-800c-19698229f5e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/h3</value>
+      <webElementGuid>3d45c46f-0aeb-4e95-b841-9104b0228d91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

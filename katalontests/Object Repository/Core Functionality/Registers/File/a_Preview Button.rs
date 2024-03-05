@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Preview Button</name>
+   <tag></tag>
+   <elementGuidId>179560c1-0101-4cdb-b4b7-9953989a7da2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.action > a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;LinksWrapper&quot;)/fieldset[2]/div[1]/div[@class=&quot;list maxWidth&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;action&quot;]/a[1][count(. | //a[@href = '#' and (text() = 'Preview' or . = 'Preview')]) = count(//a[@href = '#' and (text() = 'Preview' or . = 'Preview')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Preview')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c5e36ba8-2fc4-4159-98f1-d8065ead839e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>4fe33de2-a71e-4433-8e8b-e38714d3d85a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>a84ac289-5020-499d-8132-1b68f18fdb54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>visible:$data.Target.PreviewUrl,click: function () { $root.previewFile($data.Target.Id, $data.Target.PreviewUrl, null, $data.Target.FileType, false, $data.Target.FileName, $parent.parentId); }</value>
+      <webElementGuid>0b0b7af3-2c31-423e-99de-69f7c0b4f1c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Preview</value>
+      <webElementGuid>4aaa2e2a-aab2-4ac3-9aec-bde6486bf7d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LinksWrapper&quot;)/fieldset[2]/div[1]/div[@class=&quot;list maxWidth&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;action&quot;]/a[1]</value>
+      <webElementGuid>88cade89-e738-4593-b2ff-8b89c57a2ef7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Preview')]</value>
+      <webElementGuid>183b9fc5-2a2c-4731-a3a2-73aa13a2216f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

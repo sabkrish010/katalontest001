@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to the Lists register</description>
+   <name>Navigate to Lists</name>
+   <tag>Lists</tag>
+   <comment></comment>
+   <testCaseGuid>d467c18f-ff8e-4762-babd-5bff8d496dac</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Surname</name>
+   <tag></tag>
+   <elementGuidId>09720dee-b750-4004-ad24-108e4a18de23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.field.span8 > #Surname</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id='Surname'])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'Surname' and @name = 'Surname' and @title = 'Surname' and @type = 'text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fe8c4f5e-2538-4dea-b8a9-90d1233dfe4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-box single-line</value>
+      <webElementGuid>8512a0c8-46f5-45e5-a572-cbc032edd863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>value: model.Surname</value>
+      <webElementGuid>94610a50-40b1-4594-b982-4025b27065b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Surname</value>
+      <webElementGuid>8398e0f2-0757-421f-aad5-24624c0408dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Surname</value>
+      <webElementGuid>227adff6-3042-4090-94c6-e559c0adf810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Surname</value>
+      <webElementGuid>390814ca-80b5-42c0-a035-5f143fed22a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>bb1bd5e9-fbad-4022-8a68-da9b296ca5f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form4&quot;)/div[2]/fieldset[1]/ul[1]/li[3]/div[@class=&quot;field span8&quot;]/input[@id=&quot;Surname&quot;]</value>
+      <webElementGuid>bd135ac8-552e-4f8b-9702-6cc8726189c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'Surname' and @name = 'Surname' and @title = 'Surname' and @type = 'text']</value>
+      <webElementGuid>9a707a20-583f-47b6-8838-9017dee05449</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

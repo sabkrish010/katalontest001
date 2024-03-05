@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ICCode</name>
+   <tag></tag>
+   <elementGuidId>5c12e51b-c253-4ec9-9099-7233f93c56f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'ICCode' and @name = 'ICCode']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ICCode</value>
+      <webElementGuid>6d886769-70a2-4958-8fc7-2d35121d062e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ICCode</value>
+      <webElementGuid>a9f88b1b-5ba0-4c8a-bdc7-41f4b606641c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

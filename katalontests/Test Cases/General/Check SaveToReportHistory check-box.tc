@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check SaveToReportHistory check-box on the print pop-up</description>
+   <name>Check SaveToReportHistory check-box</name>
+   <tag>Print SaveToReportHistory</tag>
+   <comment></comment>
+   <testCaseGuid>7893dc3d-8b42-4add-b78b-512033145ecf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a new organisation record</description>
+   <name>Add Organisation</name>
+   <tag>Organisation</tag>
+   <comment></comment>
+   <testCaseGuid>dfa286b8-e301-43ef-bd4e-ec67cb21e998</testCaseGuid>
+</TestCaseEntity>

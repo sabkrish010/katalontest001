@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select Add Intelligence</description>
+   <name>Select Add Intelligence (Standard Mode)</name>
+   <tag>Intelligence</tag>
+   <comment></comment>
+   <testCaseGuid>d787feea-d5b5-43ea-b805-a293cc4ad826</testCaseGuid>
+</TestCaseEntity>

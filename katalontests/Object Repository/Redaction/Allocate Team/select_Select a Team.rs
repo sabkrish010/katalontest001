@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select a Team</name>
+   <tag></tag>
+   <elementGuidId>ee2ce685-bc62-4b00-b25f-ab2c4c00158e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='AllocatedToTeamAsText']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#AllocatedToTeamAsText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>daca8e6d-7b97-4b6e-9252-a7cb77c09049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combo-box editable</value>
+      <webElementGuid>318e3d20-f466-4778-a5ad-e59a9cba81aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>visible: toggleAllocateVisible, options: model.selectableteams, value: model.AllocatedToTeamAsText, optionsCaption: 'Select a Team'</value>
+      <webElementGuid>07d0a357-307c-4dd9-9053-4e88d1739c5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AllocatedToTeamAsText</value>
+      <webElementGuid>a10da5ea-9e1b-459e-a3e9-a94127fac8ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>AllocatedToTeamAsText</value>
+      <webElementGuid>65d93252-99b9-4eb2-851b-6ed121e4b3d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Allocated To Team</value>
+      <webElementGuid>158f6cc1-367b-480c-97d6-875b326d7a29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a TeamStructural Team 2Operations TeamFrontierIntelligence Source ManagementCovert SurveillanceA teamz teamnew nameTeam1HB3HB2RedactTriageAlbaniaAndorraArmeniaAustriaAzerbaijanBelarusBelgiumBulgariaCroatiaCyprusCzech RepublicDenmarkEnglandEstoniaNorth MacedoniaFaroe Islands FinlandFranceGeorgiaGermanyGibraltarGreeceHungaryIcelandIsraelItalyKazakhstanKosovoLatviaLiechtensteinLithuaniaLuxembourgMaltaMoldovaMontenegroNetherlandsNorthern IrelandNorwayCentral UEFAUkraineWalesBosnia &amp; HerzegovinaIrelandTurkiyeTraining NAAll Integrity OfficersSwitzerlandSwedenSpainSloveniaSlovakiaSerbiaScotlandSan MarinoRussiaRomaniaPortugalPolandHill team
+</value>
+      <webElementGuid>da907a6c-2de4-4e7e-a147-f000da6b478b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AllocatedToTeamAsText&quot;)</value>
+      <webElementGuid>f7643777-9fe7-436d-a0ae-277afdba36b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='AllocatedToTeamAsText']</value>
+      <webElementGuid>25e0db67-8daa-49eb-bede-c8ef7267d5c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form1']/div[5]/fieldset/ul/li[9]/div[3]/select</value>
+      <webElementGuid>5968accc-64aa-4cb6-a334-d69b5ec11d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allocation'])[1]/following::select[2]</value>
+      <webElementGuid>cf0c4886-675c-4cee-853f-c11f512f5d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA3'])[2]/preceding::select[1]</value>
+      <webElementGuid>ce80c464-7c5a-44a8-89ac-7683f92d5999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/select</value>
+      <webElementGuid>861ae6ab-69d3-4d35-a6f8-1c454be20130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'AllocatedToTeamAsText' and @name = 'AllocatedToTeamAsText' and @title = 'Allocated To Team']</value>
+      <webElementGuid>c85a9619-7a20-4895-9b44-772b1a809461</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_NameValue(CaseClas.)</name>
+   <tag></tag>
+   <elementGuidId>1a02621c-5fe4-45ff-b5fc-ea50252ca07c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.field.span10 > input.text-box.single-line</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a74118f5-04c8-47aa-a910-e795d1753821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-box single-line</value>
+      <webElementGuid>b0100fa0-1b2a-4c08-9fbc-a7e380700cc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>d19ac363-b7d4-48c0-8fa1-60ce951383bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>value: Name</value>
+      <webElementGuid>c59e3803-f511-4f80-93ec-9a7585b23dc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dialog1form&quot;)/fieldset[1]/ul[1]/li[2]/div[@class=&quot;field span10&quot;]/input[@class=&quot;text-box single-line&quot;]</value>
+      <webElementGuid>cbe39de1-c557-48e1-a339-7f5ca6d95bf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[10]</value>
+      <webElementGuid>274d0c56-d962-4b94-827a-e1af3958a38a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='dialog1form']/fieldset/ul/li[2]/div/input</value>
+      <webElementGuid>d2f68de2-e560-4bbd-b9d4-d1a75e8d157c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/input</value>
+      <webElementGuid>e83d5b6f-ebc5-4c3a-8daa-14e20a5f1cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>a6dc8964-6ebc-4c0c-b036-6b41fa303a15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
